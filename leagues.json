@@ -1,10 +1,6 @@
 {
   "leagues": [
     {
-      "name": "FIFA World Cup",
-      "icon": "https://upload.wikimedia.org/wikipedia/en/8/86/FIFA_World_Cup_2022_logo.svg"
-    },
-    {
       "name": "Premier League",
       "icon": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
     },
@@ -35,6 +31,10 @@
     {
       "name": "UEFA Conference League",
       "icon": "https://upload.wikimedia.org/wikipedia/en/3/30/UEFA_Europa_Conference_League_logo.svg"
+    },
+    {
+      "name": "FIFA World Cup",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/8/86/FIFA_World_Cup_2022_logo.svg"
     },
     {
       "name": "UEFA Euro",
@@ -82,4 +82,3 @@
     }
   ]
 }
-```
