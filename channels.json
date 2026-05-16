@@ -1,1 +1,18 @@
-
+{
+  "channels": [
+    {
+      "id": "sky-sports-1",
+      "name": "Sky Sports Main Event",
+      "url": "https://your-stream-url.m3u8",
+      "icon": "https://your-icon-url.png",
+      "category": "SPORTS"
+    },
+    {
+      "id": "espn-live",
+      "name": "ESPN HD",
+      "url": "https://another-stream-url.m3u8",
+      "icon": "https://another-icon-url.png",
+      "category": "SPORTS"
+    }
+  ]
+}
