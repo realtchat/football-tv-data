@@ -5,18 +5,18 @@
       "league": "Premier League",
       "homeTeam": "Liverpool",
       "awayTeam": "Chelsea",
-      "homeLogo": "https://example.com/liverpool.png",
-      "awayLogo": "https://example.com/chelsea.png",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1280px-Chelsea_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
       "date": "2026-05-20",
       "time": "10:30 PM",
       "streams": [
         {
           "name": "HD Server",
-          "url": "https://example.com/stream1.m3u8"
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
         },
         {
           "name": "Backup Server",
-          "url": "https://example.com/stream2.m3u8"
+          "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
         }
       ]
     }
