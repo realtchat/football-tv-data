@@ -39,6 +39,26 @@
           "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
         }
       ]
+    },
+    {
+      "id": 3,
+      "league": "Premier League",
+      "homeTeam": "elona",
+      "awayTeam": "Real",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1280px-Chelsea_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "date": "2026-05-18",
+      "time": "10:30 PM",
+      "streams": [
+        {
+          "name": "HD Server",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+        },
+        {
+          "name": "Backup Server",
+          "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
+        }
+      ]
     }
   ]
 }
