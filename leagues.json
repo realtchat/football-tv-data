@@ -6,7 +6,7 @@
     },
     {
       "name": "UEFA Champions League",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9DQMp7I_PdQ3rSadj3_iUiE4XzPPQ1xNGQ&s"
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e2/UEFA_Champions_League_logo.png"
     },
     {
       "name": "La Liga",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Serie A",
-      "icon": "https://upload.wikimedia.org/wikipedia/en/f/f7/LegaSerieAlogo22.svg"
+      "icon": "https://upload.wikimedia.org/wikipedia/en/e/e1/Serie_A_logo_%282019%29.svg"
     },
     {
       "name": "Bundesliga",
@@ -22,11 +22,63 @@
     },
     {
       "name": "Ligue 1",
-      "icon": "https://upload.wikimedia.org/wikipedia/en/b/ba/Ligue_1_Uber_Eats_logo.svg"
+      "icon": "https://upload.wikimedia.org/wikipedia/en/c/c7/Ligue1.svg"
     },
     {
-      "name": "International",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ad/FIFA_logo_without_slogan.svg"
+      "name": "UEFA Europa League",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/3/3a/UEFA_Europa_League_logo_%282024%29.svg"
+    },
+    {
+      "name": "UEFA Conference League",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/3/30/UEFA_Europa_Conference_League_logo.svg"
+    },
+    {
+      "name": "FIFA World Cup",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/8/86/FIFA_World_Cup_2022_logo.svg"
+    },
+    {
+      "name": "UEFA Euro",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/6/6d/UEFA_Euro_2024_logo.svg"
+    },
+    {
+      "name": "Copa America",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/7/7b/Copa_Am%C3%A9rica_logo_2024.svg"
+    },
+    {
+      "name": "Saudi Pro League",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/f/f5/Saudi_Pro_League_logo.svg"
+    },
+    {
+      "name": "Major League Soccer",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/8/86/Major_League_Soccer_logo.svg"
+    },
+    {
+      "name": "Brasileirao Serie A",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/9/98/Campeonato_Brasileiro_S%C3%A9rie_A_logo.png"
+    },
+    {
+      "name": "Eredivisie",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/7/79/Eredivisie_logo.svg"
+    },
+    {
+      "name": "Primeira Liga",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/f/f8/Liga_Portugal_logo.png"
+    },
+    {
+      "name": "Turkish Super Lig",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/0/05/S%C3%BCper_Lig_logo.svg"
+    },
+    {
+      "name": "AFC Champions League",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/1/12/AFC_Champions_League_logo.svg"
+    },
+    {
+      "name": "Indian Super League",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/1/14/Indian_Super_League_logo.svg"
+    },
+    {
+      "name": "CAF Champions League",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/5/5b/CAF_Champions_League_logo.png"
     }
   ]
 }
