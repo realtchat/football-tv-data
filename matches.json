@@ -1,64 +1,96 @@
 {
   "matches": [
     {
-      "id": 1,
-      "league": "Premier League",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Chelsea",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1280px-Chelsea_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-      "date": "2026-05-18",
-      "time": "02:30 AM",
-      "streams": [
-        {
-          "name": "HD Server",
-          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        },
-        {
-          "name": "Backup Server",
-          "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
-        }
-      ]
+      "id": "m001",
+      "home_team": "Brazil",
+      "away_team": "Argentina",
+      "home_logo": "https://flagcdn.com/w80/br.png",
+      "away_logo": "https://flagcdn.com/w80/ar.png",
+      "kickoff_time": "2026-05-20 12:00:00AM",
+      "league_id": "wc2026",
+      "league_name": "FIFA World Cup 2026",
+      "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2026_FIFA_World_Cup_logo.svg/200px-2026_FIFA_World_Cup_logo.svg.png",
+      "status": "upcoming",
+      "stream_urls": [
+        "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+        "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
+      ],
+      "channels": ["football", "Cricket"],
+      "home_score": 0,
+      "away_score": 0
     },
     {
-      "id": 2,
-      "league": "Premier League",
-      "homeTeam": "BArchelona",
-      "awayTeam": "Realmadrid",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1280px-Chelsea_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-      "date": "2026-05-18",
-      "time": "10:30 PM",
-      "streams": [
-        {
-          "name": "HD Server",
-          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        },
-        {
-          "name": "Backup Server",
-          "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
-        }
-      ]
+      "id": "m002",
+      "home_team": "Germany",
+      "away_team": "France",
+      "home_logo": "https://flagcdn.com/w80/de.png",
+      "away_logo": "https://flagcdn.com/w80/fr.png",
+      "kickoff_time": "2026-06-15 3:00:00PM",
+      "league_id": "wc2026",
+      "league_name": "FIFA World Cup 2026",
+      "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2026_FIFA_World_Cup_logo.svg/200px-2026_FIFA_World_Cup_logo.svg.png",
+      "status": "upcoming",
+      "stream_urls": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ],
+      "channels": ["ch001"],
+      "home_score": 2,
+      "away_score": 1
     },
     {
-      "id": 3,
-      "league": "Premier League",
-      "homeTeam": "elona",
-      "awayTeam": "Real",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1280px-Chelsea_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-      "date": "2026-05-19",
-      "time": "8:12 PM",
-      "streams": [
-        {
-          "name": "HD Server",
-          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        },
-        {
-          "name": "Backup Server",
-          "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
-        }
-      ]
+      "id": "m003",
+      "home_team": "Spain",
+      "away_team": "Italy",
+      "home_logo": "https://flagcdn.com/w80/es.png",
+      "away_logo": "https://flagcdn.com/w80/it.png",
+      "kickoff_time": "2026-06-16 6:00:00PM",
+      "league_id": "euro2026",
+      "league_name": "UEFA Euro 2026",
+      "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/UEFA_Euro_2024_Logo.svg/200px-UEFA_Euro_2024_Logo.svg.png",
+      "status": "upcoming",
+      "stream_urls": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ],
+      "channels": ["ch002"],
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "id": "m004",
+      "home_team": "England",
+      "away_team": "Portugal",
+      "home_logo": "https://flagcdn.com/w80/gb-eng.png",
+      "away_logo": "https://flagcdn.com/w80/pt.png",
+      "kickoff_time": "2026-05-19 11:30:00PM",
+      "league_id": "euro2026",
+      "league_name": "UEFA Euro 2026",
+      "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/UEFA_Euro_2024_Logo.svg/200px-UEFA_Euro_2024_Logo.svg.png",
+      "status": "live",
+      "stream_urls": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+      ],
+      "channels": ["ch001", "ch002"],
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "id": "m005",
+      "home_team": "Netherlands",
+      "away_team": "Belgium",
+      "home_logo": "https://flagcdn.com/w80/nl.png",
+      "away_logo": "https://flagcdn.com/w80/be.png",
+      "kickoff_time": "2026-05-20 12:00:00AM",
+      "league_id": "friendly",
+      "league_name": "International Friendly",
+      "league_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_FIFA.svg/200px-Flag_of_FIFA.svg.png",
+      "status": "upcoming",
+      "stream_urls": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ],
+      "channels": ["ch003"],
+      "home_score": 0,
+      "away_score": 0
     }
   ]
 }
