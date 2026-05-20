@@ -15,7 +15,7 @@
         "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
         "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
       ],
-      "channels": ["football", "Cricket"],
+      "channels": ["ch001", "ch002"],
       "home_score": 0,
       "away_score": 0
     },
