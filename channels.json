@@ -4,7 +4,7 @@
       "id": "ch001",
       "name": "Sports HD 1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",
-      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "stream_url": "https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8",
       "category": "Sports",
       "is_hd": true
     },
@@ -12,7 +12,7 @@
       "id": "ch002",
       "name": "Sports HD 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fox_Sports_logo.svg/200px-Fox_Sports_logo.svg.png",
-      "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "stream_url": "https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8",
       "category": "Sports",
       "is_hd": true
     },
