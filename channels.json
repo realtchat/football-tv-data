@@ -1,18 +1,44 @@
 {
   "channels": [
     {
-      "id": "sky-sports-1",
-      "name": "Sky Sports Main Event",
-      "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-      "icon": "https://your-icon-url.png",
-      "category": "SPORTS"
+      "id": "ch001",
+      "name": "Sports HD 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",
+      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "category": "Sports",
+      "is_hd": true
     },
     {
-      "id": "espn-live",
-      "name": "ESPN HD",
-      "url": "https://another-stream-url.m3u8",
-      "icon": "https://another-icon-url.png",
-      "category": "SPORTS"
+      "id": "ch002",
+      "name": "Sports HD 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fox_Sports_logo.svg/200px-Fox_Sports_logo.svg.png",
+      "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Sports",
+      "is_hd": true
+    },
+    {
+      "id": "ch003",
+      "name": "Sports Channel 3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NBC_Sports_logo_2012.svg/200px-NBC_Sports_logo_2012.svg.png",
+      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "category": "Sports",
+      "is_hd": false
+    },
+    {
+      "id": "ch004",
+      "name": "News Channel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/200px-Fox_News_Channel_logo.svg.png",
+      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "category": "News",
+      "is_hd": true
+    },
+    {
+      "id": "ch005",
+      "name": "Entertainment HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png",
+      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "category": "Entertainment",
+      "is_hd": true
     }
   ]
 }
