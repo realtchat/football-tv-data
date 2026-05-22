@@ -13,7 +13,13 @@
     "name": "Star Sports",
     "logo": "https://example.com/star.png",
     "stream": "https://example.com/live.m3u8"
-  },{
+  },
+  {
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },
+  {
     "name": "Star Sports",
     "logo": "https://example.com/star.png",
     "stream": "https://example.com/live.m3u8"
@@ -21,27 +27,28 @@
     "name": "Star Sports",
     "logo": "https://example.com/star.png",
     "stream": "https://example.com/live.m3u8"
-  },{
-    "name": "Star Sports",
+  },
+  {
+    "name": "FC BACELONA TV",
     "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
-  },{
-    "name": "Star Sports",
-    "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
-  },{
+    "stream": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8"
+  },
+  {
     "name": "Star Sports",
     "logo": "https://example.com/star.png",
     "stream": "https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8"
-  },{
+  },
+  {
     "name": "BEIN SPORTS Extra",
     "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
     "stream": "https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8"
-  },{
+  },
+  {
     "name": "BEIN SPORTS Extra+",
     "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
     "stream": "https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8"
-  },{
+  },
+  {
     "name": "GOAL TV",
     "logo": "https://goaltv.ca/static/media/goal-logo-color-1-rgb.84577cb6.png",
     "stream": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
