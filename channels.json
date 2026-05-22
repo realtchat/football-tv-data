@@ -8,5 +8,42 @@
     "name": "Star Sports",
     "logo": "https://example.com/star.png",
     "stream": "https://example.com/live.m3u8"
+  },
+  {
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "Star Sports",
+    "logo": "https://example.com/star.png",
+    "stream": "https://example.com/live.m3u8"
+  },{
+    "name": "GOAL TV",
+    "logo": "https://example.com/star.png",
+    "stream": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8?channel_name=GOAL%20TV&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]"
   }
 ]
