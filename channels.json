@@ -32,13 +32,13 @@
   },{
     "name": "Star Sports",
     "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
+    "stream": "https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8"
   },{
-    "name": "Star Sports",
-    "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
+    "name": "BEIN SPORTS Extra",
+    "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
+    "stream": "https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8"
   },{
-    "name": "BEIN SPORTS",
+    "name": "BEIN SPORTS Extra+",
     "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
     "stream": "https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8"
   },{
