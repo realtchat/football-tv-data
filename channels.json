@@ -43,16 +43,16 @@
     "name": "Sony 4",
     "logo": "http://172.19.178.178/tv/img/sonysportsten4.png",
     "stream": "http://172.19.178.49:18190/sony_sports_ten_5_hd/embed.html?token=9c8bfcf2c59608e59178810be882ad154d2a4b6f-374af1253fe9a608c2399ab8a3ab5aee-1779623284-1779612184&autoplay=false&mute=false"
-  }, 
-  {
-    "name": "TEN Cricket",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvBEBC3TkFJNKJvMcCNhxypBWBEshYwRPIg&s",
-    "stream": "http://172.19.178.49:18190/sony_ten_cricket/embed.html?token=3cad2bb79eab35021d5dc8d69f06b9f6db6eb12d-ad19c5be3e0d08e9030bbe07d0f789c7-1779623808-1779612708&autoplay=true&mute=false"
   },
   {
     "name": "T Sports",
     "logo": "http://172.19.178.178/tv/img/tsports.png",
     "stream": "http://172.19.178.49:18190/t_sports_vip/embed.html?token=f0a4cafdad2e6bae74fa2c660a0155258620e9bd-89831bdcaa46e46986d29fceed2a3630-1779622495-1779611395&autoplay=false&mute=false"
+  },
+  {
+    "name": "TEN Cricket",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvBEBC3TkFJNKJvMcCNhxypBWBEshYwRPIg&s",
+    "stream": "http://172.19.178.49:18190/sony_ten_cricket/embed.html?token=3cad2bb79eab35021d5dc8d69f06b9f6db6eb12d-ad19c5be3e0d08e9030bbe07d0f789c7-1779623808-1779612708&autoplay=true&mute=false"
   },
   {
     "name": "FC BACELONA TV",
