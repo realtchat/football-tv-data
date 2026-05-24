@@ -41,8 +41,8 @@
   }, 
   {
     "name": "Sony 4",
-    "logo": "http://172.19.178.49:18190/sony_sports_ten_5_hd/embed.html?token=9c8bfcf2c59608e59178810be882ad154d2a4b6f-374af1253fe9a608c2399ab8a3ab5aee-1779623284-1779612184&autoplay=false&mute=false",
-    "stream": ""
+    "logo": "http://172.19.178.178/tv/img/sonysportsten4.png",
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_5_hd/embed.html?token=9c8bfcf2c59608e59178810be882ad154d2a4b6f-374af1253fe9a608c2399ab8a3ab5aee-1779623284-1779612184&autoplay=false&mute=false"
   }, 
   {
     "name": "TEN Cricket",
@@ -51,7 +51,7 @@
   },
   {
     "name": "T Sports",
-    "logo": "https://example.com/star.png",
+    "logo": "http://172.19.178.178/tv/img/tsports.png",
     "stream": "http://172.19.178.49:18190/t_sports_vip/embed.html?token=f0a4cafdad2e6bae74fa2c660a0155258620e9bd-89831bdcaa46e46986d29fceed2a3630-1779622495-1779611395&autoplay=false&mute=false"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "name": "Star Sports1",
-    "logo": "https://example.com/star.png",
+    "logo": "http://172.19.178.178/tv/img/starsports1.png",
     "stream": "http://172.19.178.49:18190/star_sports_1_hd/embed.html?token=05b71775f0d29062f00c57f046f72179084f7edb-f7713c8276e400396e36bb3fe45888dd-1779623604-1779612504&autoplay=true&mute=false"
   },
   {
     "name": "Star Sports2",
-    "logo": "https://example.com/star.png",
+    "logo": "http://172.19.178.178/tv/img/starsports2.png",
     "stream": "http://172.19.178.49:18190/star_sports_2_hd/embed.html?token=96fd162ba31bd609a8b511fe2278ff684e6b4ba4-8a4726ec46ea14c5c0d40d90c379e916-1779623653-1779612553&autoplay=true&mute=false"
   },
   {
@@ -85,14 +85,14 @@
     "stream": "http://172.19.178.49:18190/star_sports_select_2_hd/embed.html?token=71c95382be6a02a4cdb22691b8414f2d1d36eccf-cc09f46da0144e2b915905cc82df71cc-1779623554-1779612454&autoplay=false&mute=false"
   },
   {
-    "name": "",
-    "logo": "",
-    "stream": ""
+    "name": "PTV Sports",
+    "logo": "http://172.19.178.178/tv/img/ptvsports.png",
+    "stream": "http://172.19.178.49:18190/ptv_sports_hd/embed.html?token=985097e109138f233b2ce1baa5671504bc24d8e1-9f0baa428d1f528fa4a816bddab0c8cb-1779624091-1779612991&autoplay=false&mute=false"
   },
   {
-    "name": "",
-    "logo": "",
-    "stream": ""
+    "name": "A Sports",
+    "logo": "http://172.19.178.178/tv/img/asports.png",
+    "stream": "http://172.19.178.49:18190/a_sports_hd/embed.html?token=0b3ccefe27d8afc81547956309ff2d8c5a3d48fc-7c99672fdf20df6950b7bb879a9c85ac-1779624243-1779613143&autoplay=false&mute=false"
   },
   {
     "name": "",
