@@ -45,9 +45,9 @@
     "stream": ""
   }, 
   {
-    "name": "Sony 5",
-    "logo": "https://example.com/star.png",
-    "stream": ""
+    "name": "TEN Cricket",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvBEBC3TkFJNKJvMcCNhxypBWBEshYwRPIg&s",
+    "stream": "http://172.19.178.49:18190/sony_ten_cricket/embed.html?token=3cad2bb79eab35021d5dc8d69f06b9f6db6eb12d-ad19c5be3e0d08e9030bbe07d0f789c7-1779623808-1779612708&autoplay=true&mute=false"
   },
   {
     "name": "T Sports",
