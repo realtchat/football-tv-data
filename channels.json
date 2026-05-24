@@ -30,18 +30,18 @@
     "stream": "http://172.19.178.49:18190/sony_sports_ten_1_hd/embed.html?token=4721840ada61e878a88580678981f3f820156aeb-1c01d6308c8977d88dfa9a5308d77cbd-1779621711-1779610611"
   },
   {
-    "name": "Star Sports",
+    "name": "sony 2",
     "logo": "https://example.com/star.png",
     "stream": "https://example.com/live.m3u8"
   },
   {
-    "name": "Star Sports",
+    "name": "Sony 3",
     "logo": "https://example.com/star.png",
     "stream": "https://example.com/live.m3u8"
   },{
-    "name": "Star Sports",
+    "name": "T Sports",
     "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
+    "stream": "http://172.19.178.49:18190/t_sports_vip/embed.html?token=f0a4cafdad2e6bae74fa2c660a0155258620e9bd-89831bdcaa46e46986d29fceed2a3630-1779622495-1779611395&autoplay=false&mute=false"
   },
   {
     "name": "FC BACELONA TV",
