@@ -25,9 +25,9 @@
     "stream": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
   },
   {
-    "name": "Star Sports",
+    "name": "Sony 1",
     "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_1_hd/embed.html?token=4721840ada61e878a88580678981f3f820156aeb-1c01d6308c8977d88dfa9a5308d77cbd-1779621711-1779610611"
   },
   {
     "name": "Star Sports",
