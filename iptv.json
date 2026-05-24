@@ -1,17 +1,127 @@
 [
   {
-    "name": "T Sports Live",
-    "logo": "https://example.com/images/tsports.png",
+    "name": "FIFA TV+",
+    "logo": "https://cdn.plus.fifa.com/images/web/logoFIFA.png",
+    "stream": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+  },
+  {
+    "name": "FOX DEPOTES",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYaRVYuD4W_piwxgpm45nmOnrRhaI9rjsCQ&s",
     "stream": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
   },
-  {
-    "name": "Sony Ten 2",
-    "logo": "https://example.com/images/sonyten2.png",
-    "stream": "https://example.com/live/stream2.m3u8"
+    {
+    "name": "BEIN SPORTS Extra",
+    "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
+    "stream": "https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8"
   },
   {
-    "name": "Web TV Channel",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://www.youtube.com/embed/live_id"
+    "name": "BEIN SPORTS Extra+",
+    "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
+    "stream": "https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8"
+  },
+  {
+    "name": "GOAL TV",
+    "logo": "https://goaltv.ca/static/media/goal-logo-color-1-rgb.84577cb6.png",
+    "stream": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
+  },
+  {
+    "name": "Sony 1",
+    "logo": "https://example.com/star.png",
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_1_hd/embed.html?token=4721840ada61e878a88580678981f3f820156aeb-1c01d6308c8977d88dfa9a5308d77cbd-1779621711-1779610611"
+  },
+  {
+    "name": "sony 2",
+    "logo": "https://example.com/star.png",
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_2_hd/embed.html?token=9ae51dfb6b602c37df52d351fe52aff755c32710-d05406e8083f7847e42a5b8e9341ff28-1779622989-1779611889&autoplay=false&mute=false"
+  },
+  {
+    "name": "Sony 3",
+    "logo": "https://example.com/star.png",
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_3_hd/embed.html?token=f9f1deb8c7cf3c1efaded368cc1efb3b2301a11d-08d662b0082c79b791f47470193a134b-1779623093-1779611993&autoplay=false&mute=false"
+  }, 
+  {
+    "name": "Sony 4",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten4.png",
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_5_hd/embed.html?token=9c8bfcf2c59608e59178810be882ad154d2a4b6f-374af1253fe9a608c2399ab8a3ab5aee-1779623284-1779612184&autoplay=false&mute=false"
+  },
+  {
+    "name": "T Sports",
+    "logo": "http://172.19.178.178/tv/img/tsports.png",
+    "stream": "http://172.19.178.49:18190/t_sports_vip/embed.html?token=f0a4cafdad2e6bae74fa2c660a0155258620e9bd-89831bdcaa46e46986d29fceed2a3630-1779622495-1779611395&autoplay=false&mute=false"
+  },
+  {
+    "name": "TEN Cricket",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvBEBC3TkFJNKJvMcCNhxypBWBEshYwRPIg&s",
+    "stream": "http://172.19.178.49:18190/sony_ten_cricket/embed.html?token=3cad2bb79eab35021d5dc8d69f06b9f6db6eb12d-ad19c5be3e0d08e9030bbe07d0f789c7-1779623808-1779612708&autoplay=true&mute=false"
+  },
+  {
+    "name": "FC BACELONA TV",
+    "logo": "https://example.com/star.png",
+    "stream": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8"
+  },
+  {
+    "name": "Star Sports1",
+    "logo": "http://172.19.178.178/tv/img/starsports1.png",
+    "stream": "http://172.19.178.49:18190/star_sports_1_hd/embed.html?token=05b71775f0d29062f00c57f046f72179084f7edb-f7713c8276e400396e36bb3fe45888dd-1779623604-1779612504&autoplay=true&mute=false"
+  },
+  {
+    "name": "Star Sports2",
+    "logo": "http://172.19.178.178/tv/img/starsports2.png",
+    "stream": "http://172.19.178.49:18190/star_sports_2_hd/embed.html?token=96fd162ba31bd609a8b511fe2278ff684e6b4ba4-8a4726ec46ea14c5c0d40d90c379e916-1779623653-1779612553&autoplay=true&mute=false"
+  },
+  {
+    "name": "Star Sports3",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",
+    "stream": "http://172.19.178.49:18190/star_sports_3/embed.html?token=1325aa89defd61cdba2718adcfc72c83a57063c4-02e9bc26b1a5b4c4b28e68dbd2413cf2-1779623681-1779612581&autoplay=true&mute=false"
+  },
+  {
+    "name": "Star Sports Select 1",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",
+    "stream": "http://172.19.178.49:18190/star_sports_select_1_hd/embed.html?token=7780c76507850ab2da2a56b5740e1c4f38afd47a-db44f21dc08b653546f7e744618549cd-1779623356-1779612256&autoplay=true&mute=false"
+  },
+  {
+    "name": "Star Sports Select 2",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",
+    "stream": "http://172.19.178.49:18190/star_sports_select_2_hd/embed.html?token=71c95382be6a02a4cdb22691b8414f2d1d36eccf-cc09f46da0144e2b915905cc82df71cc-1779623554-1779612454&autoplay=false&mute=false"
+  },
+  {
+    "name": "PTV Sports",
+    "logo": "http://172.19.178.178/tv/img/ptvsports.png",
+    "stream": "http://172.19.178.49:18190/ptv_sports_hd/embed.html?token=985097e109138f233b2ce1baa5671504bc24d8e1-9f0baa428d1f528fa4a816bddab0c8cb-1779624091-1779612991&autoplay=false&mute=false"
+  },
+  {
+    "name": "A Sports",
+    "logo": "http://172.19.178.178/tv/img/asports.png",
+    "stream": "http://172.19.178.49:18190/a_sports_hd/embed.html?token=0b3ccefe27d8afc81547956309ff2d8c5a3d48fc-7c99672fdf20df6950b7bb879a9c85ac-1779624243-1779613143&autoplay=false&mute=false"
+  },
+  {
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },
+  {
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },
+  {
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },
+  {
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },
+  {
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },
+  {
+    "name": "",
+    "logo": "",
+    "stream": ""
   }
 ]
