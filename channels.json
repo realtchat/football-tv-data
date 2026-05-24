@@ -32,13 +32,24 @@
   {
     "name": "sony 2",
     "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_2_hd/embed.html?token=9ae51dfb6b602c37df52d351fe52aff755c32710-d05406e8083f7847e42a5b8e9341ff28-1779622989-1779611889&autoplay=false&mute=false"
   },
   {
     "name": "Sony 3",
     "logo": "https://example.com/star.png",
-    "stream": "https://example.com/live.m3u8"
-  },{
+    "stream": "http://172.19.178.49:18190/sony_sports_ten_3_hd/embed.html?token=f9f1deb8c7cf3c1efaded368cc1efb3b2301a11d-08d662b0082c79b791f47470193a134b-1779623093-1779611993&autoplay=false&mute=false"
+  }, 
+  {
+    "name": "Sony 4",
+    "logo": "https://example.com/star.png",
+    "stream": ""
+  }, 
+  {
+    "name": "Sony 5",
+    "logo": "https://example.com/star.png",
+    "stream": ""
+  },
+  {
     "name": "T Sports",
     "logo": "https://example.com/star.png",
     "stream": "http://172.19.178.49:18190/t_sports_vip/embed.html?token=f0a4cafdad2e6bae74fa2c660a0155258620e9bd-89831bdcaa46e46986d29fceed2a3630-1779622495-1779611395&autoplay=false&mute=false"
