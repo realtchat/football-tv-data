@@ -48,6 +48,36 @@
     "name": "Star Sports 1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1280px-Star_Sports_1_HD.png",
     "stream": "http://172.19.178.180/play.php?id=9090909090"
+  },
+  {
+    "name": "Star Sports 2",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",
+    "stream": "http://172.19.178.180/play.php?id=1010101010"
+  },
+  {
+    "name": "Star Sports 3",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",
+    "stream": "http://172.19.178.180/play.php?id=2020202020"
+  },
+  {
+    "name": "Sports 9",
+    "logo": "https://example.com/images/webtv.png",
+    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
+  },
+  {
+    "name": "Sports 9",
+    "logo": "https://example.com/images/webtv.png",
+    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
+  },
+  {
+    "name": "Sports 9",
+    "logo": "https://example.com/images/webtv.png",
+    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
+  },
+  {
+    "name": "Sports 9",
+    "logo": "https://example.com/images/webtv.png",
+    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
   }
 ]
 
