@@ -1,8 +1,8 @@
 [
   {
-    "name": "Sports 1",
-    "logo": "https://example.com/images/tsports.png",
-    "stream": "https://iptv.watchtvs.live/watch/ACISportTV.it"
+    "name": "T-Sports",
+    "logo": "https://tsportscdn.s3.ap-southeast-1.amazonaws.com/uploads/settings/logo.png",
+    "stream": "http://172.19.178.180/play.php?id=8989898989"
   },
   {
     "name": "Sports 2",
@@ -45,9 +45,9 @@
     "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
   },
   {
-    "name": "Sports 10",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
+    "name": "Star Sports 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1280px-Star_Sports_1_HD.png",
+    "stream": "http://172.19.178.180/play.php?id=9090909090"
   }
 ]
 
