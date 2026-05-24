@@ -25,22 +25,22 @@
     "stream": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
   },
   {
-    "name": "Sony 1",
-    "logo": "https://example.com/star.png",
+    "name": "Sony Sports Ten 1",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten1.png",
     "stream": "http://172.19.178.49:18190/sony_sports_ten_1_hd/embed.html?token=4721840ada61e878a88580678981f3f820156aeb-1c01d6308c8977d88dfa9a5308d77cbd-1779621711-1779610611"
   },
   {
-    "name": "sony 2",
-    "logo": "https://example.com/star.png",
+    "name": "Sony Sports Ten 2",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten2.png",
     "stream": "http://172.19.178.49:18190/sony_sports_ten_2_hd/embed.html?token=9ae51dfb6b602c37df52d351fe52aff755c32710-d05406e8083f7847e42a5b8e9341ff28-1779622989-1779611889&autoplay=false&mute=false"
   },
   {
-    "name": "Sony 3",
-    "logo": "https://example.com/star.png",
+    "name": "Sony Sports Ten 3",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten3.png",
     "stream": "http://172.19.178.49:18190/sony_sports_ten_3_hd/embed.html?token=f9f1deb8c7cf3c1efaded368cc1efb3b2301a11d-08d662b0082c79b791f47470193a134b-1779623093-1779611993&autoplay=false&mute=false"
   }, 
   {
-    "name": "Sony 4",
+    "name": "Sony Sports Ten 4",
     "logo": "http://172.19.178.178/tv/img/sonysportsten4.png",
     "stream": "http://172.19.178.49:18190/sony_sports_ten_5_hd/embed.html?token=9c8bfcf2c59608e59178810be882ad154d2a4b6f-374af1253fe9a608c2399ab8a3ab5aee-1779623284-1779612184&autoplay=false&mute=false"
   },
@@ -56,7 +56,7 @@
   },
   {
     "name": "FC BACELONA TV",
-    "logo": "https://example.com/star.png",
+    "logo": "https://m.media-amazon.com/images/I/519HRnFsO8L.png",
     "stream": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8"
   },
   {
@@ -93,31 +93,6 @@
     "name": "A Sports",
     "logo": "http://172.19.178.178/tv/img/asports.png",
     "stream": "http://172.19.178.49:18190/a_sports_hd/embed.html?token=0b3ccefe27d8afc81547956309ff2d8c5a3d48fc-7c99672fdf20df6950b7bb879a9c85ac-1779624243-1779613143&autoplay=false&mute=false"
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
   },
   {
     "name": "",
