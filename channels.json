@@ -62,17 +62,17 @@
   {
     "name": "Star Sports1",
     "logo": "https://example.com/star.png",
-    "stream": ""
+    "stream": "http://172.19.178.49:18190/star_sports_1_hd/embed.html?token=05b71775f0d29062f00c57f046f72179084f7edb-f7713c8276e400396e36bb3fe45888dd-1779623604-1779612504&autoplay=true&mute=false"
   },
   {
     "name": "Star Sports2",
     "logo": "https://example.com/star.png",
-    "stream": ""
+    "stream": "http://172.19.178.49:18190/star_sports_2_hd/embed.html?token=96fd162ba31bd609a8b511fe2278ff684e6b4ba4-8a4726ec46ea14c5c0d40d90c379e916-1779623653-1779612553&autoplay=true&mute=false"
   },
   {
     "name": "Star Sports3",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",
-    "stream": ""
+    "stream": "http://172.19.178.49:18190/star_sports_3/embed.html?token=1325aa89defd61cdba2718adcfc72c83a57063c4-02e9bc26b1a5b4c4b28e68dbd2413cf2-1779623681-1779612581&autoplay=true&mute=false"
   },
   {
     "name": "Star Sports Select 1",
