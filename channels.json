@@ -71,17 +71,17 @@
   },
   {
     "name": "Star Sports3",
-    "logo": "https://example.com/star.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",
     "stream": ""
   },
   {
     "name": "Star Sports Select 1",
-    "logo": "https://example.com/star.png",
-    "stream": ""
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",
+    "stream": "http://172.19.178.49:18190/star_sports_select_1_hd/embed.html?token=7780c76507850ab2da2a56b5740e1c4f38afd47a-db44f21dc08b653546f7e744618549cd-1779623356-1779612256&autoplay=true&mute=false"
   },
   {
     "name": "Star Sports Select 2",
-    "logo": "https://example.com/star.png",
-    "stream": ""
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",
+    "stream": "http://172.19.178.49:18190/star_sports_select_2_hd/embed.html?token=71c95382be6a02a4cdb22691b8414f2d1d36eccf-cc09f46da0144e2b915905cc82df71cc-1779623554-1779612454&autoplay=false&mute=false"
   }
 ]
