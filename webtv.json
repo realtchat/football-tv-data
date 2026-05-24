@@ -1,13 +1,8 @@
 [
   {
-    "name": "TYC Spots",
-    "logo": "https://assets.goal.com/images/v3/blta396e76391fffdfa/TyC_Sports_logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-    "stream": "https://tvgarden.world/ar/EKNDDi7VGJbPZ6"
-  },
-  {
-    "name": "FOX Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
-    "stream": "https://famelack.com/tv/us/PpZ44VFR01MOAT"
+    "name": "Premier League (bein sport)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VQ4-p8xtua86mq77CYgWYiByf8MWUELU2Q&s",
+    "stream": "https://news.kesmer.mom/albaplayer/woorm2/?serv=2"
   },
   {
     "name": "Sports 2",
@@ -44,50 +39,15 @@
     "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
     "stream": "https://toffeelive.com/en/watch/ra2x_pQBrjBfS2_RWG9l"
   },
-  {
-    "name": "Star Sports Select 1",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",
-    "stream": "http://172.19.178.180/play.php?id=3030303030"
+ {
+    "name": "TYC Spots",
+    "logo": "https://assets.goal.com/images/v3/blta396e76391fffdfa/TyC_Sports_logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "stream": "https://tvgarden.world/ar/EKNDDi7VGJbPZ6"
   },
   {
-    "name": "Star Sports Select 2",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
-  },
-  {
-    "name": "Sony Sports Ten 1",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "http://172.19.178.180/play.php?id=5050505050"
-  },
-  {
-    "name": "Sports 9",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
-  },
-  {
-    "name": "Sports 9",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
-  },
-  {
-    "name": "Sports 9",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
-  },
-  {
-    "name": "Sports 9",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
-  },
-  {
-    "name": "Sports 9",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
-  },
-  {
-    "name": "Sports 9",
-    "logo": "https://example.com/images/webtv.png",
-    "stream": "https://11.yallashoot1.cc/albaplayer/ad-premium-1/?serv=3"
+    "name": "FOX Sports",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+    "stream": "https://famelack.com/tv/us/PpZ44VFR01MOAT"
   }
 ]
 
