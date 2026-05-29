@@ -1,1 +1,61 @@
+i want replace home page navbar item IPTV with 'MATCH'. Match page have tab system page ( Today,  Upcoming)
+get data from github matches.json. tab today: live now match show live area (live match card show live indicator, after start time till 120 minute show live match, then it go hide) , then show  other today match. Upcoming tab: show date wise upcoming match. json time is utc time but app need user location wise time. match card max height 80px . need modern well design.  JSON formate is: 
+{
+  "leagues": {
+    "worldcup": {
+      "name": "FIFA World Cup",
+      "servers": [
+        {
+          "name": "Main Server",
+          "url": "https://worldcup-server1.com/live.m3u8"
+        },
+        {
+          "name": "Backup Server",
+          "url": "https://worldcup-server2.com/live.m3u8"
+        }
+      ]
+    },
 
+    "ucl": {
+      "name": "UEFA Champions League",
+      "servers": [
+        {
+          "name": "Main Server",
+          "url": "https://ucl-server1.com/live.m3u8"
+        }
+      ]
+    },
+
+    "laliga": {
+      "name": "La Liga",
+      "servers": [
+        {
+          "name": "Main Server",
+          "url": "https://laliga-server1.com/live.m3u8"
+        }
+      ]
+    }
+  },
+
+  "matches": [
+    {
+      "match_no": 1,
+      "league_id": "worldcup",
+      "team": "Brazil vs Argentina",
+      "date": "2026-06-14",
+      "time": "23:00",
+      "teamA_logo": "logo1.png",
+      "teamB_logo": "logo2.png"
+    },
+
+    {
+      "match_no": 2,
+      "league_id": "ucl",
+      "team": "Real Madrid vs Man City",
+      "date": "2026-06-15",
+      "time": "20:00",
+      "teamA_logo": "logo3.png",
+      "teamB_logo": "logo4.png"
+    }
+  ]
+}
