@@ -8,12 +8,28 @@
           "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
         },
         {
-          "name": "Backup Server",
+          "name": "GOAL TV",
           "url": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
         },
          {
-          "name": "Backup Server",
-          "url": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
+          "name": "PTV Sports",
+          "url": "http://172.16.29.138:8090/hls/ptvsportshd.m3u8"
+        },
+        {
+          "name": "SONY TEN 1",
+          "url": "http://172.16.29.138:8090/hls/tensportshd.m3u8"
+        },
+        {
+          "name": "STAR SPORTS 1",
+          "url": "http://172.16.29.138:8090/hls/StarSports1HD.m3u8"
+        },
+        {
+          "name": "TNT SPORTS 2",
+          "url": "http://172.16.29.138:8090/hls/tntsports2hd.m3u8"
+        },
+        {
+          "name": "BEIN SPORTS1 ENG",
+          "url": "http://172.16.29.138:8090/hls/BeinSports1ENG.m3u8"
         }
       ]
     }
