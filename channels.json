@@ -26,7 +26,7 @@
   },
   {
     "name": "A SPORTS",
-    "logo": "",
+    "logo": "http://172.16.29.28/images/asportse.png",
     "stream": "http://172.16.29.138:8090/hls/ASportsHD.m3u8"
   },
    {
@@ -41,48 +41,48 @@
   },
    {
     "name": "STAR SPORTS SELECT",
-    "logo": "",
+    "logo": "http://172.16.29.28/images/starsportsselect1.png",
     "stream": "http://172.16.29.138:8090/hls/StarSportsSelect1HD.m3u8"
   },
   {
     "name": "STAR SPORTS SELECT 2",
-    "logo": "",
+    "logo": "http://172.16.29.28/images/starsportsselect2hd.png",
     "stream": "http://172.16.29.138:8090/hls/StarSportsSelect2HD.m3u8"
   },{
     "name": "STAR SPORTS 1",
-    "logo": "",
+    "logo": "http://172.16.29.28/images/starsports1.png",
     "stream": "http://172.16.29.138:8090/hls/StarSports1HD.m3u8"
   },{
     "name": "STAR SPORTS 2",
-    "logo": "",
+    "logo": "http://172.16.29.28/images/starsports2.png",
     "stream": "http://172.16.29.138:8090/hls/StarSports2HD.m3u8"
   },{
+    "name": "SONY TEN 1",
+    "logo": "http://172.16.29.28/images/sony-ten-1.png",
+    "stream": "http://172.16.29.138:8090/hls/tensportshd.m3u8"
+  },{
+    "name": "SONY TEN 2",
+    "logo": "http://172.16.29.28/images/sony-ten-2.png",
+    "stream": "http://172.16.29.138:8090/hls/SonyTen1hd.m3u8"
+  },{
+    "name": "SONY TEN 3",
+    "logo": "http://172.16.29.28/images/sony-ten-3.png",
+    "stream": "http://172.16.29.138:8090/hls/SonyTen3hd.m3u8"
+  },{
+    "name": "SONY TEN 5",
+    "logo": "http://172.16.29.28/images/sonyten5.png",
+    "stream": "http://172.16.29.138:8090/hls/SonyTen3hd.m3u8"
+  },{
     "name": "",
-    "logo": "",
+    "logo": "http://172.16.29.28/",
     "stream": ""
   },{
     "name": "",
-    "logo": "",
+    "logo": "http://172.16.29.28/",
     "stream": ""
   },{
     "name": "",
-    "logo": "",
-    "stream": ""
-  },{
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },{
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },{
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },{
-    "name": "",
-    "logo": "",
+    "logo": "http://172.16.29.28/",
     "stream": ""
   },
 
