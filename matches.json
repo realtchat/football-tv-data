@@ -1,5 +1,4 @@
-i want replace home page navbar item IPTV with 'MATCH'. Match page have tab system page ( Today,  Upcoming)
-get data from github matches.json. tab today: live now match show live area (live match card show live indicator, after start time till 120 minute show live match, then it go hide) , then show  other today match. Upcoming tab: show date wise upcoming match. json time is utc time but app need user location wise time. match card max height 80px . need modern well design.  JSON formate is: 
+ 
 {
   "leagues": {
     "worldcup": {
