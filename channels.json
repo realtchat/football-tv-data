@@ -25,6 +25,71 @@
     "stream": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
   },
   {
+    "name": "A SPORTS",
+    "logo": "",
+    "stream": "http://172.16.29.138:8090/hls/ASportsHD.m3u8"
+  },
+   {
+    "name": "T SPORTS",
+    "logo": "http://172.16.29.28/images/TSports.jpg",
+    "stream": "http://172.16.29.138:8090/hls/tsportshd.m3u8"
+  },
+   {
+    "name": "PTV SPORTS",
+    "logo": "http://172.16.29.28/images/ptvsports.png",
+    "stream": "http://172.16.29.138:8090/hls/ptvsportshd.m3u8"
+  },
+   {
+    "name": "STAR SPORTS SELECT",
+    "logo": "",
+    "stream": "http://172.16.29.138:8090/hls/StarSportsSelect1HD.m3u8"
+  },
+  {
+    "name": "STAR SPORTS SELECT 2",
+    "logo": "",
+    "stream": "http://172.16.29.138:8090/hls/StarSportsSelect2HD.m3u8"
+  },{
+    "name": "STAR SPORTS 1",
+    "logo": "",
+    "stream": "http://172.16.29.138:8090/hls/StarSports1HD.m3u8"
+  },{
+    "name": "STAR SPORTS 2",
+    "logo": "",
+    "stream": "http://172.16.29.138:8090/hls/StarSports2HD.m3u8"
+  },{
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },{
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },{
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },{
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },{
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },{
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },{
+    "name": "",
+    "logo": "",
+    "stream": ""
+  },
+
+
+
+  
+  {
     "name": "Fox Sports",
     "logo": "http://172.19.178.178/tv/img/sonysportsten1.png",
     "stream": "https://famelack.com/tv/us/PpZ44VFR01MOAT"
