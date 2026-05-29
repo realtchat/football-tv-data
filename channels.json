@@ -89,9 +89,25 @@
     "logo": "http://172.16.29.28/images/willow.png",
     "stream": "http://172.16.29.138:8090/hls/willowcrickethd.m3u8"
   },{
-    "name": "",
-    "logo": "http://172.16.29.28/images/",
-    "stream": ""
+    "name": "TNT SPORTS 2",
+    "logo": "http://172.16.29.28/images/images/tntsports.png",
+    "stream": "http://172.16.29.138:8090/hls/tntsports2hd.m3u8"
+  },{
+    "name": "TNT SPORTS3",
+    "logo": "http://172.16.29.28/images/images/tntsports.png",
+    "stream": "http://172.16.29.138:8090/hls/tntsports3hd.m3u8"
+  },{
+    "name": "TNT SPORTS 4",
+    "logo": "http://172.16.29.28/images/images/tntsports.png",
+    "stream": "http://172.16.29.138:8090/hls/tntsports4hd.m3u8"
+  },{
+    "name": "BEIN SPORTS1 ENG",
+    "logo": "http://172.16.29.28/images/images/bein1.png",
+    "stream": "http://172.16.29.138:8090/hls/BeinSports1ENG.m3u8"
+  },{
+    "name": "WORLD FREE SPORTS",
+    "logo": "http://172.16.29.28/images/sony-ten-1.png",
+    "stream": "http://172.16.29.138:8090/hls/WorldofFreeSports.m3u8"
   },{
     "name": "",
     "logo": "http://172.16.29.28/images/",
