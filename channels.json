@@ -91,7 +91,7 @@
   },{
     "name": "TNT SPORTS 2",
     "logo": "http://172.16.29.28/images/images/tntsports.png",
-    "stream": "http://172.16.29.138:8090/hls/tntsports2hd.m3u8"
+    "stream": "http://172.16.29.226:8090/hls/tntsports2hd.m3u8"
   },{
     "name": "TNT SPORTS3",
     "logo": "http://172.16.29.28/images/images/tntsports.png",
@@ -113,10 +113,6 @@
     "logo": "http://172.16.29.28/images/",
     "stream": ""
   },
-
-
-
-  
   {
     "name": "Fox Sports",
     "logo": "http://172.19.178.178/tv/img/sonysportsten1.png",
