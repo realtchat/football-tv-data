@@ -2,7 +2,7 @@
   {
     "name": "Premier League (bein sport)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VQ4-p8xtua86mq77CYgWYiByf8MWUELU2Q&s",
-    "stream": "https://streamcrichd.com/update/fetch.php?hd=3&embed=1"
+    "stream": "https://streamcrichd.com/update/fetch.php?hd=6&embed=1"
   },
   {
     "name": "DAZN TV",
@@ -55,19 +55,19 @@
     "stream": ""
   },
   {
-    "name": "",
+    "name": "SKY SPORTS MIX",
     "logo": "",
-    "stream": ""
+    "stream": "https://streamcrichd.com/update/fetch.php?hd=5&embed=1"
   },
   {
-    "name": "",
+    "name": "SKY SPORTS MIX",
     "logo": "",
-    "stream": ""
+    "stream": "https://streamcrichd.com/update/fetch.php?hd=7&embed=1"
   },
   {
-    "name": "",
+    "name": "SKY SPORTS ACTION",
     "logo": "",
-    "stream": ""
+    "stream": "https://streamcrichd.com/update/fetch.php?hd=7&embed=1"
   },
   {
     "name": "",
