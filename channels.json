@@ -73,16 +73,28 @@
     "logo": "http://172.16.29.28/images/sonyten5.png",
     "stream": "http://172.16.29.138:8090/hls/SonyTen3hd.m3u8"
   },{
+    "name": "EUROSPORTS",
+    "logo": "http://172.16.29.28/images/eurosport.png",
+    "stream": "http://172.16.29.138:8090/hls/eurosportshd.m3u8"
+  },{
+    "name": "SKY SPORTS GOLF",
+    "logo": "http://172.16.29.28/images/images/skysportsgolfhd.png",
+    "stream": "http://172.16.29.138:8090/hls/SkySportsGolf.m3u8"
+  },{
+    "name": "SKY SPORTS CRICKET",
+    "logo": "http://172.16.29.28/images/images/eurosport.png",
+    "stream": "http://172.16.29.138:8090/hls/SkySportsCricketHD.m3u8"
+  },{
+    "name": "WILLOW CRICKET",
+    "logo": "http://172.16.29.28/images/willow.png",
+    "stream": "http://172.16.29.138:8090/hls/willowcrickethd.m3u8"
+  },{
     "name": "",
-    "logo": "http://172.16.29.28/",
+    "logo": "http://172.16.29.28/images/",
     "stream": ""
   },{
     "name": "",
-    "logo": "http://172.16.29.28/",
-    "stream": ""
-  },{
-    "name": "",
-    "logo": "http://172.16.29.28/",
+    "logo": "http://172.16.29.28/images/",
     "stream": ""
   },
 
