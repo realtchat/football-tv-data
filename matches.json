@@ -32,10 +32,205 @@
           "url": "http://172.16.29.138:8090/hls/BeinSports1ENG.m3u8"
         }
       ]
+    },
+    ,
+
+    "ucl": {
+      "name": "UEFA Champions League",
+      "servers": [
+        {
+          "name": "Main Server",
+          "url": "https://ucl-server1.com/live.m3u8"
+        }
+      ]
+    },
+
+    "laliga": {
+      "name": "La Liga",
+      "servers": [
+        {
+          "name": "Main Server",
+          "url": "https://laliga-server1.com/live.m3u8"
+        }
+      ]
+    },
+
+    "champions_league": {
+      "name": "La Liga",
+      "servers": [
+        {
+          "name": "Main Server",
+          "url": "https://1.goheali.com/splayer/Live1.php"
+        }
+      ]
+    }
+    ,
+
+    "international_friendly": {
+      "name": "La Liga",
+      "servers": [
+        {
+          "name": "Main Server",
+          "url": "https://1.goheali.com/splayer/Live1.php"
+        }
+      ]
     }
   },
 
   "matches": [
+  {
+    "match_no": 1,
+    "league_id": "champions_league",
+    "team": "Paris Saint-Germain vs Arsenal",
+    "date": "2026-05-30",
+    "time": "16:00",
+    "teamA_logo": "https://img.uefa.com/imgml/tp/logos/v2/teams/sq/52747.png",
+    "teamB_logo": "https://img.uefa.com/imgml/tp/logos/v2/teams/sq/52280.png"
+  },
+  {
+    "match_no": 2,
+    "league_id": "international_friendly",
+    "team": "Scotland vs Curacao",
+    "date": "2026-05-30",
+    "time": "15:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SCO",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW"
+  },
+  {
+    "match_no": 3,
+    "league_id": "womens_fa_cup",
+    "team": "Brighton & Hove Albion Women vs Manchester City Women",
+    "date": "2026-05-31",
+    "time": "15:00",
+    "teamA_logo": "https://images.thefa.com/thefa/brighton-hove-albion-women",
+    "teamB_logo": "https://images.thefa.com/thefa/manchester-city-women"
+  },
+  {
+    "match_no": 4,
+    "league_id": "international_friendly",
+    "team": "Mexico vs Australia",
+    "date": "2026-05-31",
+    "time": "02:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS"
+  },
+  {
+    "match_no": 5,
+    "league_id": "international_friendly",
+    "team": "Germany vs Finland",
+    "date": "2026-05-31",
+    "time": "18:45",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/FIN"
+  },
+  {
+    "match_no": 6,
+    "league_id": "international_friendly",
+    "team": "Ecuador vs Saudi Arabia",
+    "date": "2026-05-31",
+    "time": "23:30",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
+  },
+  {
+    "match_no": 7,
+    "league_id": "international_friendly",
+    "team": "Bulgaria vs Montenegro",
+    "date": "2026-06-01",
+    "time": "09:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BUL",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MNE"
+  },
+  {
+    "match_no": 8,
+    "league_id": "international_friendly",
+    "team": "Slovakia vs Malta",
+    "date": "2026-06-01",
+    "time": "09:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SVK",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MLT"
+  },
+  {
+    "match_no": 9,
+    "league_id": "international_friendly",
+    "team": "Norway vs Sweden",
+    "date": "2026-06-01",
+    "time": "10:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
+  },
+  {
+    "match_no": 10,
+    "league_id": "international_friendly",
+    "team": "Türkiye vs North Macedonia",
+    "date": "2026-06-01",
+    "time": "10:30",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MKD"
+  },
+  {
+    "match_no": 11,
+    "league_id": "international_friendly",
+    "team": "Austria vs Tunisia",
+    "date": "2026-06-01",
+    "time": "11:45",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN"
+  },
+  {
+    "match_no": 12,
+    "league_id": "international_friendly",
+    "team": "Colombia vs Costa Rica",
+    "date": "2026-06-01",
+    "time": "16:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRC"
+  },
+  {
+    "match_no": 13,
+    "league_id": "international_friendly",
+    "team": "Canada vs Uzbekistan",
+    "date": "2026-06-01",
+    "time": "18:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/UZB"
+  },
+  {
+    "match_no": 14,
+    "league_id": "international_friendly",
+    "team": "Croatia vs Belgium",
+    "date": "2026-06-02",
+    "time": "17:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
+  },
+  {
+    "match_no": 15,
+    "league_id": "international_friendly",
+    "team": "Georgia vs Romania",
+    "date": "2026-06-02",
+    "time": "18:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GEO",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ROU"
+  },
+  {
+    "match_no": 16,
+    "league_id": "international_friendly",
+    "team": "Morocco vs Madagascar",
+    "date": "2026-06-02",
+    "time": "18:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MDG"
+  },
+  {
+    "match_no": 17,
+    "league_id": "international_friendly",
+    "team": "Wales vs Ghana",
+    "date": "2026-06-02",
+    "time": "19:45",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/WAL",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA"
+  },
 
 
 
