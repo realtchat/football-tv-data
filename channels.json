@@ -149,66 +149,6 @@
     "stream": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8"
   },
   {
-    "name": "Star Sports1",
-    "logo": "http://172.19.178.178/tv/img/starsports1.png",
-    "stream": "http://172.19.178.49:18190/star_sports_1_hd/embed.html?token=05b71775f0d29062f00c57f046f72179084f7edb-f7713c8276e400396e36bb3fe45888dd-1779623604-1779612504&autoplay=true&mute=false"
-  },
-  {
-    "name": "Star Sports2",
-    "logo": "http://172.19.178.178/tv/img/starsports2.png",
-    "stream": "http://172.19.178.49:18190/star_sports_2_hd/embed.html?token=96fd162ba31bd609a8b511fe2278ff684e6b4ba4-8a4726ec46ea14c5c0d40d90c379e916-1779623653-1779612553&autoplay=true&mute=false"
-  },
-  {
-    "name": "Star Sports3",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",
-    "stream": "http://172.19.178.49:18190/star_sports_3/embed.html?token=1325aa89defd61cdba2718adcfc72c83a57063c4-02e9bc26b1a5b4c4b28e68dbd2413cf2-1779623681-1779612581&autoplay=true&mute=false"
-  },
-  {
-    "name": "Star Sports Select 1",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",
-    "stream": "http://172.19.178.49:18190/star_sports_select_1_hd/embed.html?token=7780c76507850ab2da2a56b5740e1c4f38afd47a-db44f21dc08b653546f7e744618549cd-1779623356-1779612256&autoplay=true&mute=false"
-  },
-  {
-    "name": "Star Sports Select 2",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",
-    "stream": "http://172.19.178.49:18190/star_sports_select_2_hd/embed.html?token=71c95382be6a02a4cdb22691b8414f2d1d36eccf-cc09f46da0144e2b915905cc82df71cc-1779623554-1779612454&autoplay=false&mute=false"
-  },
-  {
-    "name": "PTV Sports",
-    "logo": "http://172.19.178.178/tv/img/ptvsports.png",
-    "stream": "http://172.19.178.49:18190/ptv_sports_hd/embed.html?token=985097e109138f233b2ce1baa5671504bc24d8e1-9f0baa428d1f528fa4a816bddab0c8cb-1779624091-1779612991&autoplay=false&mute=false"
-  },
-  {
-    "name": "A Sports",
-    "logo": "http://172.19.178.178/tv/img/asports.png",
-    "stream": "http://172.19.178.49:18190/a_sports_hd/embed.html?token=0b3ccefe27d8afc81547956309ff2d8c5a3d48fc-7c99672fdf20df6950b7bb879a9c85ac-1779624243-1779613143&autoplay=false&mute=false"
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
-    "name": "",
-    "logo": "",
-    "stream": ""
-  },
-  {
     "name": "",
     "logo": "",
     "stream": ""
