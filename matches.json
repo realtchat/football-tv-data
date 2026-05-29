@@ -1,4 +1,3 @@
- 
 {
   "leagues": {
     "worldcup": {
@@ -13,26 +12,6 @@
           "url": "https://worldcup-server2.com/live.m3u8"
         }
       ]
-    },
-
-    "ucl": {
-      "name": "UEFA Champions League",
-      "servers": [
-        {
-          "name": "Main Server",
-          "url": "https://ucl-server1.com/live.m3u8"
-        }
-      ]
-    },
-
-    "laliga": {
-      "name": "La Liga",
-      "servers": [
-        {
-          "name": "Main Server",
-          "url": "https://laliga-server1.com/live.m3u8"
-        }
-      ]
     }
   },
 
@@ -40,21 +19,137 @@
     {
       "match_no": 1,
       "league_id": "worldcup",
-      "team": "Brazil vs Argentina",
-      "date": "2026-06-14",
-      "time": "23:00",
-      "teamA_logo": "logo1.png",
-      "teamB_logo": "logo2.png"
+      "team": "Mexico vs South Africa",
+      "date": "2026-06-11",
+      "time": "19:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/RSA"
     },
-
     {
       "match_no": 2,
-      "league_id": "ucl",
-      "team": "Real Madrid vs Man City",
-      "date": "2026-06-15",
+      "league_id": "worldcup",
+      "team": "Korea Republic vs Czechia",
+      "date": "2026-06-12",
+      "time": "02:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/KOR",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CZE"
+    },
+    {
+      "match_no": 3,
+      "league_id": "worldcup",
+      "team": "Canada vs Bosnia and Herzegovina",
+      "date": "2026-06-12",
+      "time": "19:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BIH"
+    },
+    {
+      "match_no": 4,
+      "league_id": "worldcup",
+      "team": "USA vs Paraguay",
+      "date": "2026-06-13",
+      "time": "01:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
+    },
+    {
+      "match_no": 5,
+      "league_id": "worldcup",
+      "team": "Qatar vs Switzerland",
+      "date": "2026-06-13",
+      "time": "19:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/QAT",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SUI"
+    },
+    {
+      "match_no": 6,
+      "league_id": "worldcup",
+      "team": "Brazil vs Morocco",
+      "date": "2026-06-13",
+      "time": "22:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
+    },
+    {
+      "match_no": 7,
+      "league_id": "worldcup",
+      "team": "Haiti vs Scotland",
+      "date": "2026-06-14",
+      "time": "01:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/HAI",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SCO"
+    },
+    {
+      "match_no": 8,
+      "league_id": "worldcup",
+      "team": "Australia vs Türkiye",
+      "date": "2026-06-14",
+      "time": "04:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR"
+    },
+    {
+      "match_no": 9,
+      "league_id": "worldcup",
+      "team": "Germany vs Curaçao",
+      "date": "2026-06-14",
+      "time": "17:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW"
+    },
+    {
+      "match_no": 10,
+      "league_id": "worldcup",
+      "team": "Netherlands vs Japan",
+      "date": "2026-06-14",
       "time": "20:00",
-      "teamA_logo": "logo3.png",
-      "teamB_logo": "logo4.png"
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN"
+    },
+    {
+      "match_no": 11,
+      "league_id": "worldcup",
+      "team": "Côte d'Ivoire vs Ecuador",
+      "date": "2026-06-14",
+      "time": "23:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU"
+    },
+    {
+      "match_no": 12,
+      "league_id": "worldcup",
+      "team": "Sweden vs Tunisia",
+      "date": "2026-06-15",
+      "time": "02:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN"
+    },
+    {
+      "match_no": 13,
+      "league_id": "worldcup",
+      "team": "Spain vs Cabo Verde",
+      "date": "2026-06-15",
+      "time": "16:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV"
+    },
+    {
+      "match_no": 14,
+      "league_id": "worldcup",
+      "team": "Belgium vs Egypt",
+      "date": "2026-06-15",
+      "time": "19:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY"
+    },
+    {
+      "match_no": 15,
+      "league_id": "worldcup",
+      "team": "Saudi Arabia vs Uruguay",
+      "date": "2026-06-15",
+      "time": "22:00",
+      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA",
+      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/URU"
     }
   ]
 }
