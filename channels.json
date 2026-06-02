@@ -72,17 +72,17 @@
   },
   {
     "name": "A SPORTS",
-    "logo": "http://172.16.29.28/images/asportse.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/asports/index.m3u8"
   },
    {
     "name": "SONY TEN 1",
-    "logo": "http://172.16.29.28/images/sony-ten-1.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8"
   },
   {
     "name": "SONY TEN 2",
-    "logo": "http://172.16.29.28/images/sony-ten-2.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/1280px-Sony_Sports_Network.svg.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8"
   },
   {
@@ -92,7 +92,7 @@
   },
   {
     "name": "SONY TEN 5",
-    "logo": "http://172.16.29.28/images/sonyten5.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_5_hd/index.m3u8"
   },
   {
@@ -101,14 +101,14 @@
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/willowhd/index.m3u8"
   },
   {
-    "name": "",
-    "logo": "http://172.16.29.28/images/",
-    "stream": ""
+    "name": "KTV SPORTS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeqKTPuxwyR2Qe_AN9GI2gYePMEmzCYZfjT6FE_sfZQ&s=10",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
   },
   {
-    "name": "T Sports",
-    "logo": "http://172.19.178.178/tv/img/tsports.png",
-    "stream": "http://172.19.178.49:18190/t_sports_vip/embed.html?token=f0a4cafdad2e6bae74fa2c660a0155258620e9bd-89831bdcaa46e46986d29fceed2a3630-1779622495-1779611395&autoplay=false&mute=false"
+    "name": "Sports First TV",
+    "logo": "https://image.pitchbook.com/2E1RM3WzaEcT5YmKMAWNAqbofGE1730895344297_200x200",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8"
   },
   {
     "name": "TEN Cricket",
