@@ -10,15 +10,26 @@
     "stream": "https://rs-player.netlify.app/jw-player?url=https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8"
   },
   {
-    "name": "FOX SPORTS",
+    "name": "FOX SPORTS (FIFA)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYaRVYuD4W_piwxgpm45nmOnrRhaI9rjsCQ&s",
-    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/foxsports2/index.m3u8"
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238"
   },
   {
     "name": "FOX DEPOTES",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYaRVYuD4W_piwxgpm45nmOnrRhaI9rjsCQ&s",
     "stream": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
   },
+  {
+    "name": "T SPORTS",
+    "logo": "http://172.16.29.28/images/TSports.jpg",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
+  },
+  {
+    "name": "STAR SPORTS 1",
+    "logo": "http://172.16.29.28/images/starsports1.png",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/sspts1/index.m3u8"
+  },
+  
     {
     "name": "BEIN SPORTS Extra",
     "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
@@ -38,11 +49,6 @@
     "name": "A SPORTS",
     "logo": "http://172.16.29.28/images/asportse.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/asports/index.m3u8"
-  },
-   {
-    "name": "T SPORTS",
-    "logo": "http://172.16.29.28/images/TSports.jpg",
-    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
   },
    {
     "name": "PTV SPORTS",
