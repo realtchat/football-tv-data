@@ -86,7 +86,7 @@
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8"
   },
   {
-    "name": "TEN CRICKET",
+    "name": "SONY TEN CRICKET",
     "logo": "http://172.16.29.28/images/sony-ten-3.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8"
   },
@@ -102,7 +102,7 @@
   },
   {
     "name": "KTV SPORTS",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeqKTPuxwyR2Qe_AN9GI2gYePMEmzCYZfjT6FE_sfZQ&s=10",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/KTV_Sport_Plus_TV_2013_logo.jpg/revision/latest?cb=20251114161610",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
   },
   {
@@ -121,8 +121,53 @@
     "stream": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8"
   },
   {
-    "name": "",
+    "name": "TSN 1",
     "logo": "",
-    "stream": ""
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e5ce886378c54bd381b9833b5d57649a"
+  },
+  {
+    "name": "TSN 3",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fd3b5d71227f183da51caba4325cee10"
+  },
+  {
+    "name": "TALK SPORTS",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779283794&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24b590ae2b7927c00a9acc3a97bc5d86"
+  },
+  {
+    "name": "MARQUEE SPORTS",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a91e537a0eb1a24ed472a508e90fefcc"
+  },
+  {
+    "name": "SPORTS GRID",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779283798&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=652ed8ae174a9efdb335fb31355f0fb5"
+  },
+  {
+    "name": "XTREAM SPORTS",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
+  },
+  {
+    "name": "BAHRAIN SPORTS 1",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+  },
+  {
+    "name": "WILLOW HD",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad"
+  },
+  {
+    "name": "MORE THAN SPORTS",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+  },
+  {
+    "name": "OMAN SPORTS",
+    "logo": "",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
   }
 ]
