@@ -11,7 +11,7 @@
   },
   {
     "name": "FOX SPORTS (FIFA)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYaRVYuD4W_piwxgpm45nmOnrRhaI9rjsCQ&s",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/3840px-FOX_Sports_logo.svg.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "name": "PTV SPORTS",
-    "logo": "http://172.16.29.28/images/ptvsports.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/PtvSports/index.m3u8"
   },
   {
     "name": "T SPORTS",
-    "logo": "http://172.16.29.28/images/TSports.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
   },
   {
@@ -37,7 +37,7 @@
   
   {
     "name": "STAR SPORTS 1",
-    "logo": "http://172.16.29.28/images/starsports1.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/sspts1/index.m3u8"
   },
   {
@@ -56,14 +56,14 @@
     "stream": "https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8"
   },
   {
-    "name": "",
-    "logo": "http://172.16.29.28/images/",
-    "stream": ""
+    "name": "NBC SPORTS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
   },
   {
-    "name": "",
-    "logo": "http://172.16.29.28/images/",
-    "stream": ""
+    "name": "DD SPORTS",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://cdn-6.pishow.tv/live/13/master.m3u8"
   },
   {
     "name": "GOAL TV",
