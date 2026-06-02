@@ -38,7 +38,7 @@
    {
     "name": "T SPORTS",
     "logo": "http://172.16.29.28/images/TSports.jpg",
-    "stream": "http://172.16.29.138:8090/hls/tsportshd.m3u8"
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
   },
    {
     "name": "PTV SPORTS",
@@ -65,19 +65,19 @@
   },{
     "name": "SONY TEN 1",
     "logo": "http://172.16.29.28/images/sony-ten-1.png",
-    "stream": "http://172.16.29.138:8090/hls/tensportshd.m3u8"
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8"
   },{
     "name": "SONY TEN 2",
     "logo": "http://172.16.29.28/images/sony-ten-2.png",
-    "stream": "http://172.16.29.138:8090/hls/SonyTen1hd.m3u8"
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8"
   },{
-    "name": "SONY TEN 3",
+    "name": "TEN CRICKET",
     "logo": "http://172.16.29.28/images/sony-ten-3.png",
-    "stream": "http://172.16.29.138:8090/hls/SonyTen3hd.m3u8"
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8"
   },{
     "name": "SONY TEN 5",
     "logo": "http://172.16.29.28/images/sonyten5.png",
-    "stream": "http://172.16.29.138:8090/hls/SonyTen3hd.m3u8"
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_5_hd/index.m3u8"
   },{
     "name": "EUROSPORTS",
     "logo": "http://172.16.29.28/images/eurosport.png",
@@ -93,7 +93,7 @@
   },{
     "name": "WILLOW CRICKET",
     "logo": "http://172.16.29.28/images/willow.png",
-    "stream": "http://172.16.29.138:8090/hls/willowcrickethd.m3u8"
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/willowhd/index.m3u8"
   },{
     "name": "TNT SPORTS 2",
     "logo": "http://172.16.29.28/images/images/tntsports.png",
