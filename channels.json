@@ -20,16 +20,31 @@
     "stream": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
   },
   {
+    "name": "PTV SPORTS",
+    "logo": "http://172.16.29.28/images/ptvsports.png",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/PtvSports/index.m3u8"
+  },
+  {
     "name": "T SPORTS",
     "logo": "http://172.16.29.28/images/TSports.jpg",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
   },
   {
+    "name": "ESPN SPORTS TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxGkPZVU2mxdsyw2aE1TmbnKir65b9mzTuGdftuaN1g&s",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/espn/index.m3u8?e=1779283793&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cf2b4cb8b6c96ab86daee4299c792295"
+  },
+  
+  {
     "name": "STAR SPORTS 1",
     "logo": "http://172.16.29.28/images/starsports1.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/sspts1/index.m3u8"
   },
-  
+  {
+    "name": "TSN SPORTS 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/3840px-TSN2_New_Logo.svg.png",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779283793&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=636d9b8b83d4316193c2d1c9aad8951c"
+  },
     {
     "name": "BEIN SPORTS Extra",
     "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
@@ -39,6 +54,16 @@
     "name": "BEIN SPORTS Extra+",
     "logo": "https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",
     "stream": "https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8"
+  },
+  {
+    "name": "",
+    "logo": "http://172.16.29.28/images/",
+    "stream": ""
+  },
+  {
+    "name": "",
+    "logo": "http://172.16.29.28/images/",
+    "stream": ""
   },
   {
     "name": "GOAL TV",
@@ -51,103 +76,34 @@
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/asports/index.m3u8"
   },
    {
-    "name": "PTV SPORTS",
-    "logo": "http://172.16.29.28/images/ptvsports.png",
-    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/PtvSports/index.m3u8"
-  },
-   {
-    "name": "STAR SPORTS SELECT",
-    "logo": "http://172.16.29.28/images/starsportsselect1.png",
-    "stream": "http://172.16.29.138:8090/hls/StarSportsSelect1HD.m3u8"
-  },
-  {
-    "name": "STAR SPORTS SELECT 2",
-    "logo": "http://172.16.29.28/images/starsportsselect2hd.png",
-    "stream": "http://172.16.29.138:8090/hls/StarSportsSelect2HD.m3u8"
-  },{
-    "name": "STAR SPORTS 1",
-    "logo": "http://172.16.29.28/images/starsports1.png",
-    "stream": "http://172.16.29.138:8090/hls/StarSports1HD.m3u8"
-  },{
-    "name": "STAR SPORTS 2",
-    "logo": "http://172.16.29.28/images/starsports2.png",
-    "stream": "http://172.16.29.138:8090/hls/StarSports2HD.m3u8"
-  },{
     "name": "SONY TEN 1",
     "logo": "http://172.16.29.28/images/sony-ten-1.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8"
-  },{
+  },
+  {
     "name": "SONY TEN 2",
     "logo": "http://172.16.29.28/images/sony-ten-2.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8"
-  },{
+  },
+  {
     "name": "TEN CRICKET",
     "logo": "http://172.16.29.28/images/sony-ten-3.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8"
-  },{
+  },
+  {
     "name": "SONY TEN 5",
     "logo": "http://172.16.29.28/images/sonyten5.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_5_hd/index.m3u8"
-  },{
-    "name": "EUROSPORTS",
-    "logo": "http://172.16.29.28/images/eurosport.png",
-    "stream": "http://172.16.29.138:8090/hls/eurosportshd.m3u8"
-  },{
-    "name": "SKY SPORTS GOLF",
-    "logo": "http://172.16.29.28/images/images/skysportsgolfhd.png",
-    "stream": "http://172.16.29.138:8090/hls/SkySportsGolf.m3u8"
-  },{
-    "name": "SKY SPORTS CRICKET",
-    "logo": "http://172.16.29.28/images/images/eurosport.png",
-    "stream": "http://172.16.29.138:8090/hls/SkySportsCricketHD.m3u8"
-  },{
+  },
+  {
     "name": "WILLOW CRICKET",
     "logo": "http://172.16.29.28/images/willow.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/willowhd/index.m3u8"
-  },{
-    "name": "TNT SPORTS 2",
-    "logo": "http://172.16.29.28/images/images/tntsports.png",
-    "stream": "http://172.16.29.226:8090/hls/tntsports2hd.m3u8"
-  },{
-    "name": "TNT SPORTS3",
-    "logo": "http://172.16.29.28/images/images/tntsports.png",
-    "stream": "http://172.16.29.138:8090/hls/tntsports3hd.m3u8"
-  },{
-    "name": "TNT SPORTS 4",
-    "logo": "http://172.16.29.28/images/images/tntsports.png",
-    "stream": "http://172.16.29.138:8090/hls/tntsports4hd.m3u8"
-  },{
-    "name": "BEIN SPORTS1 ENG",
-    "logo": "http://172.16.29.28/images/images/bein1.png",
-    "stream": "http://172.16.29.138:8090/hls/BeinSports1ENG.m3u8"
-  },{
-    "name": "WORLD FREE SPORTS",
-    "logo": "http://172.16.29.28/images/sony-ten-1.png",
-    "stream": "http://172.16.29.138:8090/hls/WorldofFreeSports.m3u8"
-  },{
+  },
+  {
     "name": "",
     "logo": "http://172.16.29.28/images/",
     "stream": ""
-  },
-  {
-    "name": "Fox Sports",
-    "logo": "http://172.19.178.178/tv/img/sonysportsten1.png",
-    "stream": "https://famelack.com/tv/us/PpZ44VFR01MOAT"
-  },
-  {
-    "name": "Sony Sports Ten 2",
-    "logo": "http://172.19.178.178/tv/img/sonysportsten2.png",
-    "stream": "http://172.19.178.49:18190/sony_sports_ten_2_hd/embed.html?token=9ae51dfb6b602c37df52d351fe52aff755c32710-d05406e8083f7847e42a5b8e9341ff28-1779622989-1779611889&autoplay=false&mute=false"
-  },
-  {
-    "name": "Sony Sports Ten 3",
-    "logo": "http://172.19.178.178/tv/img/sonysportsten3.png",
-    "stream": "http://172.19.178.49:18190/sony_sports_ten_3_hd/embed.html?token=f9f1deb8c7cf3c1efaded368cc1efb3b2301a11d-08d662b0082c79b791f47470193a134b-1779623093-1779611993&autoplay=false&mute=false"
-  }, 
-  {
-    "name": "Sony Sports Ten 4",
-    "logo": "http://172.19.178.178/tv/img/sonysportsten4.png",
-    "stream": "http://172.19.178.49:18190/sony_sports_ten_5_hd/embed.html?token=9c8bfcf2c59608e59178810be882ad154d2a4b6f-374af1253fe9a608c2399ab8a3ab5aee-1779623284-1779612184&autoplay=false&mute=false"
   },
   {
     "name": "T Sports",
