@@ -1,0 +1,7 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "updateUrl": "https://your-hosting-site.com/app-new-version.apk",
+  "releaseNotes": "New Feature Available",
+  "isForceUpdate": false
+}
