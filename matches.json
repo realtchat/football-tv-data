@@ -16,8 +16,8 @@
           "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
         },
          {
-          "name": "PTV Sports",
-          "url": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/PtvSports/index.m3u8"
+          "name": "T Sports",
+          "url": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
         },
         {
           "name": "CEZE TV Brazil",
