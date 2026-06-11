@@ -14,21 +14,18 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/3840px-FOX_Sports_logo.svg.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238"
   },
-  {
-    "name": "FOX DEPOTES",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYaRVYuD4W_piwxgpm45nmOnrRhaI9rjsCQ&s",
-    "stream": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+   {
+    "name": "T SPORTS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png",
+    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
   },
+  
   {
     "name": "PTV SPORTS",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/PtvSports/index.m3u8"
   },
-  {
-    "name": "T SPORTS",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png",
-    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
-  },
+ 
   {
     "name": "ESPN SPORTS TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxGkPZVU2mxdsyw2aE1TmbnKir65b9mzTuGdftuaN1g&s",
@@ -44,6 +41,11 @@
     "name": "TSN SPORTS 2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/3840px-TSN2_New_Logo.svg.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779283793&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=636d9b8b83d4316193c2d1c9aad8951c"
+  },
+  {
+    "name": "FOX DEPOTES",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYaRVYuD4W_piwxgpm45nmOnrRhaI9rjsCQ&s",
+    "stream": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
   },
     {
     "name": "BEIN SPORTS Extra",
