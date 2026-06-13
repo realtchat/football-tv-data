@@ -4,16 +4,16 @@
       "name": "FIFA World Cup",
       "servers": [
         {
-          "name": "FIFA LIVE 1",
+          "name": "Worldcup Server 1",
           "url": "https://s3.us-east-1.amazonaws.com/yalaproo4/hls/0/stream.m3u8"
         },
         {
-          "name": "FIFA LIVE 2",
+          "name": "Worldcup Server 2",
           "url": "https://s3.us-east-1.amazonaws.com/yalaproo4/hls/0/stream.m3u8"
         },
         {
-          "name": "FOX Sports",
-          "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+          "name": "Worldcup Server 3",
+          "url": "https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8"
         },
          {
           "name": "T Sports",
