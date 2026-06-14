@@ -39,6 +39,16 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s",
     "stream": "https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8"
   },
+{
+    "name": "D Sports",
+    "logo": "https://grupowerthein.com/wp-content/uploads/2026/05/26-dsports.png",
+    "stream": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+  },
+{
+    "name": "SOMOY TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1280px-SOMOY_TV_Logo.svg.png",
+    "stream": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
+  },
   
   {
     "name": "FIFA TV+",
