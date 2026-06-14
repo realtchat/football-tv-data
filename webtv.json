@@ -1,5 +1,10 @@
 [
   {
+    "name": "World cup live",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://top.poiy.online/albaplayer/max1/"
+  },
+  {
     "name": "Premier League (bein sport)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VQ4-p8xtua86mq77CYgWYiByf8MWUELU2Q&s",
     "stream": "https://streamcrichd.com/update/fetch.php?hd=6&embed=1"
