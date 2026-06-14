@@ -24,6 +24,21 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdRw9bVVm4FCzo2NcX0Zm31_N2RLujmlWjS3ysvCcksQ&s=10",
     "stream": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
   },
+  {
+    "name": "TYC Sports Argentina",
+    "logo": "https://cdn.aptoide.com/imgs/8/5/b/85b6f639ad769d64a08e82d7a8079fa8_icon.png",
+    "stream": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+  },
+  {
+    "name": "DAZN TV Sports",
+    "logo": "https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",
+    "stream": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+  },
+  {
+    "name": "TNT SPORTS PREMIUM",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s",
+    "stream": "https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8"
+  },
   
   {
     "name": "FIFA TV+",
