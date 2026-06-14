@@ -28,8 +28,8 @@
           "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
         },
         {
-          "name": "SONY TEN 1",
-          "url": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8"
+          "name": "BEIN SPORTS 1",
+          "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-NpKoYMXHGsDli4YvAIQUye03K9SjHbvyrNYmWLdfNs0GG_V1nQ8CqQjM1Fc675mVSxZfUEgyubZT7ZAacRz8A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8"
         },
         {
           "name": "STAR SPORTS 1",
