@@ -182,22 +182,22 @@
   },
   {
     "name": "TSN 1",
-    "logo": "",
+    "logo": "https://images.seeklogo.com/logo-png/31/1/tsn-1-logo-png_seeklogo-314693.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e5ce886378c54bd381b9833b5d57649a"
   },
   {
     "name": "TSN 3",
-    "logo": "",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fd3b5d71227f183da51caba4325cee10"
   },
   {
     "name": "TALK SPORTS",
-    "logo": "",
+    "logo": "https://i1.sndcdn.com/artworks-000432226866-i1dt1j-t500x500.jpg",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779283794&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24b590ae2b7927c00a9acc3a97bc5d86"
   },
   {
     "name": "MARQUEE SPORTS",
-    "logo": "",
+    "logo": "https://live.bdtype.com/upload/tv/oman-tv-sport.png",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a91e537a0eb1a24ed472a508e90fefcc"
   },
   {
