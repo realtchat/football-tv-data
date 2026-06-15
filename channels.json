@@ -2,17 +2,17 @@
   {
     "name": "Worldcup Live 1",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8"
+    "stream": "https://18.livekoora.blog/albaplayer/live2/?serv=1"
   },
    {
     "name": "Worldcup Live 2",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://s3.us-east-1.amazonaws.com/yalaproo4/hls/0/stream.m3u8"
+    "stream": "https://new.muesra.sbs/albaplayer/yalls1/?serv=1"
   },
  {
     "name": "WOrldCup (BEIN Sports 1)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://top.poiy.online/albaplayer/max1/"
+    "stream": "https://top.poiy.online/albaplayer/max1/?serv=2"
   },
 {
     "name": "WOrldCup (BEIN Sports 3)",
