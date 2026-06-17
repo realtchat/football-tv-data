@@ -3,6 +3,10 @@
     "worldcup": {
       "name": "FIFA World Cup",
       "servers": [
+        {
+          "name": "Worldcup Server 1",
+          "url": "https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8"
+        },
          {
           "name": "Worldcup Server 1",
           "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
