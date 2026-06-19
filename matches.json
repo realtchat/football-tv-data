@@ -4,24 +4,24 @@
       "name": "FIFA World Cup",
       "servers": [
         {
-          "name": "Worldcup Server 1",
+          "name": "Worldcup (D TV)",
           "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
         },
          {
-          "name": "Worldcup Server 1",
+          "name": "Worldcup (Somoy TV)",
           "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
         },
         {
-          "name": "Worldcup Server 2",
+          "name": "Worldcup (Arabic)",
           "url": "https://tops.poiy.online/albaplayer/max1/?serv=1"
         },
         {
-          "name": "Worldcup Server 3",
+          "name": "Worldcup HD",
           "url": "https://top.poiy.online/albaplayer/max1/?serv=0"
         },
        
         {
-          "name": "Worldcup Server 4",
+          "name": "WorldcupHD+",
           "url": "https://top.poiy.online/albaplayer/max1/?serv=2"
         },
          {
