@@ -5,6 +5,10 @@
       "servers": [
         {
           "name": "Worldcup (Somoy TV)",
+          "url": " https://tops.poiy.online/albaplayer/max1/?serv=1"
+        },
+        {
+          "name": "Worldcup (Somoy TV)",
           "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
         },
         {
