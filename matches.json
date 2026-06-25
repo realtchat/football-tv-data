@@ -139,28 +139,9 @@
   },
 
   "matches": [
-```json
 [
   {
     "match_no": 51,
-    "league_id": "worldcup",
-    "team": "South Africa vs South Korea",
-    "date": "2026-06-25",
-    "time": "01:00",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/RSA",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/KOR"
-  },
-  {
-    "match_no": 52,
-    "league_id": "worldcup",
-    "team": "Czech Republic vs Mexico",
-    "date": "2026-06-25",
-    "time": "01:00",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CZE",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX"
-  },
-  {
-    "match_no": 53,
     "league_id": "worldcup",
     "team": "Curaçao vs Ivory Coast",
     "date": "2026-06-25",
@@ -169,7 +150,7 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV"
   },
   {
-    "match_no": 54,
+    "match_no": 52,
     "league_id": "worldcup",
     "team": "Ecuador vs Germany",
     "date": "2026-06-25",
@@ -178,7 +159,7 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER"
   },
   {
-    "match_no": 55,
+    "match_no": 53,
     "league_id": "worldcup",
     "team": "Tunisia vs Netherlands",
     "date": "2026-06-25",
@@ -187,7 +168,7 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED"
   },
   {
-    "match_no": 56,
+    "match_no": 54,
     "league_id": "worldcup",
     "team": "Japan vs Sweden",
     "date": "2026-06-25",
@@ -196,16 +177,7 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
   },
   {
-    "match_no": 57,
-    "league_id": "worldcup",
-    "team": "Türkiye vs USA",
-    "date": "2026-06-26",
-    "time": "02:00",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA"
-  },
-  {
-    "match_no": 58,
+    "match_no": 55,
     "league_id": "worldcup",
     "team": "Paraguay vs Australia",
     "date": "2026-06-26",
@@ -214,7 +186,16 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS"
   },
   {
-    "match_no": 59,
+    "match_no": 56,
+    "league_id": "worldcup",
+    "team": "Türkiye vs USA",
+    "date": "2026-06-26",
+    "time": "02:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA"
+  },
+  {
+    "match_no": 57,
     "league_id": "worldcup",
     "team": "Norway vs France",
     "date": "2026-06-26",
@@ -223,7 +204,7 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
   },
   {
-    "match_no": 60,
+    "match_no": 58,
     "league_id": "worldcup",
     "team": "Senegal vs Iraq",
     "date": "2026-06-26",
@@ -232,16 +213,7 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ"
   },
   {
-    "match_no": 61,
-    "league_id": "worldcup",
-    "team": "Cabo Verde vs Saudi Arabia",
-    "date": "2026-06-27",
-    "time": "00:00",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
-  },
-  {
-    "match_no": 62,
+    "match_no": 59,
     "league_id": "worldcup",
     "team": "Uruguay vs Spain",
     "date": "2026-06-27",
@@ -250,7 +222,16 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
   },
   {
-    "match_no": 63,
+    "match_no": 60,
+    "league_id": "worldcup",
+    "team": "Cabo Verde vs Saudi Arabia",
+    "date": "2026-06-27",
+    "time": "00:00",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
+  },
+  {
+    "match_no": 61,
     "league_id": "worldcup",
     "team": "New Zealand vs Belgium",
     "date": "2026-06-27",
@@ -259,7 +240,7 @@
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
   },
   {
-    "match_no": 64,
+    "match_no": 62,
     "league_id": "worldcup",
     "team": "Egypt vs Iran",
     "date": "2026-06-27",
@@ -267,5 +248,5 @@
     "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY",
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN"
   }
-  ]
+]
 }
