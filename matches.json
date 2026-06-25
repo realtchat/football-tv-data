@@ -4,8 +4,12 @@
       "name": "FIFA World Cup",
       "servers": [
         {
-          "name": "Worldcup (Somoy TV)",
+          "name": "Worldcup (Server 1)",
           "url": "https://new.poiy.online/albaplayer/max1/?serv=1"
+        },
+         {
+          "name": "Worldcup (Server 2)",
+          "url": "https://new.poiy.online/albaplayer/max2/?serv=1"
         },
         {
           "name": "DAZN TV Sports",
