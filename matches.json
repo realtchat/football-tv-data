@@ -202,6 +202,66 @@
     "timezone": "UTC",
     "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA",
     "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
+  },
+    {
+    "match_no": 71,
+    "league_id": "worldcup",
+    "team": "Argentina vs DR Congo",
+    "date": "2026-07-01",
+    "time": "18:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/COD"
+  },
+  {
+    "match_no": 72,
+    "league_id": "worldcup",
+    "team": "Spain vs Croatia",
+    "date": "2026-07-01",
+    "time": "21:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO"
+  },
+  {
+    "match_no": 73,
+    "league_id": "worldcup",
+    "team": "England vs Colombia",
+    "date": "2026-07-02",
+    "time": "01:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL"
+  },
+  {
+    "match_no": 74,
+    "league_id": "worldcup",
+    "team": "Belgium national football team vs Portugal",
+    "date": "2026-07-02",
+    "time": "18:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
+  },
+  {
+    "match_no": 75,
+    "league_id": "worldcup",
+    "team": "Türkiye vs United States",
+    "date": "2026-07-02",
+    "time": "21:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA"
+  },
+  {
+    "match_no": 76,
+    "league_id": "worldcup",
+    "team": "Senegal vs Algeria",
+    "date": "2026-07-03",
+    "time": "01:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SEN",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG"
   }
   ]
 }
