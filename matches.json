@@ -143,173 +143,66 @@
     }
   },
   "matches": [
-    {
-      "match_no": 51,
-      "league_id": "worldcup",
-      "team": "Curaçao vs Ivory Coast",
-      "date": "2026-06-25",
-      "time": "20:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV"
-    },
-    {
-      "match_no": 52,
-      "league_id": "worldcup",
-      "team": "Ecuador vs Germany",
-      "date": "2026-06-25",
-      "time": "20:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER"
-    },
-    {
-      "match_no": 53,
-      "league_id": "worldcup",
-      "team": "Tunisia vs Netherlands",
-      "date": "2026-06-25",
-      "time": "23:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED"
-    },
-    {
-      "match_no": 54,
-      "league_id": "worldcup",
-      "team": "Japan vs Sweden",
-      "date": "2026-06-25",
-      "time": "23:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
-    },
-    {
-      "match_no": 55,
-      "league_id": "worldcup",
-      "team": "Paraguay vs Australia",
-      "date": "2026-06-26",
-      "time": "02:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS"
-    },
-    {
-      "match_no": 56,
-      "league_id": "worldcup",
-      "team": "Türkiye vs USA",
-      "date": "2026-06-26",
-      "time": "02:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA"
-    },
-    {
-      "match_no": 57,
-      "league_id": "worldcup",
-      "team": "Norway vs France",
-      "date": "2026-06-26",
-      "time": "19:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
-    },
-    {
-      "match_no": 58,
-      "league_id": "worldcup",
-      "team": "Senegal vs Iraq",
-      "date": "2026-06-26",
-      "time": "19:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SEN",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ"
-    },
-    {
-      "match_no": 59,
-      "league_id": "worldcup",
-      "team": "Uruguay vs Spain",
-      "date": "2026-06-27",
-      "time": "00:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/URU",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
-    },
-    {
-      "match_no": 60,
-      "league_id": "worldcup",
-      "team": "Cabo Verde vs Saudi Arabia",
-      "date": "2026-06-27",
-      "time": "00:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
-    },
-    {
-      "match_no": 61,
-      "league_id": "worldcup",
-      "team": "New Zealand vs Belgium",
-      "date": "2026-06-27",
-      "time": "03:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NZL",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
-    },
-    {
-      "match_no": 62,
-      "league_id": "worldcup",
-      "team": "Egypt vs Iran",
-      "date": "2026-06-27",
-      "time": "03:00",
-      "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY",
-      "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN"
-    },
-    {
-    "match_no": 63,
-    "league_id": "worldcup",
-    "team": "Panama vs England",
-    "date": "2026-06-27",
-    "time": "21:00",
-    "timezone": "UTC",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAN",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
-  },
-  {
-    "match_no": 64,
-    "league_id": "worldcup",
-    "team": "Croatia vs Ghana",
-    "date": "2026-06-27",
-    "time": "21:00",
-    "timezone": "UTC",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA"
-  },
+[
   {
     "match_no": 65,
     "league_id": "worldcup",
-    "team": "Algeria vs Austria",
-    "date": "2026-06-27",
-    "time": "23:00",
+    "team": "South Africa vs Canada",
+    "date": "2026-06-28",
+    "time": "19:00",
     "timezone": "UTC",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT"
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/RSA",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN"
   },
   {
     "match_no": 66,
     "league_id": "worldcup",
-    "team": "Jordan vs Argentina",
-    "date": "2026-06-28",
-    "time": "02:00",
+    "team": "Brazil vs Japan",
+    "date": "2026-06-29",
+    "time": "17:00",
     "timezone": "UTC",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/JOR",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG"
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN"
   },
   {
     "match_no": 67,
     "league_id": "worldcup",
-    "team": "Colombia vs Portugal",
-    "date": "2026-06-28",
-    "time": "02:00",
+    "team": "Germany vs Paraguay",
+    "date": "2026-06-29",
+    "time": "20:30",
     "timezone": "UTC",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
   },
   {
     "match_no": 68,
     "league_id": "worldcup",
-    "team": "Congo DR vs Uzbekistan",
-    "date": "2026-06-28",
-    "time": "02:00",
+    "team": "Netherlands vs Morocco",
+    "date": "2026-06-30",
+    "time": "01:00",
     "timezone": "UTC",
-    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/COD",
-    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/UZB"
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
+  },
+  {
+    "match_no": 69,
+    "league_id": "worldcup",
+    "team": "Ivory Coast vs Norway",
+    "date": "2026-06-30",
+    "time": "17:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
+  },
+  {
+    "match_no": 70,
+    "league_id": "worldcup",
+    "team": "France vs Sweden",
+    "date": "2026-06-30",
+    "time": "21:00",
+    "timezone": "UTC",
+    "teamA_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA",
+    "teamB_logo": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
   }
 ]
 }
