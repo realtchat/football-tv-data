@@ -1,0 +1,32 @@
+name: Update Matches Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # প্রতিদিন বাংলাদেশ সময় ভোর ৬টা (UTC 00:00) এ চলবে
+  workflow_dispatch: # যখন ইচ্ছা ম্যানুয়ালি চালানোর জন্য
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_matches.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add matches.json
+          git commit -m "Auto-update match list: $(date)" || exit 0
+          git push
