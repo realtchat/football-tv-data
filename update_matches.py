@@ -5,45 +5,62 @@ from datetime import datetime, timedelta
 
 MATCH_FILE = "matches.json"
 
-# প্রধান লিগগুলোর ডাটাবেস (র‍্যাঙ্কিং এবং কাস্টম নামের জন্য)
+# Extensive ESPN League ID Mapping with accurate names and ranks
 LEAGUE_MAP = {
-    # ইউরোপীয় শীর্ষ লিগ
-    '700': {'name': 'Premier League', 'rank': 1, 'slug': 'eng.1'},
-    '706': {'name': 'La Liga', 'rank': 2, 'slug': 'esp.1'},
-    '705': {'name': 'Bundesliga', 'rank': 3, 'slug': 'ger.1'},
-    '708': {'name': 'Serie A', 'rank': 4, 'slug': 'ita.1'},
-    '707': {'name': 'Ligue 1', 'rank': 5, 'slug': 'fra.1'},
-    '710': {'name': 'Eredivisie', 'rank': 12, 'slug': 'ned.1'},
-    '712': {'name': 'Liga Portugal', 'rank': 13, 'slug': 'por.1'},
-    '709': {'name': 'Scottish Premiership', 'rank': 15, 'slug': 'sco.1'},
-    '701': {'name': 'Championship', 'rank': 20, 'slug': 'eng.2'},
-    '702': {'name': 'League One', 'rank': 21, 'slug': 'eng.3'},
-    '766': {'name': 'Turkish Super Lig', 'rank': 22, 'slug': 'tur.1'},
-
-    # ক্লাব কম্পিটিশন
-    '2310': {'name': 'UEFA Champions League', 'rank': 6, 'slug': 'uefa.champions'},
-    '2315': {'name': 'UEFA Europa League', 'rank': 7, 'slug': 'uefa.europa'},
-    '2314': {'name': 'UEFA Conference League', 'rank': 11, 'slug': 'uefa.conf'},
-    '2316': {'name': 'UEFA Nations League', 'rank': 18, 'slug': 'uefa.nations'},
-    '19416': {'name': 'AFC Champions League', 'rank': 22, 'slug': 'afc.champions'},
-
-    # আন্তর্জাতিক
-    '2140': {'name': 'FIFA World Cup', 'rank': 10, 'slug': 'fifa.world'},
-    '2312': {'name': 'UEFA Euro', 'rank': 11, 'slug': 'uefa.euro'},
-    '2313': {'name': 'Copa América', 'rank': 14, 'slug': 'conmebol.america'},
-    '2319': {'name': 'AFC Asian Cup', 'rank': 16, 'slug': 'afc.asian'},
-    '2139': {'name': 'World Cup Qualifiers', 'rank': 25, 'slug': 'fifa.world.q'},
-
-    # আমেরিকা ও এশিয়া
-    '714': {'name': 'MLS', 'rank': 8, 'slug': 'usa.1'},
+    '2140': {'name': 'FIFA World Cup', 'rank': 1, 'slug': 'fifa.world'},
+    '2310': {'name': 'UEFA Champions League', 'rank': 2, 'slug': 'uefa.champions'},
+    '700': {'name': 'Premier League', 'rank': 3, 'slug': 'eng.1'},
+    '706': {'name': 'La Liga', 'rank': 4, 'slug': 'esp.1'},
+    '705': {'name': 'Bundesliga', 'rank': 5, 'slug': 'ger.1'},
+    '708': {'name': 'Serie A', 'rank': 6, 'slug': 'ita.1'},
+    '707': {'name': 'Ligue 1', 'rank': 7, 'slug': 'fra.1'},
+    '2315': {'name': 'UEFA Europa League', 'rank': 8, 'slug': 'uefa.europa'},
     '19434': {'name': 'Saudi Pro League', 'rank': 9, 'slug': 'ksa.1'},
-    '715': {'name': 'Liga MX', 'rank': 17, 'slug': 'mex.1'},
-    '711': {'name': 'Brasileirão', 'rank': 18, 'slug': 'bra.1'},
-    '713': {'name': 'Argentine Primera', 'rank': 19, 'slug': 'arg.1'},
+    '714': {'name': 'MLS', 'rank': 10, 'slug': 'usa.1'},
+    '2312': {'name': 'UEFA Euro', 'rank': 11, 'slug': 'uefa.euro'},
+    '2313': {'name': 'Copa América', 'rank': 12, 'slug': 'conmebol.america'},
+    '2314': {'name': 'UEFA Conference League', 'rank': 13, 'slug': 'uefa.conf'},
+    '710': {'name': 'Eredivisie', 'rank': 14, 'slug': 'ned.1'},
+    '712': {'name': 'Liga Portugal', 'rank': 15, 'slug': 'por.1'},
+    '711': {'name': 'Brasileirão', 'rank': 16, 'slug': 'bra.1'},
+    '713': {'name': 'Argentine Primera', 'rank': 17, 'slug': 'arg.1'},
+    '19416': {'name': 'AFC Champions League', 'rank': 18, 'slug': 'afc.champions'},
+    '766': {'name': 'Turkish Super Lig', 'rank': 19, 'slug': 'tur.1'},
+    '715': {'name': 'Liga MX', 'rank': 20, 'slug': 'mex.1'},
     '1812': {'name': 'Indian Super League', 'rank': 21, 'slug': 'ind.1'},
-    '782': {'name': 'A-League', 'rank': 23, 'slug': 'aus.1'},
-    '774': {'name': 'Chinese Super League', 'rank': 24, 'slug': 'chn.1'}
+    '2316': {'name': 'UEFA Nations League', 'rank': 22, 'slug': 'uefa.nations'},
+    '2319': {'name': 'AFC Asian Cup', 'rank': 23, 'slug': 'afc.asian'},
+    '2139': {'name': 'World Cup Qualifiers', 'rank': 24, 'slug': 'fifa.world.q'},
+    '2322': {'name': 'FA Cup', 'rank': 25, 'slug': 'eng.fa'},
+    '2317': {'name': 'EFL Cup', 'rank': 26, 'slug': 'eng.league_cup'},
+    '2325': {'name': 'Copa del Rey', 'rank': 27, 'slug': 'esp.copa_del_rey'},
+    '2323': {'name': 'DFB-Pokal', 'rank': 28, 'slug': 'ger.dfb_pokal'},
+    '2324': {'name': 'Coppa Italia', 'rank': 29, 'slug': 'ita.coppa_italia'},
+    '701': {'name': 'Championship', 'rank': 30, 'slug': 'eng.2'},
+    '19416': {'name': 'AFC Champions League Elite', 'rank': 31, 'slug': 'afc.champions.elite'}
 }
+
+# Key-word based smart detection for unknown IDs
+KEYWORD_RULES = [
+    {'keywords': ['WORLD CUP', 'WC 2026', 'FIFA'], 'name': 'FIFA World Cup', 'slug': 'fifa.world', 'rank': 1},
+    {'keywords': ['CHAMPIONS LEAGUE', 'UCL'], 'name': 'UEFA Champions League', 'slug': 'uefa.champions', 'rank': 2},
+    {'keywords': ['PREMIER LEAGUE', 'EPL'], 'name': 'Premier League', 'slug': 'eng.1', 'rank': 3},
+    {'keywords': ['LALIGA', 'LA LIGA', 'SPANISH PRIMERA'], 'name': 'La Liga', 'slug': 'esp.1', 'rank': 4},
+    {'keywords': ['BUNDESLIGA'], 'name': 'Bundesliga', 'slug': 'ger.1', 'rank': 5},
+    {'keywords': ['SERIE A'], 'name': 'Serie A', 'slug': 'ita.1', 'rank': 6},
+    {'keywords': ['LIGUE 1'], 'name': 'Ligue 1', 'slug': 'fra.1', 'rank': 7},
+    {'keywords': ['EUROPA LEAGUE', 'UEL'], 'name': 'UEFA Europa League', 'slug': 'uefa.europa', 'rank': 8},
+    {'keywords': ['SAUDI PRO', 'SPL', 'ROSHN'], 'name': 'Saudi Pro League', 'slug': 'ksa.1', 'rank': 9},
+    {'keywords': ['MLS', 'MAJOR LEAGUE'], 'name': 'MLS', 'slug': 'usa.1', 'rank': 10},
+    {'keywords': ['EURO 2024', 'EURO 2028', 'UEFA EURO'], 'name': 'UEFA Euro', 'slug': 'uefa.euro', 'rank': 11},
+    {'keywords': ['COPA AMERICA'], 'name': 'Copa América', 'slug': 'conmebol.america', 'rank': 12},
+    {'keywords': ['CONFERENCE LEAGUE', 'UECL'], 'name': 'UEFA Conference League', 'slug': 'uefa.conf', 'rank': 13},
+    {'keywords': ['ISL', 'INDIAN SUPER'], 'name': 'Indian Super League', 'slug': 'ind.1', 'rank': 21},
+    {'keywords': ['ASIAN CUP', 'AFC'], 'name': 'AFC Asian Cup', 'slug': 'afc.asian', 'rank': 23},
+    {'keywords': ['FA CUP'], 'name': 'FA Cup', 'slug': 'eng.fa', 'rank': 25},
+    {'keywords': ['CARABAO', 'EFL CUP'], 'name': 'EFL Cup', 'slug': 'eng.league_cup', 'rank': 26},
+    {'keywords': ['COPA DEL REY'], 'name': 'Copa del Rey', 'slug': 'esp.copa_del_rey', 'rank': 27},
+]
 
 DEFAULT_SERVERS = [
     {"name": "Server 1", "url": "https://example.com/stream1.m3u8"},
@@ -73,46 +90,51 @@ def update():
         except: pass
 
     match_list = []
-    for i in range(-1, 5):
+    # Fetch from yesterday to 7 days ahead
+    for i in range(-1, 8):
         date_str = (datetime.utcnow() + timedelta(days=i)).strftime('%Y%m%d')
         url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/all/scoreboard?dates={date_str}"
 
         try:
             resp = requests.get(url, timeout=15)
             if resp.status_code != 200: continue
-
             resp_json = resp.json()
             events = resp_json.get('events', [])
-            
-            # মেটাডাটা থেকে লিগের নাম ও স্ল্যাগ ম্যাপ করা (Dynamic Detection)
             api_leagues = {str(l.get('id')): l for l in resp_json.get('leagues', [])}
 
             for event in events:
                 try:
-                    l_id = str(event.get('leagueId'))
-                    api_league_info = api_leagues.get(l_id, {})
+                    league_data = event.get('league', {})
+                    l_id_raw = event.get('leagueId') or league_data.get('id')
+                    l_id = str(l_id_raw) if l_id_raw else "unknown"
 
-                    # নাম নির্ধারণের লজিক
+                    api_league_info = api_leagues.get(l_id, {})
+                    l_display_name = ""
+                    l_slug = ""
+                    l_rank = 999
+
+                    # 1. Exact ID match
                     if l_id in LEAGUE_MAP:
                         l_display_name = LEAGUE_MAP[l_id]['name']
                         l_slug = LEAGUE_MAP[l_id]['slug']
                         l_rank = LEAGUE_MAP[l_id]['rank']
                     else:
-                        # যদি এপিআই-তে থাকে কিন্তু আমাদের লিস্টে নেই
-                        l_display_name = api_league_info.get('name') or event.get('league', {}).get('name', 'Other League')
-                        l_slug = api_league_info.get('slug') or f"league_{l_id}"
-                        l_rank = 999
+                        l_display_name = league_data.get('name') or api_league_info.get('name') or 'Other League'
+                        l_slug = league_data.get('slug') or api_league_info.get('slug') or f"league_{l_id}"
 
-                    # নাম পরিষ্কার করা
-                    if "LALIGA" in l_display_name.upper(): l_display_name = "La Liga"
+                    # 2. Smart keyword detection fallback
+                    event_full_info = (event.get('name', '') + " " + l_display_name + " " + event.get('shortName', '')).upper()
+                    for rule in KEYWORD_RULES:
+                        if any(kw in event_full_info for kw in rule['keywords']):
+                            l_display_name = rule['name']
+                            l_slug = rule['slug']
+                            l_rank = rule['rank']
+                            break
 
+                    # 3. Update League entries
                     if l_slug not in final_data['leagues']:
-                        final_data['leagues'][l_slug] = {
-                            "name": l_display_name,
-                            "servers": DEFAULT_SERVERS
-                        }
+                        final_data['leagues'][l_slug] = {"name": l_display_name, "servers": DEFAULT_SERVERS}
                     else:
-                        # প্রতিবার নাম সিঙ্ক করা
                         final_data['leagues'][l_slug]['name'] = l_display_name
 
                     comp = event['competitions'][0]
@@ -147,13 +169,12 @@ def update():
         except: continue
 
     if match_list:
+        # Sorting: Live matches > League Rank > Date > Time
         match_list.sort(key=lambda x: (x['status'] != 'in', x['league_rank'], x['date'], x['time']))
         final_data['matches'] = match_list
         with open(MATCH_FILE, "w", encoding='utf-8') as f:
             json.dump(final_data, f, indent=4, ensure_ascii=False)
-        print(f"Successfully updated {len(match_list)} matches.")
-    else:
-        print("No matches found.")
+        print(f"Update: {len(match_list)} matches.")
 
 if __name__ == "__main__":
     update()
