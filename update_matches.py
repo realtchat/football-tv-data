@@ -1,5 +1,7 @@
 import requests
 import json
+import time
+import subprocess
 from datetime import datetime, timedelta
 
 # League Ranking and Names
@@ -21,6 +23,8 @@ LEAGUE_CONFIG = {
     'usa.1': {'name': 'MLS', 'rank': 15},
     'ksa.1': {'name': 'Saudi Pro League', 'rank': 16}
 }
+
+import time
 
 def update_data():
     try:
@@ -56,14 +60,19 @@ def update_data():
             dt = datetime.strptime(utc_date, '%Y-%m-%dT%H:%MZ')
             
             # League Info from Config
-            raw_league_id = event['season']['slug'] if 'season' in event else "soccer"
-            # ESPN ids can be more complex, trying to find a match in our config
-            league_info = LEAGUE_CONFIG.get(raw_league_id, {'name': 'Other Leagues', 'rank': 999})
+            # Use event['league']['slug'] for better identification
+            league_obj = event.get('league', {})
+            raw_league_id = league_obj.get('slug', 'soccer')
+            league_display_name = league_obj.get('name', 'Other Leagues')
             
-            # Special check for "International" in the display name if not found
-            league_display_name = event.get('league', {}).get('name', 'Soccer')
-            if "International" in league_display_name or "FIFA" in league_display_name:
-                league_info = LEAGUE_CONFIG['international']
+            league_info = LEAGUE_CONFIG.get(raw_league_id)
+            
+            if not league_info:
+                # Fallback check for International matches
+                if "International" in league_display_name or "FIFA" in league_display_name:
+                    league_info = LEAGUE_CONFIG['international']
+                else:
+                    league_info = {'name': league_display_name, 'rank': 999}
 
             match_data = {
                 "match_no": int(event['id']),
@@ -91,9 +100,29 @@ def update_data():
             json.dump(data, f, indent=4, ensure_ascii=False)
         
         print(f"Update successful. Total: {len(match_list)}")
+        return True
 
     except Exception as e:
         print(f"Error: {e}")
+        return False
+
+def push_to_github():
+    try:
+        # Add files
+        subprocess.run(["git", "add", "matches.json"], check=True)
+        # Commit with timestamp
+        commit_msg = f"Auto-update matches: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+        subprocess.run(["git", "commit", "-m", commit_msg], check=True)
+        # Push to GitHub
+        subprocess.run(["git", "push"], check=True)
+        print("GitHub update successful.")
+    except Exception as e:
+        print(f"GitHub Error: {e}")
 
 if __name__ == "__main__":
-    update_data()
+    while True:
+        if update_data():
+            push_to_github()
+        
+        print(f"Waiting for 15 minutes... (Next update: {(datetime.now() + timedelta(minutes=15)).strftime('%H:%M:%S')})")
+        time.sleep(900)
