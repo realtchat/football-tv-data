@@ -1,32 +1,34 @@
-name: Update Matches Daily
+name: Update Live Scores
 
 on:
   schedule:
-    - cron: '0 0 * * *' # প্রতিদিন বাংলাদেশ সময় ভোর ৬টা (UTC 00:00) এ চলবে
-  workflow_dispatch: # যখন ইচ্ছা ম্যানুয়ালি চালানোর জন্য
+    - cron: '*/10 * * * *' # Runs every 10 minutes
+  workflow_dispatch: # Allows you to run it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
+          python-version: '3.x'
 
       - name: Install dependencies
         run: pip install requests
 
       - name: Run update script
         run: python update_matches.py
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add matches.json
-          git commit -m "Auto-update match list: $(date)" || exit 0
+          git commit -m "Auto-update match scores" || exit 0
           git push
