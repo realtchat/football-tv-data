@@ -5,22 +5,32 @@ from datetime import datetime, timedelta
 
 # Settings
 MATCH_FILE = "matches.json"
-API_KEY = os.getenv("API_FOOTBALL_KEY") # Set this in GitHub Secrets
+# API_FOOTBALL_KEY should be set in GitHub Secrets
+API_KEY = os.getenv("API_FOOTBALL_KEY") 
 API_HOST = "v3.football.api-sports.io"
 BASE_URL = "https://v3.football.api-sports.io"
 
-# Mapping API-Football Names to your App Slugs/Ranks
+# Mapping API-Football League IDs to your App Slugs/Ranks
+# You can find more IDs at https://dashboard.api-football.com/soccer/leagues
 LEAGUE_CONFIG = {
-    "UEFA Champions League": {"slug": "uefa.champions", "rank": 2},
-    "Premier League": {"slug": "eng.1", "rank": 3},
-    "La Liga": {"slug": "esp.1", "rank": 4},
-    "Bundesliga": {"slug": "ger.1", "rank": 5},
-    "Serie A": {"slug": "ita.1", "rank": 6},
-    "Ligue 1": {"slug": "fra.1", "rank": 7},
-    "UEFA Europa League": {"slug": "uefa.europa", "rank": 8},
-    "Saudi Pro League": {"slug": "ksa.1", "rank": 9},
-    "MLS": {"slug": "usa.1", "rank": 10},
-    "World Cup": {"slug": "fifa.world", "rank": 1},
+    "1": {"slug": "fifa.world", "rank": 1},
+    "2": {"slug": "uefa.champions", "rank": 2},
+    "3": {"slug": "uefa.europa", "rank": 8},
+    "39": {"slug": "eng.1", "rank": 3},
+    "140": {"slug": "esp.1", "rank": 4},
+    "78": {"slug": "ger.1", "rank": 5},
+    "135": {"slug": "ita.1", "rank": 6},
+    "61": {"slug": "fra.1", "rank": 7},
+    "307": {"slug": "ksa.1", "rank": 9},
+    "253": {"slug": "usa.1", "rank": 10},
+    "4": {"slug": "uefa.euro", "rank": 11},
+    "9": {"slug": "conmebol.america", "rank": 12},
+    "848": {"slug": "uefa.conf", "rank": 13},
+    "88": {"slug": "ned.1", "rank": 14},
+    "94": {"slug": "por.1", "rank": 15},
+    "71": {"slug": "bra.1", "rank": 16},
+    "103": {"slug": "arg.1", "rank": 17},
+    "40": {"slug": "eng.2", "rank": 30},
 }
 
 DEFAULT_SERVERS = [
@@ -28,7 +38,11 @@ DEFAULT_SERVERS = [
     {"name": "Server 2", "url": "https://example.com/stream2.m3u8"}
 ]
 
-def fetch_matches(date_str):
+def fetch_fixtures(date_str):
+    if not API_KEY:
+        print("Error: API_FOOTBALL_KEY not set.")
+        return []
+    
     headers = {
         'x-rapidapi-key': API_KEY,
         'x-rapidapi-host': API_HOST
@@ -42,13 +56,9 @@ def fetch_matches(date_str):
         return []
 
 def update():
-    if not API_KEY:
-        print("Error: API_FOOTBALL_KEY environment variable not set.")
-        return
-
     print("Updating matches from API-Football...")
     
-    # Preserve existing league/server data
+    # Load old data to preserve manual server changes
     data = {"leagues": {}, "matches": []}
     if os.path.exists(MATCH_FILE):
         try:
@@ -58,14 +68,14 @@ def update():
         except: pass
 
     match_list = []
-    # Fetch data for Today and Tomorrow to save API calls
-    dates_to_fetch = [
+    # Fetch today and tomorrow
+    dates = [
         datetime.utcnow().strftime('%Y-%m-%d'),
         (datetime.utcnow() + timedelta(days=1)).strftime('%Y-%m-%d')
     ]
 
-    for date_str in dates_to_fetch:
-        fixtures = fetch_matches(date_str)
+    for date_str in dates:
+        fixtures = fetch_fixtures(date_str)
         for item in fixtures:
             fixture = item['fixture']
             league = item['league']
@@ -73,19 +83,32 @@ def update():
             goals = item['goals']
             status = fixture['status']
 
-            l_name = league['name']
-            config = LEAGUE_CONFIG.get(l_name, {"slug": f"league_{league['id']}", "rank": 999})
+            l_id = str(league['id'])
+            config = LEAGUE_CONFIG.get(l_id, {"slug": f"league_{l_id}", "rank": 999})
             l_slug = config['slug']
             l_rank = config['rank']
+            l_name = league['name']
 
-            # Add league to metadata if new
+            # Update league metadata
             if l_slug not in data['leagues']:
                 data['leagues'][l_slug] = {"name": l_name, "servers": DEFAULT_SERVERS}
+            else:
+                data['leagues'][l_slug]['name'] = l_name
 
             # Determine Score
             score_text = ""
-            if status['short'] != 'NS': # Not Started
-                score_text = f"{goals['home'] or 0} - {goals['away'] or 0}"
+            if status['short'] not in ['NS', 'TBD']:
+                home_g = goals['home'] if goals['home'] is not None else 0
+                away_g = goals['away'] if goals['away'] is not None else 0
+                score_text = f"{home_g} - {away_g}"
+
+            # Map API status to App status (in, pre, ft)
+            # API Short: NS, 1H, HT, 2H, ET, BT, P, SUSP, INT, FT, AET, PEN
+            app_status = "pre"
+            if status['short'] in ['1H', 'HT', '2H', 'ET', 'BT', 'P']:
+                app_status = "in"
+            elif status['short'] in ['FT', 'AET', 'PEN']:
+                app_status = "ft"
 
             match_list.append({
                 "match_no": fixture['id'],
@@ -95,23 +118,25 @@ def update():
                 "team": f"{teams['home']['name']} vs {teams['away']['name']}",
                 "date": fixture['date'].split('T')[0],
                 "time": fixture['date'].split('T')[1][:5],
-                "status": status['short'].lower(),
+                "status": app_status,
                 "score": score_text,
                 "teamA_logo": teams['home']['logo'],
                 "teamB_logo": teams['away']['logo'],
                 "clock": f"{status['elapsed']}'" if status['elapsed'] else status['long'],
-                "goal_scorers": "", # API-Football requires extra calls for scorers (saves API quota)
+                "goal_scorers": "", # Scorers need extra API calls, leaving empty to save quota
                 "venue": fixture['venue']['name'] or "TBD"
             })
 
     if match_list:
-        # Sort: Live first, then by rank, then time
-        match_list.sort(key=lambda x: (x['status'] not in ['1h', '2h', 'ht'], x['league_rank'], x['date'], x['time']))
+        # Sort: Live first, then by league rank, then by time
+        match_list.sort(key=lambda x: (x['status'] != 'in', x['league_rank'], x['date'], x['time']))
         data['matches'] = match_list
 
         with open(MATCH_FILE, "w", encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
         print(f"Successfully updated {len(match_list)} matches.")
+    else:
+        print("No matches found or API key missing.")
 
 if __name__ == "__main__":
     update()
