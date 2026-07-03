@@ -52,14 +52,6 @@
                     "url": "https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8"
                 },
                 {
-                    "name": "CEZE TV Brazil (sever2)",
-                    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-                },
-                {
-                    "name": "BEIN SPORTS 1",
-                    "url": "https://top.poiy.online/albaplayer/max1/?serv=1"
-                },
-                {
                     "name": "TYC Sports Argentina",
                     "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
                 },
@@ -84,14 +76,6 @@
                 {
                     "name": "Bein Sports 1",
                     "url": "https://s3.us-east-2.amazonaws.com/cdnh121/live/stream/index.m3u8"
-                },
-                {
-                    "name": "SONY TEN 1",
-                    "url": "http://172.16.29.138:8090/hls/tensportshd.m3u8"
-                },
-                {
-                    "name": "STAR SPORTS 1",
-                    "url": "http://172.16.29.138:8090/hls/StarSports1HD.m3u8"
                 }
             ]
         },
@@ -126,14 +110,6 @@
                 {
                     "name": "PTV Sports",
                     "url": "http://172.16.29.138:8090/hls/ptvsportshd.m3u8"
-                },
-                {
-                    "name": "SONY TEN 1",
-                    "url": "http://172.16.29.138:8090/hls/tensportshd.m3u8"
-                },
-                {
-                    "name": "STAR SPORTS 1",
-                    "url": "http://172.16.29.138:8090/hls/StarSports1HD.m3u8"
                 }
             ]
         },
@@ -143,26 +119,6 @@
                 {
                     "name": "FOX Sports",
                     "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
-                },
-                {
-                    "name": "PTV Sports",
-                    "url": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/PtvSports/index.m3u8"
-                },
-                {
-                    "name": "SONY TEN 1",
-                    "url": "https://rs-player.netlify.app/jw-player?url=https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8"
-                },
-                {
-                    "name": "STAR SPORTS 1",
-                    "url": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/sspts1/index.m3u8"
-                },
-                {
-                    "name": "ESPN SPORTS TV",
-                    "url": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/espn/index.m3u8?e=1779283793&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cf2b4cb8b6c96ab86daee4299c792295"
-                },
-                {
-                    "name": "PTV SPORTS",
-                    "url": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/PtvSports/index.m3u8"
                 }
             ]
         }
