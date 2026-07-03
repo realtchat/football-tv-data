@@ -95,6 +95,31 @@
                 }
             ]
         },
+             "quarterfinals": {
+            "name": "La Liga",
+            "servers": [
+                 {
+                    "name": "World cup(4K)",
+                    "url": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8"
+                },
+                {
+                    "name": "World cup(Full HD+)",
+                    "url": "https://kora.depoooo.com/albaplayer/bein-1/?serv=5"
+                },
+                {
+                    "name": "Worldcup (Server 1)",
+                    "url": "https://hello.1yallashoot.com/splayer/Live1.php"
+                },
+                {
+                    "name": "Worldcup (Somoy TV)",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+                },
+                {
+                    "name": "DAZN TV Sports",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+                }
+            ]
+        },
         "champions_league": {
             "name": "Champions League",
             "servers": [
