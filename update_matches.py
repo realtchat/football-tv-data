@@ -35,7 +35,7 @@ def update_data():
 
     today = datetime.utcnow()
     start_date = (today - timedelta(days=2)).strftime('%Y%m%d')
-    end_date = (today + timedelta(days=14)).strftime('%Y%m%d')
+    end_date = (today + timedelta(days=7)).strftime('%Y%m%d')
     
     url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/all/scoreboard?dates={start_date}-{end_date}&limit=1000"
     
