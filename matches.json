@@ -1,5 +1,28 @@
 {
-    "leagues": {},
+    "leagues": {
+        "eng.1": {
+            "name": "English Premier League",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://example.com/stream1.m3u8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://example.com/stream2.m3u8"
+                }
+            ]
+        },
+        "esp.1": {
+            "name": "La Liga",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://example.com/stream1.m3u8"
+                }
+            ]
+        }
+    },
     "matches": [
         {
             "match_no": 401869423,
