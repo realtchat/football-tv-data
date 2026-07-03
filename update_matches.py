@@ -2,7 +2,9 @@ import requests
 import json
 import time
 import subprocess
-from datetime import datetime, timedelta
+import os
+import sys
+from datetime import datetime, timedelta, timezone
 
 # League Ranking and Names
 LEAGUE_CONFIG = {
@@ -24,105 +26,135 @@ LEAGUE_CONFIG = {
     'ksa.1': {'name': 'Saudi Pro League', 'rank': 16}
 }
 
-import time
+def get_scorers(competition):
+    scorers = []
+    details = competition.get('details', [])
+    if not isinstance(details, list):
+        return ""
+        
+    for detail in details:
+        if detail.get('type', {}).get('text') == 'Goal':
+            athletes = detail.get('athletesInvolved', [])
+            player = athletes[0].get('displayName', 'Unknown') if athletes else 'Unknown'
+            clock = detail.get('clock', {}).get('displayValue', '')
+            scorers.append(f"{player} ({clock})")
+    return ", ".join(scorers)
 
 def update_data():
     try:
-        with open('matches.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    except:
         data = {"leagues": {}, "matches": []}
 
-    today = datetime.utcnow()
-    start_date = (today - timedelta(days=2)).strftime('%Y%m%d')
-    end_date = (today + timedelta(days=7)).strftime('%Y%m%d')
-    
-    url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/all/scoreboard?dates={start_date}-{end_date}&limit=1000"
-    
-    match_list = []
-    
-    try:
-        response = requests.get(url, timeout=15)
+        # Use timezone-aware UTC now
+        today = datetime.now(timezone.utc)
+        start_date = (today - timedelta(days=1)).strftime('%Y%m%d')
+        end_date = (today + timedelta(days=3)).strftime('%Y%m%d')
+        
+        url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/all/scoreboard?dates={start_date}-{end_date}&limit=500"
+        
+        match_list = []
+        response = requests.get(url, timeout=20)
+        response.raise_for_status() # Check for HTTP errors
+        
         events = response.json().get('events', [])
         
         for event in events:
-            comp = event['competitions'][0]
-            status_type = event['status']['type']['state']
+            competitions = event.get('competitions', [{}])
+            if not competitions: continue
+            comp = competitions[0]
             
-            home = comp['competitors'][0]
-            away = comp['competitors'][1]
+            status = event.get('status', {})
+            status_type = status.get('type', {}).get('state', 'pre')
+            
+            competitors = comp.get('competitors', [])
+            if len(competitors) < 2: continue
+            
+            home = competitors[0]
+            away = competitors[1]
             
             score_str = ""
             if status_type != 'pre':
-                score_str = f"{home['score']} - {away['score']}"
+                home_score = home.get('score', '0')
+                away_score = away.get('score', '0')
+                score_str = f"{home_score} - {away_score}"
 
-            utc_date = event['date']
-            dt = datetime.strptime(utc_date, '%Y-%m-%dT%H:%MZ')
-            
-            # League Info from Config
-            # Use event['league']['slug'] for better identification
+            utc_date = event.get('date', '')
+            try:
+                dt = datetime.strptime(utc_date, '%Y-%m-%dT%H:%MZ')
+            except ValueError:
+                dt = today
+
             league_obj = event.get('league', {})
             raw_league_id = league_obj.get('slug', 'soccer')
             league_display_name = league_obj.get('name', 'Other Leagues')
             
             league_info = LEAGUE_CONFIG.get(raw_league_id)
-            
             if not league_info:
-                # Fallback check for International matches
                 if "International" in league_display_name or "FIFA" in league_display_name:
                     league_info = LEAGUE_CONFIG['international']
                 else:
                     league_info = {'name': league_display_name, 'rank': 999}
 
+            clock_val = status.get('type', {}).get('detail', '')
+            if status_type == 'in':
+                 clock_val = status.get('displayValue', clock_val)
+
+            scorers_str = get_scorers(comp)
+
             match_data = {
-                "match_no": int(event['id']),
+                "match_no": int(event.get('id', 0)),
                 "league_id": raw_league_id,
                 "league_name": league_info['name'],
                 "league_rank": league_info['rank'],
-                "team": f"{home['team']['displayName']} vs {away['team']['displayName']}",
+                "team": f"{home.get('team', {}).get('displayName', 'TBD')} vs {away.get('team', {}).get('displayName', 'TBD')}",
                 "date": dt.strftime('%Y-%m-%d'),
                 "time": dt.strftime('%H:%M'),
                 "status": status_type,
                 "score": score_str,
-                "teamA_logo": home['team'].get('logo', ''),
-                "teamB_logo": away['team'].get('logo', '')
+                "teamA_logo": home.get('team', {}).get('logo', ''),
+                "teamB_logo": away.get('team', {}).get('logo', ''),
+                "clock": clock_val,
+                "goal_scorers": scorers_str,
+                "venue": comp.get('venue', {}).get('fullName', '')
             }
             match_list.append(match_data)
 
-        # Sorting: 
-        # 1. Status (Live 'in' first)
-        # 2. League Rank (Lower rank number = higher priority)
-        # 3. Date & Time
+        # Sort: Live matches first, then by league rank, then by date/time
         match_list.sort(key=lambda x: (x['status'] != 'in', x['league_rank'], x['date'], x['time']))
 
         data['matches'] = match_list
         with open('matches.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
         
-        print(f"Update successful. Total: {len(match_list)}")
+        print(f"Update successful. Total matches: {len(match_list)}")
         return True
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error during update: {e}")
         return False
 
 def push_to_github():
+    if os.environ.get('GITHUB_ACTIONS'):
+        print("Running in GitHub Actions. Skipping internal git push.")
+        return
+
     try:
-        # Add files
         subprocess.run(["git", "add", "matches.json"], check=True)
-        # Commit with timestamp
         commit_msg = f"Auto-update matches: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
         subprocess.run(["git", "commit", "-m", commit_msg], check=True)
-        # Push to GitHub
         subprocess.run(["git", "push"], check=True)
         print("GitHub update successful.")
     except Exception as e:
-        print(f"GitHub Error: {e}")
+        print(f"Local GitHub Push Error: {e}")
 
 if __name__ == "__main__":
+    if os.environ.get('GITHUB_ACTIONS'):
+        update_data()
+        sys.exit(0)
+    
     while True:
         if update_data():
             push_to_github()
         
-        print(f"Waiting for 15 minutes... (Next update: {(datetime.now() + timedelta(minutes=15)).strftime('%H:%M:%S')})")
+        next_run = (datetime.now() + timedelta(minutes=15)).strftime('%H:%M:%S')
+        print(f"Waiting for 15 minutes... (Next update: {next_run})")
         time.sleep(900)
