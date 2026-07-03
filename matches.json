@@ -35,16 +35,16 @@
                 }
             ]
         },
-        "league_None": {
+        "league_unknown": {
             "name": "Other League",
             "servers": [
                 {
                     "name": "Server 1",
-                    "url": "https://example.com/stream1.m3u8"
+                    "url": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8"
                 },
                 {
                     "name": "Server 2",
-                    "url": "https://example.com/stream2.m3u8"
+                    "url": "https://hello.1yallashoot.com/splayer/Live1.php"
                 }
             ]
         },
@@ -53,11 +53,11 @@
             "servers": [
                 {
                     "name": "Server 1",
-                    "url": "https://example.com/stream1.m3u8"
+                    "url": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8"
                 },
                 {
                     "name": "Server 2",
-                    "url": "https://example.com/stream2.m3u8"
+                    "url": "https://hello.1yallashoot.com/splayer/Live1.php"
                 }
             ]
         },
