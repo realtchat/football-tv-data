@@ -1,15 +1,14 @@
 [
+    {
+    "name": "Worldcup Live 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://pull.niues.live/live/stream-414317_lhd.m3u8"
+  },
   {
     "name": "Worldcup Live 1",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
     "stream": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8"
   },
-  {
-    "name": "Worldcup Live 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://hello.1yallashoot.com/splayer/Live1.php"
-  },
-  
   {
     "name": "Worldcup Live 3",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
