@@ -5,13 +5,12 @@ from datetime import datetime, timedelta
 
 # Settings
 MATCH_FILE = "matches.json"
-# API_FOOTBALL_KEY should be set in GitHub Secrets
+# API_FOOTBALL_KEY should be set in GitHub Secrets or Environment Variables
 API_KEY = os.getenv("API_FOOTBALL_KEY") 
 API_HOST = "v3.football.api-sports.io"
 BASE_URL = "https://v3.football.api-sports.io"
 
 # Mapping API-Football League IDs to your App Slugs/Ranks
-# You can find more IDs at https://dashboard.api-football.com/soccer/leagues
 LEAGUE_CONFIG = {
     "1": {"slug": "fifa.world", "rank": 1},
     "2": {"slug": "uefa.champions", "rank": 2},
@@ -31,6 +30,10 @@ LEAGUE_CONFIG = {
     "71": {"slug": "bra.1", "rank": 16},
     "103": {"slug": "arg.1", "rank": 17},
     "40": {"slug": "eng.2", "rank": 30},
+    "235": {"slug": "afc.champions", "rank": 18},
+    "203": {"slug": "tur.1", "rank": 19},
+    "262": {"slug": "mex.1", "rank": 20},
+    "323": {"slug": "ind.1", "rank": 21},
 }
 
 DEFAULT_SERVERS = [
@@ -40,7 +43,7 @@ DEFAULT_SERVERS = [
 
 def fetch_fixtures(date_str):
     if not API_KEY:
-        print("Error: API_FOOTBALL_KEY not set.")
+        print("Error: API_FOOTBALL_KEY environment variable is not set.")
         return []
     
     headers = {
@@ -49,8 +52,12 @@ def fetch_fixtures(date_str):
     }
     url = f"{BASE_URL}/fixtures?date={date_str}"
     try:
+        print(f"Calling API for date: {date_str}...")
         response = requests.get(url, headers=headers, timeout=20)
-        return response.json().get('response', [])
+        data = response.json()
+        fixtures = data.get('response', [])
+        print(f"Found {len(fixtures)} total fixtures in API response for {date_str}.")
+        return fixtures
     except Exception as e:
         print(f"Error fetching {date_str}: {e}")
         return []
@@ -65,13 +72,17 @@ def update():
             with open(MATCH_FILE, "r", encoding='utf-8') as f:
                 old_data = json.load(f)
                 data["leagues"] = old_data.get("leagues", {})
-        except: pass
+                print(f"Loaded {len(data['leagues'])} existing leagues from {MATCH_FILE}.")
+        except Exception as e:
+            print(f"Error loading {MATCH_FILE}: {e}")
 
     match_list = []
-    # Fetch today and tomorrow
+    # Fetch yesterday, today and tomorrow
+    today = datetime.utcnow()
     dates = [
-        datetime.utcnow().strftime('%Y-%m-%d'),
-        (datetime.utcnow() + timedelta(days=1)).strftime('%Y-%m-%d')
+        (today - timedelta(days=1)).strftime('%Y-%m-%d'),
+        today.strftime('%Y-%m-%d'),
+        (today + timedelta(days=1)).strftime('%Y-%m-%d')
     ]
 
     for date_str in dates:
@@ -103,7 +114,6 @@ def update():
                 score_text = f"{home_g} - {away_g}"
 
             # Map API status to App status (in, pre, ft)
-            # API Short: NS, 1H, HT, 2H, ET, BT, P, SUSP, INT, FT, AET, PEN
             app_status = "pre"
             if status['short'] in ['1H', 'HT', '2H', 'ET', 'BT', 'P']:
                 app_status = "in"
@@ -123,20 +133,20 @@ def update():
                 "teamA_logo": teams['home']['logo'],
                 "teamB_logo": teams['away']['logo'],
                 "clock": f"{status['elapsed']}'" if status['elapsed'] else status['long'],
-                "goal_scorers": "", # Scorers need extra API calls, leaving empty to save quota
-                "venue": fixture['venue']['name'] or "TBD"
+                "goal_scorers": "",
+                "venue": (fixture['venue']['name'] or "TBD") if 'venue' in fixture else "TBD"
             })
 
     if match_list:
-        # Sort: Live first, then by league rank, then by time
+        # Sort: Live first, then by league rank, then by date/time
         match_list.sort(key=lambda x: (x['status'] != 'in', x['league_rank'], x['date'], x['time']))
         data['matches'] = match_list
 
         with open(MATCH_FILE, "w", encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"Successfully updated {len(match_list)} matches.")
+        print(f"Successfully updated {len(match_list)} matches in {MATCH_FILE}.")
     else:
-        print("No matches found or API key missing.")
+        print("No matches were processed. Check if API Key is correct and has quota.")
 
 if __name__ == "__main__":
     update()
