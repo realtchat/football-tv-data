@@ -5,24 +5,23 @@ from datetime import datetime, timedelta
 
 MATCH_FILE = "matches.json"
 
-# লিগ র‍্যাঙ্কিং (অ্যাপে সাজানোর জন্য)
-LEAGUE_CONFIG = {
-    'international': {'name': 'International Match', 'rank': 1},
-    'fifa.world': {'name': 'FIFA World Cup', 'rank': 2},
-    'uefa.euro': {'name': 'UEFA Euro', 'rank': 3},
-    'uefa.champions': {'name': 'UEFA Champions League', 'rank': 4},
-    'eng.1': {'name': 'English Premier League', 'rank': 5},
-    'esp.1': {'name': 'La Liga', 'rank': 6},
-    'ger.1': {'name': 'Bundesliga', 'rank': 7},
-    'ita.1': {'name': 'Serie A', 'rank': 8},
-    'fra.1': {'name': 'Ligue 1', 'rank': 9},
-    'uefa.europa': {'name': 'UEFA Europa League', 'rank': 10}
+# প্রধান লিগগুলোর জন্য সুন্দর নাম এবং র‍্যাঙ্কিং
+LEAGUE_MAP = {
+    'eng.1': {'name': 'English Premier League', 'rank': 1},
+    'esp.1': {'name': 'Spanish LALIGA', 'rank': 2},
+    'ger.1': {'name': 'German Bundesliga', 'rank': 3},
+    'ita.1': {'name': 'Italian Serie A', 'rank': 4},
+    'fra.1': {'name': 'French Ligue 1', 'rank': 5},
+    'uefa.champions': {'name': 'UEFA Champions League', 'rank': 6},
+    'uefa.europa': {'name': 'UEFA Europa League', 'rank': 7},
+    'usa.1': {'name': 'Major League Soccer', 'rank': 8},
+    'ksa.1': {'name': 'Saudi Pro League', 'rank': 9},
+    'fifa.world': {'name': 'FIFA World Cup', 'rank': 10}
 }
 
-# ডিফল্ট সার্ভার (যদি লিগের জন্য আগে থেকে কোনো সার্ভার না থাকে)
 DEFAULT_SERVERS = [
-    {"name": "Server 1", "url": "https://example.com/stream1.m3u8"},
-    {"name": "Server 2", "url": "https://example.com/stream2.m3u8"}
+    {"name": "Server 1", "url": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8"},
+    {"name": "Server 2", "url": "https://hello.1yallashoot.com/splayer/Live1.php"}
 ]
 
 def get_scorers(competition):
@@ -38,21 +37,19 @@ def get_scorers(competition):
     return ", ".join(scorers)
 
 def update():
-    # ১. পুরানো ডাটা লোড করা (সার্ভার লিস্ট ধরে রাখার জন্য)
-    data = {"leagues": {}, "matches": []}
+    # ১. বিদ্যমান ডাটা লোড করা (সার্ভার ইউআরএল রক্ষা করার জন্য)
+    final_data = {"leagues": {}, "matches": []}
     if os.path.exists(MATCH_FILE):
         try:
             with open(MATCH_FILE, "r", encoding='utf-8') as f:
                 old_data = json.load(f)
                 if isinstance(old_data, dict):
-                    data["leagues"] = old_data.get("leagues", {})
-        except:
-            print("Could not read old matches.json, starting fresh.")
+                    final_data["leagues"] = old_data.get("leagues", {})
+        except: pass
 
-    # ২. নতুন ম্যাচ ফেচ করা
     match_list = []
-    # গতকাল, আজ এবং আগামীকালের ম্যাচ চেক করবে
-    for i in range(-1, 2):
+    # ২. গত ২ দিন থেকে আগামী ৩ দিনের ম্যাচ ফেচ করবে
+    for i in range(-1, 3):
         date_str = (datetime.utcnow() + timedelta(days=i)).strftime('%Y%m%d')
         url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/all/scoreboard?dates={date_str}"
         
@@ -60,41 +57,51 @@ def update():
             resp = requests.get(url, timeout=15)
             if resp.status_code != 200: continue
             
-            events = resp.json().get('events', [])
+            resp_json = resp.json()
+            events = resp_json.get('events', [])
+            
+            # মেটাডাটা থেকে লিগের নাম বের করা (এটিই সবচেয়ে সঠিক নাম দেয়)
+            meta_leagues = {l.get('slug'): l.get('name') for l in resp_json.get('leagues', [])}
+            
             for event in events:
                 try:
                     comp = event['competitions'][0]
+                    league_obj = event.get('league', {})
+                    l_slug = league_obj.get('slug', 'soccer')
+                    
+                    # নাম নির্ধারণের প্রাওয়োরিটি: ১. আমাদের ম্যাপ, ২. মেটাডাটা, ৩. ইভেন্ট নেম
+                    l_display_name = LEAGUE_MAP.get(l_slug, {}).get('name') or meta_leagues.get(l_slug) or league_obj.get('name', 'Other League')
+                    
+                    # "Spanish LALIGA" এর মতো বড় নামগুলোকে সুন্দর করা
+                    if "LALIGA" in l_display_name.upper(): l_display_name = "La Liga"
+                    
+                    # লিগটি final_data তে না থাকলে এড করা
+                    if l_slug not in final_data['leagues']:
+                        final_data['leagues'][l_slug] = {
+                            "name": l_display_name,
+                            "servers": DEFAULT_SERVERS
+                        }
+                    else:
+                        # নাম আপডেট করা (যদি আগে থেকে সার্ভার সেট করা থাকে তবুও)
+                        final_data['leagues'][l_slug]['name'] = l_display_name
+
+                    l_rank = LEAGUE_MAP.get(l_slug, {'rank': 999})['rank']
                     status_obj = event['status']
-                    status_type = status_obj['type']['state'] # 'pre', 'in', or 'post'
+                    status_type = status_obj['type']['state']
                     
                     home = comp['competitors'][0]
                     away = comp['competitors'][1]
-                    
-                    league_obj = event.get('league', {})
-                    l_id = league_obj.get('slug', 'soccer')
-                    l_name = league_obj.get('name', 'Other League')
-                    
-                    # যদি এই লিগ আগে থেকে না থাকে, তবে ডিফল্ট সার্ভার দিয়ে এড করো
-                    if l_id not in data['leagues']:
-                        config = LEAGUE_CONFIG.get(l_id, {'name': l_name, 'rank': 999})
-                        data['leagues'][l_id] = {
-                            "name": config['name'],
-                            "servers": DEFAULT_SERVERS
-                        }
-
-                    l_rank = LEAGUE_CONFIG.get(l_id, {'rank': 999})['rank']
                     
                     score = ""
                     if status_type != 'pre':
                         score = f"{home.get('score', '0')} - {away.get('score', '0')}"
 
-                    # টাইম ফরম্যাট করা
                     dt = datetime.strptime(event['date'], '%Y-%m-%dT%H:%MZ')
 
                     match_list.append({
                         "match_no": int(event['id']),
-                        "league_id": l_id,
-                        "league_name": data['leagues'][l_id]['name'],
+                        "league_id": l_slug,
+                        "league_name": l_display_name,
                         "league_rank": l_rank,
                         "team": f"{home['team']['displayName']} vs {away['team']['displayName']}",
                         "date": dt.strftime('%Y-%m-%d'),
@@ -110,17 +117,17 @@ def update():
                 except: continue
         except: continue
 
-    # ৩. যদি কোনো ম্যাচ পাওয়া যায় তবেই সেভ করো
+    # ৩. ডাটা সেভ করা
     if match_list:
-        # লাইভ ম্যাচগুলো আগে দেখাবে, তারপর র‍্যাঙ্ক অনুযায়ী
+        # সর্টিং: লাইভগুলো উপরে, তারপর র‍্যাঙ্ক অনুযায়ী
         match_list.sort(key=lambda x: (x['status'] != 'in', x['league_rank'], x['date'], x['time']))
-        data['matches'] = match_list
+        final_data['matches'] = match_list
 
         with open(MATCH_FILE, "w", encoding='utf-8') as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"Successfully updated {len(match_list)} matches.")
+            json.dump(final_data, f, indent=4, ensure_ascii=False)
+        print(f"Update successful: {len(match_list)} matches found.")
     else:
-        print("No matches found from API. File not updated to prevent wiping.")
+        print("API returned no matches. File preserved.")
 
 if __name__ == "__main__":
     update()
