@@ -77,13 +77,9 @@ def update():
             print(f"Error loading {MATCH_FILE}: {e}")
 
     match_list = []
-    # Fetch yesterday, today and tomorrow
+    # Fetch yesterday, today, and the next 30 days
     today = datetime.utcnow()
-    dates = [
-        (today - timedelta(days=1)).strftime('%Y-%m-%d'),
-        today.strftime('%Y-%m-%d'),
-        (today + timedelta(days=1)).strftime('%Y-%m-%d')
-    ]
+    dates = [(today + timedelta(days=i)).strftime('%Y-%m-%d') for i in range(-1, 31)]
 
     for date_str in dates:
         fixtures = fetch_fixtures(date_str)
