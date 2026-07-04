@@ -39,19 +39,19 @@
             "name": "World Cup",
             "servers": [
                 {
-                    "name": "Server Smooth",
+                    "name": "Live Smooth",
                     "url": "https://s3.us-east-2.amazonaws.com/cdna130/live/stream/360p/tracks-v1a1/mono.m3u8"
                 },
                 {
-                    "name": "Server 4K",
+                    "name": "Live 4K",
                     "url": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8"
                 },
                 {
-                    "name": "Server 4K",
+                    "name": "LiveHD",
                     "url": "https://live.bb6.dpdns.org/albaplayer/ch1/?serv=2"
                 },
                 {
-                    "name": "Server 4K",
+                    "name": "LiveHD+",
                     "url": "https://w4.sportsonlline.click/channels/hd/hd4.php"
                 },
                  {
