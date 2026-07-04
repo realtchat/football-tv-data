@@ -40,7 +40,7 @@
             "servers": [
                 {
                     "name": "Live Smooth",
-                    "url": "https://s3.us-east-2.amazonaws.com/cdna130/live/stream/360p/tracks-v1a1/mono.m3u8"
+                    "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8"
                 },
                 {
                     "name": "Live 4K",
@@ -56,7 +56,7 @@
                 },
                  {
                     "name": "Server 4K",
-                    "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8"
+                    "url": "https://s3.us-east-2.amazonaws.com/cdna130/live/stream/360p/tracks-v1a1/mono.m3u8"
                 }
                 
             ]
