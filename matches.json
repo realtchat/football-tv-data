@@ -1598,25 +1598,9 @@
             "score": "0 - 2",
             "teamA_logo": "https://media.api-sports.io/football/teams/5529.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/31.png",
-            "clock": "82'",
-            "goal_scorers": "",
-            "venue": "NRG Stadium"
-        },
-        {
-            "match_no": 1558482,
-            "league_id": "league_394",
-            "league_name": "Super Liga",
-            "league_rank": 999,
-            "team": "Petrocub vs Milsami Orhei",
-            "date": "2026-07-04",
-            "time": "17:00",
-            "status": "in",
-            "score": "4 - 0",
-            "teamA_logo": "https://media.api-sports.io/football/teams/2271.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/691.png",
             "clock": "88'",
             "goal_scorers": "",
-            "venue": "Stadionul Municipal"
+            "venue": "NRG Stadium"
         },
         {
             "match_no": 1561319,
@@ -1627,10 +1611,10 @@
             "date": "2026-07-04",
             "time": "17:00",
             "status": "in",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "teamA_logo": "https://media.api-sports.io/football/teams/2371.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/19410.png",
-            "clock": "83'",
+            "clock": "89'",
             "goal_scorers": "",
             "venue": "Complejo Rentistas"
         },
@@ -1646,7 +1630,7 @@
             "score": "1 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/8386.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/8380.png",
-            "clock": "56'",
+            "clock": "62'",
             "goal_scorers": "",
             "venue": "Estadio Carlos Sacaan"
         },
@@ -1662,7 +1646,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/4191.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/4186.png",
-            "clock": "56'",
+            "clock": "61'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -1758,7 +1742,7 @@
             "score": "1 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/8377.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/1928.png",
-            "clock": "44'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "Estadio de Colegiales"
         },
@@ -1774,7 +1758,7 @@
             "score": "1 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/8008.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/459.png",
-            "clock": "44'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "Alfredo Ramos stadium"
         },
@@ -1790,7 +1774,7 @@
             "score": "0 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/8383.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/481.png",
-            "clock": "28'",
+            "clock": "33'",
             "goal_scorers": "",
             "venue": "Jose Manuel Moreno Stadium"
         },
@@ -1803,10 +1787,10 @@
             "date": "2026-07-04",
             "time": "18:00",
             "status": "in",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/2429.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/8385.png",
-            "clock": "39'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "Estadio de los Inmigrantes"
         },
@@ -1822,7 +1806,7 @@
             "score": "1 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/471.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/1924.png",
-            "clock": "44'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "Estadio Carlos V"
         },
@@ -1838,7 +1822,7 @@
             "score": "0 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/8389.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/8392.png",
-            "clock": "40'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -1854,7 +1838,7 @@
             "score": "1 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/23099.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/1940.png",
-            "clock": "40'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -1870,7 +1854,7 @@
             "score": "0 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/27282.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/1967.png",
-            "clock": "40'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -1883,7 +1867,7 @@
             "date": "2026-07-04",
             "time": "18:00",
             "status": "in",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/12995.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/13019.png",
             "clock": "45'",
@@ -1915,7 +1899,7 @@
             "date": "2026-07-04",
             "time": "18:00",
             "status": "in",
-            "score": "1 - 0",
+            "score": "1 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/12283.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/7828.png",
             "clock": "45'",
@@ -2030,7 +2014,7 @@
             "score": "0 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/23575.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/1217.png",
-            "clock": "44'",
+            "clock": "45'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -2075,7 +2059,7 @@
             "date": "2026-07-04",
             "time": "18:00",
             "status": "in",
-            "score": "0 - 2",
+            "score": "0 - 3",
             "teamA_logo": "https://media.api-sports.io/football/teams/23578.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/23583.png",
             "clock": "45'",
@@ -2094,7 +2078,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/3853.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/3844.png",
-            "clock": "16'",
+            "clock": "21'",
             "goal_scorers": "",
             "venue": "Bishopsgate"
         },
@@ -2110,7 +2094,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/482.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/465.png",
-            "clock": "14'",
+            "clock": "20'",
             "goal_scorers": "",
             "venue": "Estadio Tres de Febrero"
         },
@@ -2126,7 +2110,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/8375.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/483.png",
-            "clock": "9'",
+            "clock": "15'",
             "goal_scorers": "",
             "venue": "Estadio Fragata Presidente Sarmiento"
         },
@@ -2139,10 +2123,10 @@
             "date": "2026-07-04",
             "time": "18:30",
             "status": "in",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "teamA_logo": "https://media.api-sports.io/football/teams/1067.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/469.png",
-            "clock": "17'",
+            "clock": "22'",
             "goal_scorers": "",
             "venue": "Estadio Juan Pasquale"
         },
@@ -2155,10 +2139,10 @@
             "date": "2026-07-04",
             "time": "18:30",
             "status": "in",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/484.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/3969.png",
-            "clock": "13'",
+            "clock": "18'",
             "goal_scorers": "",
             "venue": "Estadio Nueva Chicago"
         },
@@ -2174,7 +2158,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/454.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/1965.png",
-            "clock": "14'",
+            "clock": "20'",
             "goal_scorers": "",
             "venue": "Estadio Alfredo Beranger"
         },
@@ -2190,7 +2174,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/2427.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/468.png",
-            "clock": "11'",
+            "clock": "16'",
             "goal_scorers": "",
             "venue": "Armenia Stadium"
         },
@@ -2206,7 +2190,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/27572.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/23255.png",
-            "clock": "13'",
+            "clock": "19'",
             "goal_scorers": "",
             "venue": "Estadio del Club Defensores De Vilelas"
         },
@@ -2222,7 +2206,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/2428.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/25757.png",
-            "clock": "10'",
+            "clock": "16'",
             "goal_scorers": "",
             "venue": "Estadio General San Martin"
         },
@@ -2238,7 +2222,7 @@
             "score": "0 - 2",
             "teamA_logo": "https://media.api-sports.io/football/teams/23610.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/25933.png",
-            "clock": "16'",
+            "clock": "22'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -2254,7 +2238,7 @@
             "score": "0 - 0",
             "teamA_logo": "https://media.api-sports.io/football/teams/13009.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/27678.png",
-            "clock": "14'",
+            "clock": "20'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -13089,6 +13073,22 @@
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
+        },
+        {
+            "match_no": 1558482,
+            "league_id": "league_394",
+            "league_name": "Super Liga",
+            "league_rank": 999,
+            "team": "Petrocub vs Milsami Orhei",
+            "date": "2026-07-04",
+            "time": "17:00",
+            "status": "ft",
+            "score": "5 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/2271.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/691.png",
+            "clock": "90'",
+            "goal_scorers": "",
+            "venue": "Stadionul Municipal"
         },
         {
             "match_no": 1560529,
