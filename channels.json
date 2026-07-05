@@ -1,18 +1,18 @@
 [
     {
-    "name": "Worldcup Live 2",
+    "name": "Worldcup Bufferless",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
     "stream": "https://pull.niues.live/live/stream-414317_lhd.m3u8"
   },
   {
-    "name": "Worldcup Live 1",
+    "name": "Worldcup Koora Tv",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8"
+    "stream": "https://cb.deveab.online/nbvfoh2_480/index.m3u8"
   },
   {
-    "name": "Worldcup Live 3",
+    "name": "Worldcup T sports",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://kora.depoooo.com/albaplayer/bein-1/?serv=2"
+    "stream": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
   },
  {
     "name": "WOrldCup (BEIN Sports 1)",
