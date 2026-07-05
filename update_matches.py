@@ -41,7 +41,7 @@ DEFAULT_SERVERS = [
     {"name": "Server 2", "url": "https://hello.1yallashoot.com/splayer/Live1.php"},
     {"name": "Server 2", "url": "https://topx.poiy.online/albaplayer/max1/?serv=8"},
     {"name": "Server 2", "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"}
-    
+
 ]
 
 def fetch_fixtures(date_str):
