@@ -216,6 +216,11 @@
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a91e537a0eb1a24ed472a508e90fefcc"
   },
   {
+    "name": "WILLOW HD",
+    "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg",
+    "stream": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+  },
+  {
     "name": "SPORTS GRID",
     "logo": "",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779283798&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=652ed8ae174a9efdb335fb31355f0fb5"
@@ -230,11 +235,7 @@
     "logo": "",
     "stream": "https://rs-player.netlify.app/jw-player?url=https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
   },
-  {
-    "name": "WILLOW HD",
-    "logo": "",
-    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad"
-  },
+
   {
     "name": "MORE THAN SPORTS",
     "logo": "",
