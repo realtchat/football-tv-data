@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.4",
-  "updateUrl": "https://github.com/realtchat/football-tv-data/releases/download/v1.4/app-debug.apk",
-  "releaseNotes": "1000+ league match now live, New UI, ADs Free, Match Reminders, and Live Score system!",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.5",
+  "updateUrl": "https://github.com/realtchat/football-tv-data/releases/download/v1.5/app-debug.apk",
+  "releaseNotes": "New Feature , NEW UI, Ads Free, Match Reminders, and Live Scores!",
   "isForceUpdate": false
 }
