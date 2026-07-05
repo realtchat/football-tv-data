@@ -37,8 +37,8 @@ LEAGUE_CONFIG = {
 }
 
 DEFAULT_SERVERS = [
-    {"name": "Server 1", "url": "https://example.com/stream1.m3u8"},
-    {"name": "Server 2", "url": "https://example.com/stream2.m3u8"}
+    {"name": "Server 1", "url": "https://hello.1yallashoot.com/splayer/Live6.php"},
+    {"name": "Server 2", "url": "https://hello.1yallashoot.com/splayer/Live1.php"}
 ]
 
 def fetch_fixtures(date_str):
