@@ -1,9 +1,5 @@
 [
-    {
-    "name": "Worldcup Bufferless",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://pull.niues.live/live/stream-414317_lhd.m3u8"
-  },
+    
   {
     "name": "Worldcup Koora Tv",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
@@ -37,7 +33,12 @@
   {
     "name": "DAZN TV Sports",
     "logo": "https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",
-    "stream": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+    "stream": "https://topx.poiy.online/albaplayer/max1/?serv=7"
+  },
+    {
+    "name": "Worldcup Bufferless",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://pull.niues.live/live/stream-414317_lhd.m3u8"
   },
   {
     "name": "TNT SPORTS PREMIUM",
