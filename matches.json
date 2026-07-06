@@ -106,6 +106,10 @@
                 {
                     "name": "Akash Tv",
                     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=2407200.m3u8"
+                },
+                {
+                    "name": "TSN Sports",
+                    "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=3"
                 }
                 
             ]
