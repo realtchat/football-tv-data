@@ -1,10 +1,6 @@
 [
     
-  {
-    "name": "Worldcup Koora Tv",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://cb.deveab.online/nbvfoh2_480/index.m3u8"
-  },
+  
   {
     "name": "Worldcup T sports",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
@@ -19,6 +15,11 @@
     "name": "WOrldCup (BEIN Sports 3)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzEtJX6I7RVMjuzp4l184ZCV5VuUwREg2R-VsEXpaG2g&s=10",
     "stream": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+  },
+    {
+    "name": "Worldcup Koora Tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://cb.deveab.online/nbvfoh2_480/index.m3u8"
   },
   {
     "name": "WOrldCup (Win Sports)",
