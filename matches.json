@@ -88,20 +88,20 @@
             "name": "World Cup",
             "servers": [
                 {
-                    "name": "Server 1",
-                    "url": "https://hello.1yallashoot.com/splayer/Live6.php"
+                    "name": "T-Sports",
+                    "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
                 },
                 {
-                    "name": "Server 2",
-                    "url": "https://hello.1yallashoot.com/splayer/Live1.php"
+                    "name": "BEIN Sports 1",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
                 },
                 {
-                    "name": "Server 2",
-                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=8"
+                    "name": "Somoy TV",
+                    "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
                 },
                 {
-                    "name": "Server 2",
-                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"
+                    "name": "D Sports",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
                 }
             ]
         },
