@@ -91,6 +91,10 @@
                     "name": "Live HD",
                     "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782234982-0-0-2455aafc2b9f6b9d2cd3228dabb3d198"
                 },
+                  {
+                    "name": "Live HD",
+                    "url": "https://he.zentekki.website/neews1_720/index.m3u8"
+                },
                 {
                     "name": "Live HD",
                     "url": "https://live05.meung.app/live/08552895.m3u8"
