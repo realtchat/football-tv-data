@@ -2635,9 +2635,147 @@
                     "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"
                 }
             ]
+        },
+        "league_10": {
+            "name": "Friendlies",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://hello.1yallashoot.com/splayer/Live6.php"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://hello.1yallashoot.com/splayer/Live1.php"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"
+                }
+            ]
+        },
+        "league_666": {
+            "name": "Friendlies Women",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://hello.1yallashoot.com/splayer/Live6.php"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://hello.1yallashoot.com/splayer/Live1.php"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"
+                }
+            ]
         }
     },
     "matches": [
+        {
+            "match_no": 1532759,
+            "league_id": "league_929",
+            "league_name": "League Two",
+            "league_rank": 999,
+            "team": "Xi'an Ronghai vs Dalian Kewei",
+            "date": "2026-07-08",
+            "time": "08:00",
+            "status": "in",
+            "score": "1 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/20674.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/27620.png",
+            "clock": "77'",
+            "goal_scorers": "",
+            "venue": "Taiyuan University Football Stadium - Artificial grass"
+        },
+        {
+            "match_no": 1550532,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Teplice vs Táborsko",
+            "date": "2026-07-08",
+            "time": "09:00",
+            "status": "in",
+            "score": "2 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/3720.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/3726.png",
+            "clock": "35'",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1550533,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Zaglebie Lubin vs Baník Ostrava",
+            "date": "2026-07-08",
+            "time": "09:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/345.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/3713.png",
+            "clock": "33'",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1554781,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Zlin vs Hapoel Tel Aviv",
+            "date": "2026-07-08",
+            "time": "09:00",
+            "status": "in",
+            "score": "1 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/603.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/4501.png",
+            "clock": "33'",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1554794,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Tychy 71 vs Sparta Katowice",
+            "date": "2026-07-08",
+            "time": "09:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/3495.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/22910.png",
+            "clock": "36'",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1560547,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Budapest Honved vs Soroksar",
+            "date": "2026-07-08",
+            "time": "09:00",
+            "status": "in",
+            "score": "1 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/576.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/2404.png",
+            "clock": "33'",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
         {
             "match_no": 1570715,
             "league_id": "fifa.world",
@@ -3599,6 +3737,22 @@
             "venue": "Stryda Park"
         },
         {
+            "match_no": 1583642,
+            "league_id": "league_10",
+            "league_name": "Friendlies",
+            "league_rank": 999,
+            "team": "Myanmar U20 vs Hong Kong, China U20",
+            "date": "2026-07-07",
+            "time": "09:30",
+            "status": "ft",
+            "score": "2 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/25104.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/25096.png",
+            "clock": "90'",
+            "goal_scorers": "",
+            "venue": "Thuwunna Stadium"
+        },
+        {
             "match_no": 1523761,
             "league_id": "league_481",
             "league_name": "Northern NSW NPL",
@@ -3738,22 +3892,6 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/856.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/4659.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1560541,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Brinje-Grosuplje vs Uta Arad",
-            "date": "2026-07-07",
-            "time": "12:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/12744.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/2589.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5151,20 +5289,36 @@
             "venue": "JSerra Catholic High School"
         },
         {
-            "match_no": 1532759,
-            "league_id": "league_929",
-            "league_name": "League Two",
+            "match_no": 1583646,
+            "league_id": "league_10",
+            "league_name": "Friendlies",
             "league_rank": 999,
-            "team": "Xi'an Ronghai vs Dalian Kewei",
+            "team": "Australia U17 vs Nigeria U17",
             "date": "2026-07-08",
             "time": "08:00",
             "status": "pre",
             "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/20674.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/27620.png",
+            "teamA_logo": "https://media.api-sports.io/football/teams/12501.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/12516.png",
             "clock": "Not Started",
             "goal_scorers": "",
-            "venue": "Taiyuan University Football Stadium - Artificial grass"
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1583647,
+            "league_id": "league_10",
+            "league_name": "Friendlies",
+            "league_rank": 999,
+            "team": "Vietnam vs Yongin City",
+            "date": "2026-07-08",
+            "time": "08:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/1542.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/9171.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
         },
         {
             "match_no": 1554779,
@@ -5183,33 +5337,17 @@
             "venue": "TBD"
         },
         {
-            "match_no": 1550532,
+            "match_no": 1548790,
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
             "league_rank": 999,
-            "team": "Teplice vs Táborsko",
+            "team": "Górnik Łęczna vs Hetman Zamosc",
             "date": "2026-07-08",
             "time": "09:00",
             "status": "pre",
             "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/3720.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/3726.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1550533,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Zaglebie Lubin vs Baník Ostrava",
-            "date": "2026-07-08",
-            "time": "09:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/345.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/3713.png",
+            "teamA_logo": "https://media.api-sports.io/football/teams/6941.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/12789.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5226,54 +5364,6 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/2184.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/4269.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1554781,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Zlin vs Hapoel Tel Aviv",
-            "date": "2026-07-08",
-            "time": "09:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/603.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/4501.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1554794,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Tychy 71 vs Sparta Katowice",
-            "date": "2026-07-08",
-            "time": "09:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/3495.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/22910.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1560547,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Budapest Honved vs Soroksar",
-            "date": "2026-07-08",
-            "time": "09:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/576.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/2404.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5327,6 +5417,22 @@
             "venue": "TBD"
         },
         {
+            "match_no": 1523779,
+            "league_id": "league_481",
+            "league_name": "Northern NSW NPL",
+            "league_rank": 999,
+            "team": "Kahibah vs Maitland",
+            "date": "2026-07-08",
+            "time": "10:00",
+            "status": "pre",
+            "score": "0 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/23502.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/10208.png",
+            "clock": "Match Postponed",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
             "match_no": 1543594,
             "league_id": "league_1031",
             "league_name": "Premier League",
@@ -5338,6 +5444,22 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/9426.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/5590.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1547922,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Piast Gliwice vs Miedz Legnica",
+            "date": "2026-07-08",
+            "time": "10:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/349.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/335.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5375,22 +5497,6 @@
             "venue": "TBD"
         },
         {
-            "match_no": 1547922,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Piast Gliwice vs Miedz Legnica",
-            "date": "2026-07-08",
-            "time": "11:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/349.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/335.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
             "match_no": 1532768,
             "league_id": "league_929",
             "league_name": "League Two",
@@ -5407,6 +5513,22 @@
             "venue": "Linping Sports Centre Stadium"
         },
         {
+            "match_no": 1583648,
+            "league_id": "league_10",
+            "league_name": "Friendlies",
+            "league_rank": 999,
+            "team": "China PR U17 vs Tanzania U17",
+            "date": "2026-07-08",
+            "time": "11:35",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/21449.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/25822.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
             "match_no": 1547920,
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
@@ -5418,22 +5540,6 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/551.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/6653.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1548790,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Górnik Łęczna vs Hetman Zamosc",
-            "date": "2026-07-08",
-            "time": "12:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/6941.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/12789.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5487,6 +5593,22 @@
             "venue": "TBD"
         },
         {
+            "match_no": 1560541,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Brinje-Grosuplje vs Uta Arad",
+            "date": "2026-07-08",
+            "time": "12:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/12744.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/2589.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
             "match_no": 1560548,
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
@@ -5514,38 +5636,6 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/413.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/187.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1567566,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Oleksandria vs Inhulets",
-            "date": "2026-07-08",
-            "time": "12:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/3619.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/3625.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1567567,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Świt Skolwin vs Kluczevia Stargard",
-            "date": "2026-07-08",
-            "time": "12:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/12902.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/17398.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5615,6 +5705,22 @@
             "venue": "TBD"
         },
         {
+            "match_no": 1567566,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Oleksandria vs Inhulets",
+            "date": "2026-07-08",
+            "time": "13:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/3619.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/3625.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
             "match_no": 1581823,
             "league_id": "league_567",
             "league_name": "Ligi kuu Bara",
@@ -5647,54 +5753,6 @@
             "venue": "Nantporth Stadium"
         },
         {
-            "match_no": 1527632,
-            "league_id": "league_569",
-            "league_name": "Premier League",
-            "league_rank": 999,
-            "team": "Ilbirs vs Ozgon",
-            "date": "2026-07-08",
-            "time": "14:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/12236.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/25767.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1527635,
-            "league_id": "league_569",
-            "league_name": "Premier League",
-            "league_rank": 999,
-            "team": "Asiagoal vs Bars",
-            "date": "2026-07-08",
-            "time": "14:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/25764.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/25765.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1527639,
-            "league_id": "league_569",
-            "league_name": "Premier League",
-            "league_rank": 999,
-            "team": "Bishkek City vs Muras United",
-            "date": "2026-07-08",
-            "time": "14:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/25766.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/21167.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
             "match_no": 1554792,
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
@@ -5706,22 +5764,6 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/3719.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/599.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
-            "match_no": 1554798,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "Farul Constanta vs Cherno More Varna",
-            "date": "2026-07-08",
-            "time": "14:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/2596.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/851.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5754,6 +5796,22 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/12235.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/8026.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1554798,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Farul Constanta vs Cherno More Varna",
+            "date": "2026-07-08",
+            "time": "14:30",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/2596.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/851.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -5999,6 +6057,22 @@
             "venue": "TBD"
         },
         {
+            "match_no": 1567567,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Świt Skolwin vs Kluczevia Stargard",
+            "date": "2026-07-08",
+            "time": "15:30",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/12902.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/17398.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
             "match_no": 1567570,
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
@@ -6099,13 +6173,13 @@
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
             "league_rank": 999,
-            "team": "Raków Częstochowa vs Olympiakos Piraeus",
+            "team": "Olympiakos Piraeus vs Raków Częstochowa",
             "date": "2026-07-08",
             "time": "16:00",
             "status": "pre",
             "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/3491.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/553.png",
+            "teamA_logo": "https://media.api-sports.io/football/teams/553.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/3491.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -6287,22 +6361,6 @@
             "venue": "TBD"
         },
         {
-            "match_no": 1550540,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "SG Sonnenhof Grossaspach vs CFR Pforzheim",
-            "date": "2026-07-08",
-            "time": "16:30",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/1317.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/1659.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
             "match_no": 1554804,
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
@@ -6378,6 +6436,22 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/203.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/422.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1550540,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "SG Sonnenhof Grossaspach vs CFR Pforzheim",
+            "date": "2026-07-08",
+            "time": "17:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/1317.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/1659.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -6474,6 +6548,22 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/12897.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/14704.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1583659,
+            "league_id": "league_666",
+            "league_name": "Friendlies Women",
+            "league_rank": 999,
+            "team": "Egypt W vs Senegal W",
+            "date": "2026-07-08",
+            "time": "17:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/19417.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/18262.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -6819,13 +6909,13 @@
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
             "league_rank": 999,
-            "team": "Lausanne vs Flamengo",
+            "team": "Flamengo vs Lausanne",
             "date": "2026-07-08",
             "time": "19:30",
             "status": "pre",
             "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/1014.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/127.png",
+            "teamA_logo": "https://media.api-sports.io/football/teams/127.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/1014.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "Estadio Algarve"
@@ -7439,6 +7529,22 @@
             "venue": "TBD"
         },
         {
+            "match_no": 1544673,
+            "league_id": "league_259",
+            "league_name": "Canadian Championship",
+            "league_rank": 999,
+            "team": "Supra du Quebec vs Atlético Ottawa",
+            "date": "2026-07-08",
+            "time": "23:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/27461.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/10169.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "CEPSUM Stadium"
+        },
+        {
             "match_no": 1567352,
             "league_id": "league_1220",
             "league_name": "Copa De La Liga",
@@ -7725,6 +7831,22 @@
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
+        },
+        {
+            "match_no": 1583233,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "Boca Juniors vs Atletico Paranaense",
+            "date": "2026-07-09",
+            "time": "00:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/451.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/134.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "Estadio Padre Ernesto Martearena"
         },
         {
             "match_no": 1525309,
@@ -8042,6 +8164,22 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/2392.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/12360.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1583234,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "OFK Beograd vs Buducnost Podgorica",
+            "date": "2026-07-09",
+            "time": "12:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/2633.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/579.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -8394,6 +8532,22 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/13034.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/18336.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1583660,
+            "league_id": "league_666",
+            "league_name": "Friendlies Women",
+            "league_rank": 999,
+            "team": "United States U20 W vs England U20 W",
+            "date": "2026-07-09",
+            "time": "22:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/19091.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/27219.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
