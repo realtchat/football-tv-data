@@ -2845,9 +2845,46 @@
                     "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"
                 }
             ]
+        },
+        "league_390": {
+            "name": "Premier League",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://hello.1yallashoot.com/splayer/Live6.php"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://hello.1yallashoot.com/splayer/Live1.php"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"
+                }
+            ]
         }
     },
     "matches": [
+        {
+            "match_no": 1548794,
+            "league_id": "league_667",
+            "league_name": "Friendlies Clubs",
+            "league_rank": 999,
+            "team": "SpVgg Unterhaching vs SSV Jahn Regensburg",
+            "date": "2026-07-09",
+            "time": "09:00",
+            "status": "in",
+            "score": "0 - 2",
+            "teamA_logo": "https://media.api-sports.io/football/teams/1314.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/177.png",
+            "clock": "70'",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
         {
             "match_no": 1578539,
             "league_id": "fifa.world",
@@ -5237,14 +5274,14 @@
             "league_id": "league_967",
             "league_name": "Cup",
             "league_rank": 999,
-            "team": "Al Hikma vs Al Nejmeh",
+            "team": "Al Nejmeh vs Al Hikma",
             "date": "2026-07-08",
             "time": "18:30",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/11879.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/4570.png",
-            "clock": "Not Started",
+            "status": "ft",
+            "score": "2 - 0",
+            "teamA_logo": "https://media.api-sports.io/football/teams/4570.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/11879.png",
+            "clock": "90'",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -6433,22 +6470,6 @@
             "venue": "TBD"
         },
         {
-            "match_no": 1548794,
-            "league_id": "league_667",
-            "league_name": "Friendlies Clubs",
-            "league_rank": 999,
-            "team": "SpVgg Unterhaching vs SSV Jahn Regensburg",
-            "date": "2026-07-09",
-            "time": "09:00",
-            "status": "pre",
-            "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/1314.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/177.png",
-            "clock": "Not Started",
-            "goal_scorers": "",
-            "venue": "TBD"
-        },
-        {
             "match_no": 1554815,
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
@@ -6473,10 +6494,10 @@
             "date": "2026-07-09",
             "time": "11:00",
             "status": "pre",
-            "score": "0 - 0",
+            "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/27274.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/5221.png",
-            "clock": "Match Interrupted",
+            "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
         },
@@ -7381,13 +7402,13 @@
             "league_id": "league_667",
             "league_name": "Friendlies Clubs",
             "league_rank": 999,
-            "team": "Huddersfield vs Birmingham",
+            "team": "Birmingham vs Huddersfield",
             "date": "2026-07-10",
             "time": "10:00",
             "status": "pre",
             "score": "",
-            "teamA_logo": "https://media.api-sports.io/football/teams/37.png",
-            "teamB_logo": "https://media.api-sports.io/football/teams/54.png",
+            "teamA_logo": "https://media.api-sports.io/football/teams/54.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/37.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
@@ -8220,6 +8241,22 @@
             "score": "",
             "teamA_logo": "https://media.api-sports.io/football/teams/75.png",
             "teamB_logo": "https://media.api-sports.io/football/teams/217.png",
+            "clock": "Not Started",
+            "goal_scorers": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 1583714,
+            "league_id": "league_390",
+            "league_name": "Premier League",
+            "league_rank": 999,
+            "team": "Racing vs Tadamon Sour",
+            "date": "2026-07-10",
+            "time": "14:00",
+            "status": "pre",
+            "score": "",
+            "teamA_logo": "https://media.api-sports.io/football/teams/4572.png",
+            "teamB_logo": "https://media.api-sports.io/football/teams/4577.png",
             "clock": "Not Started",
             "goal_scorers": "",
             "venue": "TBD"
