@@ -1,5 +1,10 @@
 [
   {
+    "name": "fast 20 Sec live",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://pull.niues.live/live/stream-534219_lhd.m3u8"
+  },
+  {
     "name": "Live Server 1",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
     "stream": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
@@ -8,6 +13,11 @@
     "name": "Live Server 2",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
     "stream": "https://nongorplay.live/watch/fifa-world-cup"
+  },
+   {
+    "name": "Live Server 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783630464-0-0-09c1237b50b7c43b22f054258df1967e"
   },
   {
     "name": "Worldcup Koora Tv",
@@ -213,9 +223,9 @@
     "stream": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8"
   },
   {
-    "name": "TSN 1",
+    "name": "Extra",
     "logo": "https://images.seeklogo.com/logo-png/31/1/tsn-1-logo-png_seeklogo-314693.png",
-    "stream": "https://rs-player.netlify.app/jw-player?url=https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e5ce886378c54bd381b9833b5d57649a"
+    "stream": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
   },
   {
     "name": "TSN 3",
