@@ -13,10 +13,14 @@
     "name": "Live Server 1",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
     "stream": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
+  }, 
+  {
+    "name": "Tofee Live",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://nowzyplus.live/livetv/watch/fifa-live/3"
   },
-  
    {
-    "name": "Worldcup T sports",
+    "name": "T sports HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png",
     "stream": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
   },
