@@ -88,19 +88,19 @@
             "name": "World Cup",
             "servers": [
                 {
-                    "name": "Live HD",
-                    "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782234982-0-0-2455aafc2b9f6b9d2cd3228dabb3d198"
+                    "name": "Fast 20 Sec",
+                    "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8"
                 },
                 {
-                    "name": "Live HD",
-                    "url": "https://nongorplay.live/watch/fifa-world-cup"
+                    "name": "Live 4K",
+                    "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
                 },
                 {
                     "name": "Live HD",
                     "url": "https://dude.mvp.bd/"
                 },
                 {
-                    "name": "Live HD",
+                    "name": "Live HD2",
                     "url": "https://live05.meung.app/live/08552895.m3u8"
                 },
                 {
