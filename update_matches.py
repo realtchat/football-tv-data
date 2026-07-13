@@ -6,46 +6,41 @@ from datetime import datetime, timedelta
 
 # Settings
 MATCH_FILE = "matches.json"
-API_KEY = os.getenv("API_FOOTBALL_KEY") 
-API_HOST = "v3.football.api-sports.io"
-BASE_URL = "https://v3.football.api-sports.io"
 
 # GitHub Settings (For API Update)
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 REPO_NAME = "realtchat/football-tv-data" 
 FILE_PATH = "matches.json"
 
-# Mapping API-Football League IDs to your App Slugs/Ranks
+# ESPN League Mapping
+# Rank -1 = Top (World Cup), 0 = Champions League, etc.
 LEAGUE_CONFIG = {
-    "1": {"slug": "fifa.world", "rank": 1},
-    "2": {"slug": "uefa.champions", "rank": 2},
-    "3": {"slug": "uefa.europa", "rank": 8},
-    "39": {"slug": "eng.1", "rank": 3},
-    "140": {"slug": "esp.1", "rank": 4},
-    "78": {"slug": "ger.1", "rank": 5},
-    "135": {"slug": "ita.1", "rank": 6},
-    "61": {"slug": "fra.1", "rank": 7},
-    "307": {"slug": "ksa.1", "rank": 9},
-    "253": {"slug": "usa.1", "rank": 10},
-    "4": {"slug": "uefa.euro", "rank": 11},
-    "9": {"slug": "conmebol.america", "rank": 12},
-    "848": {"slug": "uefa.conf", "rank": 13},
-    "88": {"slug": "ned.1", "rank": 14},
-    "94": {"slug": "por.1", "rank": 15},
-    "71": {"slug": "bra.1", "rank": 16},
-    "103": {"slug": "arg.1", "rank": 17},
-    "40": {"slug": "eng.2", "rank": 30},
-    "235": {"slug": "afc.champions", "rank": 18},
-    "203": {"slug": "tur.1", "rank": 19},
-    "262": {"slug": "mex.1", "rank": 20},
-    "323": {"slug": "ind.1", "rank": 21},
+    "fifa.world": {"name": "FIFA World Cup", "rank": -1},
+    "uefa.champions": {"name": "UEFA Champions League", "rank": 0},
+    "eng.1": {"name": "Premier League", "rank": 1},
+    "esp.1": {"name": "La Liga", "rank": 2},
+    "ger.1": {"name": "Bundesliga", "rank": 3},
+    "ita.1": {"name": "Serie A", "rank": 4},
+    "fra.1": {"name": "Ligue 1", "rank": 5},
+    "uefa.europa": {"name": "UEFA Europa League", "rank": 6},
+    "ksa.1": {"name": "Saudi Pro League", "rank": 7},
+    "uefa.euro": {"name": "UEFA European Championship", "rank": 8},
+    "conmebol.america": {"name": "Copa América", "rank": 9},
+    "usa.1": {"name": "MLS", "rank": 10},
+    "ned.1": {"name": "Eredivisie", "rank": 11},
+    "por.1": {"name": "Liga Portugal", "rank": 12},
+    "tur.1": {"name": "Turkish Süper Lig", "rank": 13},
+    "bra.1": {"name": "Serie A Brazil", "rank": 14},
+    "arg.1": {"name": "Argentine Primera", "rank": 15},
+    "afc.champions": {"name": "AFC Champions League", "rank": 16},
+    "fifa.friendly": {"name": "International Friendlies", "rank": 20},
+    "mex.1": {"name": "Liga MX", "rank": 21},
+    "eng.2": {"name": "Championship", "rank": 22}
 }
 
 DEFAULT_SERVERS = [
     {"name": "Server 1", "url": "https://hello.1yallashoot.com/splayer/Live6.php"},
-    {"name": "Server 2", "url": "https://hello.1yallashoot.com/splayer/Live1.php"},
-    {"name": "Server 3", "url": "https://topx.poiy.online/albaplayer/max1/?serv=8"},
-    {"name": "Server 4", "url": "https://topx.poiy.online/albaplayer/max1/?serv=6"}
+    {"name": "Server 2", "url": "https://hello.1yallashoot.com/splayer/Live1.php"}
 ]
 
 def push_to_github(data):
@@ -66,9 +61,7 @@ def push_to_github(data):
         response = requests.get(url, headers=headers)
         if response.status_code == 200:
             sha = response.json().get('sha')
-            print(f"Current file SHA found: {sha}")
-    except Exception as e:
-        print(f"Error fetching SHA: {e}")
+    except Exception: pass
 
     # 2. Encode content to Base64
     json_content = json.dumps(data, indent=4, ensure_ascii=False)
@@ -76,15 +69,13 @@ def push_to_github(data):
 
     # 3. Push the update
     payload = {
-        "message": f"Auto-update matches: {datetime.now().strftime('%Y-%m-%d %H:%M')}",
+        "message": f"ESPN Score Update: {datetime.now().strftime('%Y-%m-%d %H:%M')}",
         "content": content_base64,
         "branch": "main"
     }
-    if sha:
-        payload["sha"] = sha
+    if sha: payload["sha"] = sha
 
     try:
-        print(f"Pushing update to GitHub: {url}...")
         res = requests.put(url, headers=headers, json=payload)
         if res.status_code in [200, 201]:
             print("Successfully updated matches.json via GitHub API.")
@@ -93,143 +84,100 @@ def push_to_github(data):
     except Exception as e:
         print(f"Failed to push to GitHub: {e}")
 
-def fetch_fixtures(date_str):
-    if not API_KEY:
-        print("Error: API_FOOTBALL_KEY environment variable is not set.")
-        return []
-    
-    headers = {
-        'x-rapidapi-key': API_KEY,
-        'x-rapidapi-host': API_HOST
-    }
-    url = f"{BASE_URL}/fixtures?date={date_str}"
+def fetch_espn_data(league_slug):
+    """Fetches real-time data from ESPN's public API."""
+    url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league_slug}/scoreboard"
     try:
-        print(f"Calling API for date: {date_str}...")
-        response = requests.get(url, headers=headers, timeout=20)
-        
-        if response.status_code != 200:
-            print(f"API Error ({response.status_code}): {response.text}")
-            return []
-            
-        data = response.json()
-        
-        # Check for API-specific errors in the JSON body
-        if data.get('errors'):
-            print(f"API returned errors: {data['errors']}")
-            return []
-            
-        fixtures = data.get('response', [])
-        print(f"Found {len(fixtures)} total fixtures in API response for {date_str}.")
-        return fixtures
+        response = requests.get(url, timeout=15)
+        if response.status_code == 200:
+            return response.json()
     except Exception as e:
-        print(f"Error fetching {date_str}: {e}")
-        return []
+        print(f"Error fetching ESPN {league_slug}: {e}")
+    return None
 
 def update():
-    print("Updating matches from API-Football...")
+    print("Updating matches from ESPN...")
     
-    # Load old data to preserve manual server changes and matches from other days
     data = {"leagues": {}, "matches": []}
     if os.path.exists(MATCH_FILE):
         try:
             with open(MATCH_FILE, "r", encoding='utf-8') as f:
                 data = json.load(f)
-                print(f"Loaded existing data from {MATCH_FILE}.")
-        except Exception as e:
-            print(f"Error loading {MATCH_FILE}: {e}")
-
-    # To save API quota: 
-    # - On the first run of every hour (or manually), fetch next 7 days.
-    # - Otherwise, only fetch Today and Tomorrow.
-    now = datetime.utcnow()
-    if now.minute < 10:
-        print("Syncing full weekly schedule...")
-        dates = [(now + timedelta(days=i)).strftime('%Y-%m-%d') for i in range(-1, 8)]
-    else:
-        print("Syncing today and tomorrow only (Quota-saving mode)...")
-        dates = [(now + timedelta(days=i)).strftime('%Y-%m-%d') for i in range(0, 2)]
+        except Exception: pass
 
     new_matches = {}
-    for date_str in dates:
-        fixtures = fetch_fixtures(date_str)
-        for item in fixtures:
-            fixture = item['fixture']
-            league = item['league']
-            teams = item['teams']
-            goals = item['goals']
-            status = fixture['status']
+    
+    for slug, config in LEAGUE_CONFIG.items():
+        print(f"Fetching {config['name']}...")
+        espn_json = fetch_espn_data(slug)
+        if not espn_json: continue
 
-            l_id = str(league['id'])
-            # We ONLY process leagues in our LEAGUE_CONFIG to keep the file small and quota safe
-            if l_id not in LEAGUE_CONFIG:
-                continue
+        events = espn_json.get('events', [])
+        for event in events:
+            try:
+                competition = event['competitions'][0]
+                status_type = event['status']['type']['name']
+                short_status = event['status']['type']['shortDetail']
+                
+                # Identify Teams
+                home_team = next(t for t in competition['competitors'] if t['homeAway'] == 'home')
+                away_team = next(t for t in competition['competitors'] if t['homeAway'] == 'away')
 
-            config = LEAGUE_CONFIG[l_id]
-            l_slug = config['slug']
-            l_rank = config['rank']
-            l_name = league['name']
+                # Map Status: 'in' (Live), 'pre' (Scheduled), 'ft' (Finished)
+                app_status = "pre"
+                if "PROGRESS" in status_type or "HALFTIME" in status_type:
+                    app_status = "in"
+                elif "FINAL" in status_type or "FULL_TIME" in status_type:
+                    app_status = "ft"
 
-            # Update league metadata
-            if l_slug not in data['leagues']:
-                data['leagues'][l_slug] = {"name": l_name, "servers": DEFAULT_SERVERS}
-            else:
-                data['leagues'][l_slug]['name'] = l_name
+                # Parse Date/Time
+                raw_date = event['date']
+                dt_obj = datetime.strptime(raw_date, "%Y-%m-%dT%H:%MZ")
+                date_str = dt_obj.strftime("%Y-%m-%d")
+                time_str = dt_obj.strftime("%H:%M")
 
-            # Determine Score
-            score_text = ""
-            if status['short'] not in ['NS', 'TBD']:
-                home_g = goals['home'] if goals['home'] is not None else 0
-                away_g = goals['away'] if goals['away'] is not None else 0
-                score_text = f"{home_g} - {away_g}"
+                # Update league metadata
+                if slug not in data['leagues']:
+                    data['leagues'][slug] = {"name": config['name'], "servers": DEFAULT_SERVERS}
 
-            # Map API status to App status (in, pre, ft)
-            app_status = "pre"
-            if status['short'] in ['1H', 'HT', '2H', 'ET', 'BT', 'P']:
-                app_status = "in"
-            elif status['short'] in ['FT', 'AET', 'PEN']:
-                app_status = "ft"
-
-            m_data = {
-                "match_no": fixture['id'],
-                "league_id": l_slug,
-                "league_name": l_name,
-                "league_rank": l_rank,
-                "team": f"{teams['home']['name']} vs {teams['away']['name']}",
-                "date": fixture['date'].split('T')[0],
-                "time": fixture['date'].split('T')[1][:5],
-                "status": app_status,
-                "score": score_text,
-                "teamA_logo": teams['home']['logo'],
-                "teamB_logo": teams['away']['logo'],
-                "clock": f"{status['elapsed']}'" if status['elapsed'] else status['long'],
-                "goal_scorers": "",
-                "venue": (fixture['venue']['name'] or "TBD") if 'venue' in fixture else "TBD"
-            }
-            new_matches[fixture['id']] = m_data
+                match_id = event['id']
+                new_matches[match_id] = {
+                    "match_no": int(match_id),
+                    "league_id": slug,
+                    "league_name": config['name'],
+                    "league_rank": config['rank'],
+                    "team": f"{home_team['team']['displayName']} vs {away_team['team']['displayName']}",
+                    "date": date_str,
+                    "time": time_str,
+                    "status": app_status,
+                    "score": f"{home_team['score']} - {away_team['score']}" if app_status != "pre" else "VS",
+                    "teamA_logo": home_team['team'].get('logo', ""),
+                    "teamB_logo": away_team['team'].get('logo', ""),
+                    "clock": short_status if app_status == "in" else ("FT" if app_status == "ft" else ""),
+                    "venue": competition.get('venue', {}).get('fullName', "TBD")
+                }
+            except Exception as e:
+                print(f"Skipping match due to error: {e}")
 
     if new_matches:
-        # Merge new matches into existing data (overwriting updates for the same match_id)
-        existing_matches = {m['match_no']: m for m in data.get('matches', [])}
+        existing_matches = {str(m['match_no']): m for m in data.get('matches', [])}
         existing_matches.update(new_matches)
         
-        # Filter out matches older than yesterday to keep file size small
-        yesterday_limit = (now - timedelta(days=1)).strftime('%Y-%m-%d')
-        filtered_matches = [m for m in existing_matches.values() if m['date'] >= yesterday_limit]
-
-        # Sort: Live first, then by league rank, then by date/time
-        filtered_matches.sort(key=lambda x: (x['status'] != 'in', x['league_rank'], x['date'], x['time']))
-        data['matches'] = filtered_matches
+        # Keep matches from yesterday onwards
+        yesterday_str = (datetime.utcnow() - timedelta(days=1)).strftime('%Y-%m-%d')
+        final_list = [m for m in existing_matches.values() if m['date'] >= yesterday_str]
+        
+        # SORT: Live first, then League Rank (World Cup is -1), then Date
+        final_list.sort(key=lambda x: (x['status'] != 'in', x['league_rank'], x['date'], x['time']))
+        data['matches'] = final_list
 
         with open(MATCH_FILE, "w", encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"Successfully updated {len(filtered_matches)} total matches in {MATCH_FILE}.")
         
-        # Also push to GitHub API
+        print(f"Successfully updated {len(final_list)} matches. Pushing to GitHub...")
         push_to_github(data)
     else:
-        print("No new matches found for the selected dates in the target leagues.")
-        # If no new matches but we have old ones, we still might want to push if status changed
-        # but for now we skip to save API calls.
+        print("No matches found.")
 
 if __name__ == "__main__":
     update()
