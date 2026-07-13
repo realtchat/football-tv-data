@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import base64
 from datetime import datetime, timedelta
 
 # Settings
@@ -9,6 +10,54 @@ MATCH_FILE = "matches.json"
 API_KEY = os.getenv("API_FOOTBALL_KEY") 
 API_HOST = "v3.football.api-sports.io"
 BASE_URL = "https://v3.football.api-sports.io"
+
+# GitHub Settings (For API Update)
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+REPO_NAME = "realtchat/football-tv-data" 
+FILE_PATH = "matches.json"
+
+def push_to_github(data):
+    """Updates the JSON file on GitHub using the REST API."""
+    if not GITHUB_TOKEN:
+        print("Note: GITHUB_TOKEN not set. Remote update via API skipped.")
+        return
+
+    url = f"https://api.github.com/repos/{REPO_NAME}/contents/{FILE_PATH}"
+    headers = {
+        "Authorization": f"token {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github.v3+json"
+    }
+
+    # 1. Get the current file's SHA (required for updating)
+    sha = None
+    try:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            sha = response.json().get('sha')
+    except Exception as e:
+        print(f"Error fetching SHA: {e}")
+
+    # 2. Encode content to Base64
+    json_content = json.dumps(data, indent=4, ensure_ascii=False)
+    content_base64 = base64.b64encode(json_content.encode('utf-8')).decode('utf-8')
+
+    # 3. Push the update
+    payload = {
+        "message": f"Auto-update matches: {datetime.now().strftime('%Y-%m-%d %H:%M')}",
+        "content": content_base64,
+        "branch": "main"
+    }
+    if sha:
+        payload["sha"] = sha
+
+    try:
+        res = requests.put(url, headers=headers, json=payload)
+        if res.status_code in [200, 201]:
+            print("Successfully updated matches.json via GitHub API.")
+        else:
+            print(f"GitHub API Error ({res.status_code}): {res.text}")
+    except Exception as e:
+        print(f"Failed to push to GitHub: {e}")
 
 # Mapping API-Football League IDs to your App Slugs/Ranks
 LEAGUE_CONFIG = {
@@ -144,6 +193,9 @@ def update():
         with open(MATCH_FILE, "w", encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
         print(f"Successfully updated {len(match_list)} matches in {MATCH_FILE}.")
+        
+        # Also push to GitHub API
+        push_to_github(data)
     else:
         print("No matches were processed. Check if API Key is correct and has quota.")
 
