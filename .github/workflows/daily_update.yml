@@ -5,6 +5,9 @@ on:
     - cron: '*/10 * * * *' # Runs every 10 minutes
   workflow_dispatch: # Allows you to run it manually
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,11 +27,7 @@ jobs:
         run: python update_matches.py
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add matches.json
-          git commit -m "Auto-update match scores" || exit 0
-          git push
+      # We don't need 'Commit and push changes' anymore because 
+      # the python script now handles the update via the GitHub REST API.
