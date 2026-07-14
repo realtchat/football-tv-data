@@ -3,7 +3,7 @@
         "fifa.world": {
             "name": "World Cup",
             "servers": [
-                 {
+                {
                     "name": "Fast 20 Sec",
                     "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-3ea80a410c190fface9a99c82f4b8748"
                 },
@@ -11,7 +11,6 @@
                     "name": "Fast 18 Sec",
                     "url": "https://bdixserver.tvhunter.top/ant1002/tracks-v1a1/mono.m3u8"
                 },
-               
                 {
                     "name": "15 sec fast",
                     "url": "https://live05.miekgo.app/live/14830711.m3u8"
@@ -336,11 +335,11 @@
             "team": "France vs Spain",
             "date": "2026-07-14",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "in",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-            "clock": "",
+            "clock": "HT",
             "venue": "AT&T Stadium"
         },
         {
@@ -3395,7 +3394,7 @@
             "league_rank": 21,
             "team": "Tijuana vs Tigres UANL",
             "date": "2026-07-17",
-            "time": "03:00",
+            "time": "03:10",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
