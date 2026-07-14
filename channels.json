@@ -1,15 +1,15 @@
 [ 
-  
   {
     "name": "20 Sec fast live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://live05.miekgo.app/live/14830711.m3u8"
+    "stream": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-3ea80a410c190fface9a99c82f4b8748"
   },
   {
-    "name": "fast 18 Sec live",
+    "name": "18 Sec fast live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4"
+    "stream": "https://live05.miekgo.app/live/14830711.m3u8"
   },
+  
   {
     "name": "fast 15 Sec live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
