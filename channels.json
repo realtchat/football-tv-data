@@ -1,14 +1,20 @@
-[
+[ 
   {
     "name": "fast 20 Sec live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://bdixserver.tvhunter.top/ant1002/tracks-v1a1/mono.m3u8"
+    "stream": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4"
   },
   {
     "name": "18 Sec fast live",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
     "stream": "https://live05.miekgo.app/live/14830711.m3u8"
   },
+  {
+    "name": "fast 15 Sec live",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://bdixserver.tvhunter.top/ant1002/tracks-v1a1/mono.m3u8"
+  },
+
   {
     "name": "Live Server 1",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
