@@ -335,11 +335,11 @@
             "team": "France vs Spain",
             "date": "2026-07-14",
             "time": "19:00",
-            "status": "in",
-            "score": "0 - 1",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-            "clock": "HT",
+            "clock": "FT",
             "venue": "AT&T Stadium"
         },
         {
