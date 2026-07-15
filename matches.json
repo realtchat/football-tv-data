@@ -350,11 +350,11 @@
             "team": "England vs Argentina",
             "date": "2026-07-15",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Mercedes-Benz Stadium"
         },
         {
