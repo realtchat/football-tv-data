@@ -347,13 +347,13 @@
             "league_id": "fifa.world",
             "league_name": "FIFA World Cup",
             "league_rank": -1,
-            "team": "France vs Semifinal 2 Loser",
+            "team": "France vs England",
             "date": "2026-07-18",
             "time": "21:00",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-            "teamB_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
             "clock": "",
             "venue": "Hard Rock Stadium"
         },
@@ -362,13 +362,13 @@
             "league_id": "fifa.world",
             "league_name": "FIFA World Cup",
             "league_rank": -1,
-            "team": "Spain vs Semifinal 2 Winner",
+            "team": "Spain vs Argentina",
             "date": "2026-07-19",
             "time": "19:00",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-            "teamB_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
             "clock": "",
             "venue": "MetLife Stadium"
         },
@@ -1556,6 +1556,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
             "clock": "",
             "venue": "Abe Lenstra Stadion"
+        },
+        {
+            "match_no": 401875646,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Telstar vs Sparta Rotterdam",
+            "date": "2026-08-14",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
+            "clock": "",
+            "venue": "711 Stadion"
         },
         {
             "match_no": 401885485,
@@ -3454,7 +3469,7 @@
             "league_rank": 21,
             "team": "Monterrey vs Santos",
             "date": "2026-07-19",
-            "time": "01:00",
+            "time": "01:05",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
@@ -3505,7 +3520,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
             "clock": "",
-            "venue": "Estadio Ciudad de los Deportes"
+            "venue": "Estadio Corregidora"
         },
         {
             "match_no": 401877035,
