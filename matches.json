@@ -328,21 +328,6 @@
     },
     "matches": [
         {
-            "match_no": 760514,
-            "league_id": "fifa.world",
-            "league_name": "FIFA World Cup",
-            "league_rank": -1,
-            "team": "France vs Spain",
-            "date": "2026-07-14",
-            "time": "19:00",
-            "status": "ft",
-            "score": "0 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-            "clock": "FT",
-            "venue": "AT&T Stadium"
-        },
-        {
             "match_no": 760515,
             "league_id": "fifa.world",
             "league_name": "FIFA World Cup",
