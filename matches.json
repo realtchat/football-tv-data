@@ -3,7 +3,6 @@
         "fifa.world": {
             "name": "World Cup",
             "servers": [
-                
                 {
                     "name": "Fast 20 Sec",
                     "url": "https://live05.miekgo.app/live/99121525.m3u8"
