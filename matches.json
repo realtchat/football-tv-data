@@ -109,11 +109,11 @@
             "team": "France vs England",
             "date": "2026-07-18",
             "time": "21:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 6",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Hard Rock Stadium"
         },
         {
