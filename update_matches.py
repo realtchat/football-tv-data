@@ -38,7 +38,7 @@ LEAGUE_CONFIG = {
 }
 
 DEFAULT_SERVERS = [
-    {"name": "Server 1", "url": "https://bdixserver.tvhunter.top/ant1002/tracks-v1a1/mono.m3u8"},
+    {"name": "Server 1", "url": "https://live05.miekgo.app/live/78905744.m3u8"},
     {"name": "Server 2", "url": "https://live05.miekgo.app/live/14830711.m3u8"},
     {"name": "Server 3", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"},
     {"name": "Server 4", "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"}
