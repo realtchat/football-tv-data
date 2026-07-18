@@ -3,13 +3,10 @@
         "fifa.world": {
             "name": "World Cup",
             "servers": [
-                {
-                    "name": "TSN 4 Live ",
-                    "url": "http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8"
-                },
+                
                 {
                     "name": "Fast 20 Sec",
-                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                    "url": "https://live05.miekgo.app/live/99121525.m3u8"
                 },
                 {
                     "name": "Fast 18 Sec",
@@ -17,7 +14,7 @@
                 },
                 {
                     "name": "15 sec fast",
-                    "url": "https://footfytv.pro/channel/fifa-wc"
+                    "url": "https://www.tv.cricflixs.com/live/fifa-wc-1/"
                 },
                 {
                     "name": "Live 4K",
