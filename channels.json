@@ -1,15 +1,15 @@
 [ 
-  
-  {
-    "name": "20 Sec fast live",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-    "stream": "https://live05.miekgo.app/live/08552895.m3u8"
-  },
-  {
-    "name": "SoCo Chince Server",
+   {
+    "name": "25 sec Ultra Fast",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
     "stream": "https://tfxp6gr4uqmtt8y41hcjugwzdrctofisg17ufgr.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=37d3e72f9c04273e67e0f494ea7d8ba8&wsABSTime=1784183211&wsSession=6eeb9b5f1240313e1fc16a24-178448491324559&wsIPSercert=033222d23a4ba53ddeb2ad85dd54b431&wsBindIP=2&wsserid=1168227348938910163"
   },
+  {
+    "name": "20 sec live",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "stream": "https://live05.miekgo.app/live/08552895.m3u8"
+  },
+ 
   
   {
     "name": "Fussball tv",
