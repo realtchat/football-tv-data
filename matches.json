@@ -270,6 +270,21 @@
     },
     "matches": [
         {
+            "match_no": 760517,
+            "league_id": "fifa.world",
+            "league_name": "FIFA World Cup",
+            "league_rank": -1,
+            "team": "Spain vs Argentina",
+            "date": "2026-07-19",
+            "time": "19:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+            "clock": "HT",
+            "venue": "MetLife Stadium"
+        },
+        {
             "match_no": 760516,
             "league_id": "fifa.world",
             "league_name": "FIFA World Cup",
@@ -283,21 +298,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
             "clock": "FT",
             "venue": "Hard Rock Stadium"
-        },
-        {
-            "match_no": 760517,
-            "league_id": "fifa.world",
-            "league_name": "FIFA World Cup",
-            "league_rank": -1,
-            "team": "Spain vs Argentina",
-            "date": "2026-07-19",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-            "clock": "",
-            "venue": "MetLife Stadium"
         },
         {
             "match_no": 401879301,
