@@ -292,11 +292,11 @@
             "team": "Spain vs Argentina",
             "date": "2026-07-19",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "MetLife Stadium"
         },
         {
