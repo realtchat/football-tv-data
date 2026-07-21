@@ -615,21 +615,6 @@
             "venue": "Bank of America Stadium"
         },
         {
-            "match_no": 761674,
-            "league_id": "usa.1",
-            "league_name": "MLS",
-            "league_rank": 10,
-            "team": "Austin FC vs Seattle Sounders FC",
-            "date": "2026-07-23",
-            "time": "00:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-            "clock": "",
-            "venue": "Q2 Stadium"
-        },
-        {
             "match_no": 761671,
             "league_id": "usa.1",
             "league_name": "MLS",
@@ -673,6 +658,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
             "clock": "",
             "venue": "Children's Mercy Park"
+        },
+        {
+            "match_no": 761674,
+            "league_id": "usa.1",
+            "league_name": "MLS",
+            "league_rank": 10,
+            "team": "Austin FC vs Seattle Sounders FC",
+            "date": "2026-07-23",
+            "time": "01:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
+            "clock": "",
+            "venue": "Q2 Stadium"
         },
         {
             "match_no": 761675,
