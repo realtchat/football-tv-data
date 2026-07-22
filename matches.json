@@ -435,6 +435,21 @@
             "venue": "Riyadh Air Metropolitano"
         },
         {
+            "match_no": 401882908,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Rayo Vallecano vs Alavés",
+            "date": "2026-08-20",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+            "clock": "",
+            "venue": "Estadio de Vallecas"
+        },
+        {
             "match_no": 401884817,
             "league_id": "ger.1",
             "league_name": "Bundesliga",
