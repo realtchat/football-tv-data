@@ -266,6 +266,48 @@
                     "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
                 }
             ]
+        },
+        "eng.1": {
+            "name": "Premier League",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://live05.miekgo.app/live/14830711.m3u8"
+                },
+                {
+                    "name": "Server 3",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+                },
+                {
+                    "name": "Server 4",
+                    "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
+                }
+            ]
+        },
+        "fra.1": {
+            "name": "Ligue 1",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://live05.miekgo.app/live/14830711.m3u8"
+                },
+                {
+                    "name": "Server 3",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+                },
+                {
+                    "name": "Server 4",
+                    "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
+                }
+            ]
         }
     },
     "matches": [
@@ -448,6 +490,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
             "clock": "",
             "venue": "Estadio de Vallecas"
+        },
+        {
+            "match_no": 401882914,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Real Betis vs Real Sociedad",
+            "date": "2026-08-21",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+            "clock": "",
+            "venue": "Estadio La Cartuja"
         },
         {
             "match_no": 401884817,
@@ -1461,7 +1518,7 @@
             "league_rank": 10,
             "team": "Seattle Sounders FC vs Vancouver Whitecaps",
             "date": "2026-08-17",
-            "time": "01:00",
+            "time": "02:30",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
@@ -4311,7 +4368,7 @@
             "league_rank": 21,
             "team": "Pachuca vs Querétaro",
             "date": "2026-07-27",
-            "time": "01:00",
+            "time": "01:06",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
@@ -4588,6 +4645,36 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
             "clock": "",
             "venue": "Estadio Hidalgo"
+        },
+        {
+            "match_no": 401877004,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Tigres UANL vs Atlante",
+            "date": "2026-08-22",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+            "clock": "",
+            "venue": "Estadio Universitario"
+        },
+        {
+            "match_no": 401877008,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "FC Juarez vs América",
+            "date": "2026-08-22",
+            "time": "03:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
+            "clock": "",
+            "venue": "Estadio Olímpico Benito Juárez"
         },
         {
             "match_no": 401880340,
