@@ -579,21 +579,6 @@
             "venue": "Spotify Camp Nou"
         },
         {
-            "match_no": 401882919,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Real Madrid vs Real Sociedad",
-            "date": "2026-08-16",
-            "time": "18:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "clock": "",
-            "venue": "Santiago Bernabéu"
-        },
-        {
             "match_no": 401882924,
             "league_id": "esp.1",
             "league_name": "La Liga",
@@ -802,6 +787,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
             "clock": "",
             "venue": "Mestalla Stadium"
+        },
+        {
+            "match_no": 401882919,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Real Madrid vs Real Sociedad",
+            "date": "2026-08-26",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+            "clock": "",
+            "venue": "Santiago Bernabéu"
         },
         {
             "match_no": 401884817,
@@ -1464,6 +1464,36 @@
             "venue": "Al-Shabab Club Stadium"
         },
         {
+            "match_no": 401900386,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al-Faisaly vs Al Fateh",
+            "date": "2026-08-26",
+            "time": "16:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13033.png",
+            "clock": "",
+            "venue": "Al Majma'a Sport City Stadium"
+        },
+        {
+            "match_no": 401900385,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Diriyah vs Al Kholood",
+            "date": "2026-08-26",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
+            "clock": "",
+            "venue": "Prince Faisal bin Fahd Stadium"
+        },
+        {
             "match_no": 401864004,
             "league_id": "usa.1",
             "league_name": "MLS",
@@ -1905,7 +1935,7 @@
             "league_rank": 10,
             "team": "New York City FC vs Philadelphia Union",
             "date": "2026-08-16",
-            "time": "22:30",
+            "time": "22:00",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
