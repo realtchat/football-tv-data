@@ -4074,36 +4074,6 @@
             "venue": "Joao Havelange Stadium"
         },
         {
-            "match_no": 401841452,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "San Lorenzo vs Gimnasia (Mendoza)",
-            "date": "2026-07-28",
-            "time": "22:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
-            "clock": "",
-            "venue": "Estadio Pedro Bidegain"
-        },
-        {
-            "match_no": 401841462,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Banfield vs Sarmiento (Junín)",
-            "date": "2026-07-28",
-            "time": "22:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10158.png",
-            "clock": "",
-            "venue": "Florencio Solá"
-        },
-        {
             "match_no": 401841449,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
