@@ -350,6 +350,27 @@
                     "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
                 }
             ]
+        },
+        "ger.1": {
+            "name": "Bundesliga",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://live05.miekgo.app/live/14830711.m3u8"
+                },
+                {
+                    "name": "Server 3",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+                },
+                {
+                    "name": "Server 4",
+                    "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
+                }
+            ]
         }
     },
     "matches": [
@@ -532,6 +553,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
             "clock": "",
             "venue": "Craven Cottage"
+        },
+        {
+            "match_no": 401879294,
+            "league_id": "eng.1",
+            "league_name": "Premier League",
+            "league_rank": 1,
+            "team": "Crystal Palace vs Manchester City",
+            "date": "2026-08-28",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+            "clock": "",
+            "venue": "Selhurst Park"
         },
         {
             "match_no": 401882926,
@@ -834,6 +870,36 @@
             "venue": "Spotify Camp Nou"
         },
         {
+            "match_no": 401882900,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Racing Santander vs Elche",
+            "date": "2026-08-28",
+            "time": "17:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+            "clock": "",
+            "venue": "El Sardineros"
+        },
+        {
+            "match_no": 401882906,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Alavés vs Villarreal",
+            "date": "2026-08-28",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+            "clock": "",
+            "venue": "Mendizorrotza"
+        },
+        {
             "match_no": 401884817,
             "league_id": "ger.1",
             "league_name": "Bundesliga",
@@ -999,6 +1065,21 @@
             "venue": "Olimpico"
         },
         {
+            "match_no": 401874758,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "AC Milan vs Venezia",
+            "date": "2026-08-28",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+            "clock": "",
+            "venue": "San Siro"
+        },
+        {
             "match_no": 401876489,
             "league_id": "fra.1",
             "league_name": "Ligue 1",
@@ -1132,6 +1213,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
             "clock": "",
             "venue": "Parc des Princes"
+        },
+        {
+            "match_no": 401876476,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Lille vs Paris Saint-Germain",
+            "date": "2026-08-28",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+            "clock": "",
+            "venue": "Decathlon Arena - Stade Pierre-Mauroy"
         },
         {
             "match_no": 401900410,
@@ -1522,6 +1618,66 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
             "clock": "",
             "venue": "Prince Faisal bin Fahd Stadium"
+        },
+        {
+            "match_no": 401900384,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Riyadh vs Neom SC",
+            "date": "2026-08-28",
+            "time": "15:50",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130899.png",
+            "clock": "",
+            "venue": "Prince Faisal bin Fahd Stadium"
+        },
+        {
+            "match_no": 401900383,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Fayha vs Abha",
+            "date": "2026-08-28",
+            "time": "16:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
+            "clock": "",
+            "venue": "Al Majma'a Sport City Stadium"
+        },
+        {
+            "match_no": 401900382,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Khaleej vs Al Hilal",
+            "date": "2026-08-28",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
+            "clock": "",
+            "venue": "Prince Mohammed Bin Fahd Stadium"
+        },
+        {
+            "match_no": 401900381,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Nassr vs Al Taawoun",
+            "date": "2026-08-28",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18459.png",
+            "clock": "",
+            "venue": "Al-Awwal Park"
         },
         {
             "match_no": 401864004,
@@ -2827,6 +2983,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
             "clock": "",
             "venue": "Kooi Stadium"
+        },
+        {
+            "match_no": 401875630,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "FC Groningen vs Fortuna Sittard",
+            "date": "2026-08-28",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
+            "clock": "",
+            "venue": "Euroborg"
         },
         {
             "match_no": 401885491,
@@ -5235,7 +5406,7 @@
             "league_rank": 21,
             "team": "Atlas vs Monterrey",
             "date": "2026-08-02",
-            "time": "01:00",
+            "time": "01:05",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
@@ -5250,7 +5421,7 @@
             "league_rank": 21,
             "team": "León vs Pachuca",
             "date": "2026-08-02",
-            "time": "01:00",
+            "time": "01:06",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
@@ -5295,7 +5466,7 @@
             "league_rank": 21,
             "team": "Toluca vs Necaxa",
             "date": "2026-08-03",
-            "time": "01:00",
+            "time": "01:05",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
@@ -5572,6 +5743,51 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
             "clock": "",
             "venue": "Estadio Olímpico Universitario"
+        },
+        {
+            "match_no": 401876999,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Atlante vs León",
+            "date": "2026-08-29",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
+            "clock": "",
+            "venue": "Estadio Banorte"
+        },
+        {
+            "match_no": 401877000,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Necaxa vs Cruz Azul",
+            "date": "2026-08-29",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
+            "clock": "",
+            "venue": "Estadio Victoria"
+        },
+        {
+            "match_no": 401876998,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Tijuana vs Pumas UNAM",
+            "date": "2026-08-29",
+            "time": "03:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
+            "clock": "",
+            "venue": "Estadio Caliente"
         },
         {
             "match_no": 401880340,
@@ -5932,6 +6148,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
             "clock": "",
             "venue": "The Hawthorns"
+        },
+        {
+            "match_no": 401880305,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Wrexham vs Birmingham City",
+            "date": "2026-08-28",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
+            "clock": "",
+            "venue": "STōK Cae Ras"
         }
     ]
 }
