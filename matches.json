@@ -5617,11 +5617,11 @@
             "team": "Aldosivi vs Gimnasia La Plata",
             "date": "2026-08-02",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9739.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "José María Minella"
         },
         {
@@ -5632,11 +5632,11 @@
             "team": "Deportivo Riestra vs Barracas Central",
             "date": "2026-08-02",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17702.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Guillermo Laza"
         },
         {
