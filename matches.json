@@ -660,6 +660,21 @@
             "venue": "Old Trafford"
         },
         {
+            "match_no": 401879295,
+            "league_id": "eng.1",
+            "league_name": "Premier League",
+            "league_rank": 1,
+            "team": "Aston Villa vs Arsenal",
+            "date": "2026-08-31",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+            "clock": "",
+            "venue": "Villa Park"
+        },
+        {
             "match_no": 401882926,
             "league_id": "esp.1",
             "league_name": "La Liga",
@@ -1080,6 +1095,36 @@
             "venue": "Balaidos"
         },
         {
+            "match_no": 401882901,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Osasuna vs Getafe",
+            "date": "2026-08-31",
+            "time": "17:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+            "clock": "",
+            "venue": "El Sadar"
+        },
+        {
+            "match_no": 401882903,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Barcelona vs Rayo Vallecano",
+            "date": "2026-08-31",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+            "clock": "",
+            "venue": "Spotify Camp Nou"
+        },
+        {
             "match_no": 401884817,
             "league_id": "ger.1",
             "league_name": "Bundesliga",
@@ -1483,6 +1528,36 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
             "clock": "",
             "venue": "Olimpico"
+        },
+        {
+            "match_no": 401874945,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Lecce vs AS Roma",
+            "date": "2026-08-31",
+            "time": "16:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+            "clock": "",
+            "venue": "Via Del Mare"
+        },
+        {
+            "match_no": 401874970,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Atalanta vs Bologna",
+            "date": "2026-08-31",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+            "clock": "",
+            "venue": "New Balance Arena"
         },
         {
             "match_no": 401876489,
@@ -2278,21 +2353,6 @@
             "teamB_logo": "",
             "clock": "",
             "venue": "Prince Mohammed Bin Fahd Stadium"
-        },
-        {
-            "match_no": 761695,
-            "league_id": "usa.1",
-            "league_name": "MLS",
-            "league_rank": 10,
-            "team": "New York City FC vs Toronto FC",
-            "date": "2026-07-31",
-            "time": "23:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-            "clock": "",
-            "venue": "Yankee Stadium"
         },
         {
             "match_no": 761697,
@@ -4875,21 +4935,6 @@
             "venue": "Samsun 19 Mayis Stadium"
         },
         {
-            "match_no": 401841173,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Coritiba vs Cruzeiro",
-            "date": "2026-07-31",
-            "time": "00:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-            "clock": "",
-            "venue": "Couto Pereira"
-        },
-        {
             "match_no": 401841181,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -5488,36 +5533,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
             "clock": "",
             "venue": "Estádio São Januário"
-        },
-        {
-            "match_no": 401841459,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Central Córdoba (Santiago del Estero) vs Atlético Tucumán",
-            "date": "2026-07-31",
-            "time": "00:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
-            "clock": "",
-            "venue": "Alfredo Terrera"
-        },
-        {
-            "match_no": 401841456,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Independiente vs Newell's Old Boys",
-            "date": "2026-07-31",
-            "time": "00:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
-            "clock": "",
-            "venue": "Estadio Libertadores de América"
         },
         {
             "match_no": 401841466,
