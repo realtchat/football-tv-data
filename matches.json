@@ -375,6 +375,21 @@
     },
     "matches": [
         {
+            "match_no": 401841476,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "River Plate vs Rosario Central",
+            "date": "2026-08-02",
+            "time": "22:15",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
+            "clock": "HT",
+            "venue": "Estadio Más Monumental"
+        },
+        {
             "match_no": 401879301,
             "league_id": "eng.1",
             "league_name": "Premier League",
@@ -5653,21 +5668,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
             "clock": "FT",
             "venue": "Marcelo Bielsa"
-        },
-        {
-            "match_no": 401841476,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "River Plate vs Rosario Central",
-            "date": "2026-08-02",
-            "time": "22:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
-            "clock": "",
-            "venue": "Estadio Más Monumental"
         },
         {
             "match_no": 401841472,
