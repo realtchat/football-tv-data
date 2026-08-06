@@ -675,6 +675,21 @@
             "venue": "Villa Park"
         },
         {
+            "match_no": 401879288,
+            "league_id": "eng.1",
+            "league_name": "Premier League",
+            "league_rank": 1,
+            "team": "Ipswich Town vs Liverpool",
+            "date": "2026-09-04",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+            "clock": "",
+            "venue": "Portman Road"
+        },
+        {
             "match_no": 401882926,
             "league_id": "esp.1",
             "league_name": "La Liga",
@@ -1140,6 +1155,21 @@
             "venue": "Reale Arena"
         },
         {
+            "match_no": 401882894,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Real Betis vs Real Madrid",
+            "date": "2026-09-04",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+            "clock": "",
+            "venue": "Estadio La Cartuja"
+        },
+        {
             "match_no": 401884817,
             "league_id": "ger.1",
             "league_name": "Bundesliga",
@@ -1273,6 +1303,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
             "clock": "",
             "venue": "WWK Arena"
+        },
+        {
+            "match_no": 401884808,
+            "league_id": "ger.1",
+            "league_name": "Bundesliga",
+            "league_rank": 3,
+            "team": "VfB Stuttgart vs FC Cologne",
+            "date": "2026-09-04",
+            "time": "18:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+            "clock": "",
+            "venue": "MHPArena"
         },
         {
             "match_no": 401874931,
@@ -1575,6 +1620,21 @@
             "venue": "New Balance Arena"
         },
         {
+            "match_no": 401874744,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Genoa vs Como",
+            "date": "2026-09-04",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+            "clock": "",
+            "venue": "Stadio Luigi Ferraris"
+        },
+        {
             "match_no": 401876489,
             "league_id": "fra.1",
             "league_name": "Ligue 1",
@@ -1858,6 +1918,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
             "clock": "",
             "venue": "Stadium Municipal de Toulouse"
+        },
+        {
+            "match_no": 401876469,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Paris Saint-Germain vs AS Monaco",
+            "date": "2026-09-04",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+            "clock": "",
+            "venue": "Parc des Princes"
         },
         {
             "match_no": 401900410,
@@ -2443,6 +2518,51 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
             "clock": "",
             "venue": "Prince Faisal bin Fahd Stadium"
+        },
+        {
+            "match_no": 401900371,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Abha vs Al Ettifaq",
+            "date": "2026-09-04",
+            "time": "16:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
+            "clock": "",
+            "venue": "Prince Sultan bin Abdulaziz Sports City Stadium"
+        },
+        {
+            "match_no": 401900369,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Ahli vs Al Riyadh",
+            "date": "2026-09-04",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
+            "clock": "",
+            "venue": "Prince Abdullah Al-Faisal Stadium"
+        },
+        {
+            "match_no": 401900370,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Shabab vs Al Hilal",
+            "date": "2026-09-04",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
+            "clock": "",
+            "venue": "Al-Shabab Club Stadium"
         },
         {
             "match_no": 761469,
@@ -3360,6 +3480,21 @@
             "venue": "Energizer Park"
         },
         {
+            "match_no": 761770,
+            "league_id": "usa.1",
+            "league_name": "MLS",
+            "league_rank": 10,
+            "team": "New York City FC vs Nashville SC",
+            "date": "2026-09-04",
+            "time": "23:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
+            "clock": "",
+            "venue": "Yankee Stadium"
+        },
+        {
             "match_no": 401875655,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -3868,6 +4003,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
             "clock": "",
             "venue": "Kooi Stadium"
+        },
+        {
+            "match_no": 401875621,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Sparta Rotterdam vs PEC Zwolle",
+            "date": "2026-09-04",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+            "clock": "",
+            "venue": "Sparta-Stadion Het Kasteel"
         },
         {
             "match_no": 401885491,
@@ -5415,36 +5565,6 @@
             "venue": "Estádio São Januário"
         },
         {
-            "match_no": 401841468,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Central Córdoba (Santiago del Estero) vs San Lorenzo",
-            "date": "2026-08-04",
-            "time": "00:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
-            "clock": "",
-            "venue": "Alfredo Terrera"
-        },
-        {
-            "match_no": 401841471,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Huracán vs Atlético Tucumán",
-            "date": "2026-08-04",
-            "time": "00:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
-            "clock": "",
-            "venue": "Estadio Tomás Adolfo Ducó"
-        },
-        {
             "match_no": 401841460,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -6793,6 +6913,36 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
             "clock": "",
             "venue": "Estadio BBVA"
+        },
+        {
+            "match_no": 401876991,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Puebla vs Toluca",
+            "date": "2026-09-05",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
+            "clock": "",
+            "venue": "Estadio Cuauhtémoc"
+        },
+        {
+            "match_no": 401876990,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "FC Juarez vs Pachuca",
+            "date": "2026-09-05",
+            "time": "03:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
+            "clock": "",
+            "venue": "Estadio Olímpico Benito Juárez"
         },
         {
             "match_no": 401880340,
