@@ -4102,11 +4102,11 @@
             "team": "SC Cambuur vs Excelsior",
             "date": "2026-08-07",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Kooi Stadium"
         },
         {
