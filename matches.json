@@ -4687,11 +4687,11 @@
             "team": "Estoril vs FC Famalicao",
             "date": "2026-08-07",
             "time": "19:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio António Coimbra da Mota"
         },
         {
