@@ -375,21 +375,6 @@
     },
     "matches": [
         {
-            "match_no": 401875652,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "PSV Eindhoven vs Fortuna Sittard",
-            "date": "2026-08-08",
-            "time": "18:00",
-            "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-            "clock": "HT",
-            "venue": "Philips Stadion"
-        },
-        {
             "match_no": 401841491,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -4395,6 +4380,21 @@
             "venue": "De Adelaarshorst"
         },
         {
+            "match_no": 401875652,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "PSV Eindhoven vs Fortuna Sittard",
+            "date": "2026-08-08",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
+            "clock": "",
+            "venue": "Philips Stadion"
+        },
+        {
             "match_no": 401875651,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -5017,11 +5017,11 @@
             "team": "Vitória de Guimaraes vs Arouca",
             "date": "2026-08-08",
             "time": "17:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio D. Afonso Henriques"
         },
         {
