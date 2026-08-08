@@ -6390,36 +6390,6 @@
             "venue": "Estadio Manoel Barradas"
         },
         {
-            "match_no": 401841463,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Tigre vs Belgrano (Córdoba)",
-            "date": "2026-08-06",
-            "time": "00:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
-            "clock": "",
-            "venue": "Monumental de Victoria (José Dellagiovanna)"
-        },
-        {
-            "match_no": 401841450,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Unión (Santa Fe) vs Lanús",
-            "date": "2026-08-06",
-            "time": "22:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
-            "clock": "",
-            "venue": "15 de Abril"
-        },
-        {
             "match_no": 401841493,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
