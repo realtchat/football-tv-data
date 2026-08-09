@@ -5092,11 +5092,11 @@
             "team": "FC Porto vs Alverca",
             "date": "2026-08-09",
             "time": "17:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio do Dragão"
         },
         {
