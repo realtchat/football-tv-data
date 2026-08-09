@@ -4492,11 +4492,11 @@
             "team": "FC Groningen vs FC Utrecht",
             "date": "2026-08-09",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Euroborg"
         },
         {
@@ -4507,11 +4507,11 @@
             "team": "PEC Zwolle vs Ajax Amsterdam",
             "date": "2026-08-09",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "MAC³PARK Stadion"
         },
         {
