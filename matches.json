@@ -383,10 +383,10 @@
             "date": "2026-08-09",
             "time": "20:45",
             "status": "in",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
-            "clock": "10'",
+            "clock": "45'+3'",
             "venue": "Norberto Tomaghello"
         },
         {
@@ -5122,11 +5122,11 @@
             "team": "Benfica vs Académico de Viseu",
             "date": "2026-08-09",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio da Luz"
         },
         {
@@ -5137,11 +5137,11 @@
             "team": "Moreirense vs Braga",
             "date": "2026-08-09",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3696.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Comendador Joaquim de Almeida Freitas"
         },
         {
@@ -5152,11 +5152,11 @@
             "team": "Gil Vicente vs Rio Ave",
             "date": "2026-08-09",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Cidade de Barcelos"
         },
         {
@@ -6337,11 +6337,11 @@
             "team": "Bahia vs Vasco da Gama",
             "date": "2026-08-09",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Arena Fonte Nova"
         },
         {
@@ -6352,11 +6352,11 @@
             "team": "Palmeiras vs Internacional",
             "date": "2026-08-09",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Allianz Parque"
         },
         {
