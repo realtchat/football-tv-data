@@ -375,6 +375,21 @@
     },
     "matches": [
         {
+            "match_no": 401875647,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Heerenveen vs FC Twente",
+            "date": "2026-08-09",
+            "time": "14:45",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
+            "clock": "46'",
+            "venue": "Abe Lenstra Stadion"
+        },
+        {
             "match_no": 401879301,
             "league_id": "eng.1",
             "league_name": "Premier League",
@@ -4513,21 +4528,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
             "clock": "FT",
             "venue": "MAC³PARK Stadion"
-        },
-        {
-            "match_no": 401875647,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "Heerenveen vs FC Twente",
-            "date": "2026-08-09",
-            "time": "14:45",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-            "clock": "",
-            "venue": "Abe Lenstra Stadion"
         },
         {
             "match_no": 401875646,
