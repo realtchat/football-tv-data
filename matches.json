@@ -885,21 +885,6 @@
             "venue": "RCDE Stadium"
         },
         {
-            "match_no": 401882924,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Celta Vigo vs Osasuna",
-            "date": "2026-08-16",
-            "time": "19:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-            "clock": "",
-            "venue": "Balaidos"
-        },
-        {
             "match_no": 401882923,
             "league_id": "esp.1",
             "league_name": "La Liga",
@@ -1108,6 +1093,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
             "clock": "",
             "venue": "Santiago Bernabéu"
+        },
+        {
+            "match_no": 401882924,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Celta Vigo vs Osasuna",
+            "date": "2026-08-27",
+            "time": "18:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+            "clock": "",
+            "venue": "Balaidos"
         },
         {
             "match_no": 401882921,
@@ -6357,7 +6357,7 @@
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Diyarbakir Stadyumu"
         },
         {
             "match_no": 401888387,
