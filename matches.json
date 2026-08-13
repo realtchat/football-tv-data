@@ -2475,13 +2475,28 @@
             "venue": "Stadium Municipal de Toulouse"
         },
         {
+            "match_no": 401876472,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Lyon vs AJ Auxerre",
+            "date": "2026-09-04",
+            "time": "17:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+            "clock": "",
+            "venue": "Groupama Stadium"
+        },
+        {
             "match_no": 401876469,
             "league_id": "fra.1",
             "league_name": "Ligue 1",
             "league_rank": 5,
             "team": "Paris Saint-Germain vs AS Monaco",
             "date": "2026-09-04",
-            "time": "18:45",
+            "time": "19:05",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
@@ -2503,21 +2518,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
             "clock": "",
             "venue": "Stade Bollaert-Delelis"
-        },
-        {
-            "match_no": 401876472,
-            "league_id": "fra.1",
-            "league_name": "Ligue 1",
-            "league_rank": 5,
-            "team": "Lyon vs AJ Auxerre",
-            "date": "2026-09-05",
-            "time": "18:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-            "clock": "",
-            "venue": "Groupama Stadium"
         },
         {
             "match_no": 401876474,
@@ -6417,7 +6417,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Erzurum Kazim Karabekir"
         },
         {
             "match_no": 401888301,
@@ -8151,7 +8151,7 @@
             "league_rank": 21,
             "team": "Pachuca vs Puebla",
             "date": "2026-08-18",
-            "time": "03:00",
+            "time": "03:06",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
