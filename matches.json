@@ -5992,11 +5992,11 @@
             "team": "Sporting CP vs Vitória de Guimaraes",
             "date": "2026-08-14",
             "time": "19:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio José Alvalade"
         },
         {
@@ -9352,11 +9352,11 @@
             "team": "Wolverhampton Wanderers vs Blackburn Rovers",
             "date": "2026-08-14",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/365.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Molineux Stadium"
         },
         {
