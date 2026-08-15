@@ -6442,11 +6442,11 @@
             "team": "Rio Ave vs FC Porto",
             "date": "2026-08-15",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio do Rio Ave"
         },
         {
@@ -7747,11 +7747,11 @@
             "team": "Fluminense vs Palmeiras",
             "date": "2026-08-15",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio do Maracana"
         },
         {
