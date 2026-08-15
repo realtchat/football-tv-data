@@ -375,19 +375,19 @@
     },
     "matches": [
         {
-            "match_no": 401885483,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Académico de Viseu vs Santa Clara",
+            "match_no": 401888326,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Gaziantep FK vs Alanyaspor",
             "date": "2026-08-15",
-            "time": "17:00",
+            "time": "18:30",
             "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-            "clock": "HT",
-            "venue": "Estádio do Fontelo"
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
+            "clock": "16'",
+            "venue": "Gaziantep Stadium"
         },
         {
             "match_no": 401841504,
@@ -3337,11 +3337,11 @@
             "team": "Al Taawoun vs Al Khaleej",
             "date": "2026-08-15",
             "time": "16:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18459.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Taawon Club Stadium"
         },
         {
@@ -5782,11 +5782,11 @@
             "team": "FC Utrecht vs AZ Alkmaar",
             "date": "2026-08-15",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadion Galgenwaard"
         },
         {
@@ -6433,6 +6433,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
             "clock": "FT",
             "venue": "Complexo Desportivo FC Alverca"
+        },
+        {
+            "match_no": 401885483,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Académico de Viseu vs Santa Clara",
+            "date": "2026-08-15",
+            "time": "17:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
+            "clock": "",
+            "venue": "Estádio do Fontelo"
         },
         {
             "match_no": 401885476,
@@ -7108,21 +7123,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
             "clock": "FT",
             "venue": "Medas Konya Büyüksehir Stadyumu"
-        },
-        {
-            "match_no": 401888326,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Gaziantep FK vs Alanyaspor",
-            "date": "2026-08-15",
-            "time": "18:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
-            "clock": "",
-            "venue": "Gaziantep Stadium"
         },
         {
             "match_no": 401888323,
@@ -10402,11 +10402,11 @@
             "team": "Sheffield United vs Birmingham City",
             "date": "2026-08-15",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Bramall Lane"
         },
         {
