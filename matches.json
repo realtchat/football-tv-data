@@ -375,6 +375,36 @@
     },
     "matches": [
         {
+            "match_no": 761713,
+            "league_id": "usa.1",
+            "league_name": "MLS",
+            "league_rank": 10,
+            "team": "Orlando City SC vs FC Cincinnati",
+            "date": "2026-08-15",
+            "time": "23:30",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
+            "clock": "14'",
+            "venue": "Inter&Co Stadium"
+        },
+        {
+            "match_no": 761714,
+            "league_id": "usa.1",
+            "league_name": "MLS",
+            "league_rank": 10,
+            "team": "Toronto FC vs New England Revolution",
+            "date": "2026-08-15",
+            "time": "23:30",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
+            "clock": "14'",
+            "venue": "BMO Field"
+        },
+        {
             "match_no": 401841504,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -388,6 +418,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
             "clock": "17'",
             "venue": "Presidente Perón (Cilindro de Avellaneda)"
+        },
+        {
+            "match_no": 401877018,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Atlante vs Toluca",
+            "date": "2026-08-15",
+            "time": "23:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
+            "clock": "HT",
+            "venue": "Estadio Banorte"
         },
         {
             "match_no": 401879301,
@@ -4213,36 +4258,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
             "clock": "",
             "venue": "Bank of America Stadium"
-        },
-        {
-            "match_no": 761713,
-            "league_id": "usa.1",
-            "league_name": "MLS",
-            "league_rank": 10,
-            "team": "Orlando City SC vs FC Cincinnati",
-            "date": "2026-08-15",
-            "time": "23:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-            "clock": "",
-            "venue": "Inter&Co Stadium"
-        },
-        {
-            "match_no": 761714,
-            "league_id": "usa.1",
-            "league_name": "MLS",
-            "league_rank": 10,
-            "team": "Toronto FC vs New England Revolution",
-            "date": "2026-08-15",
-            "time": "23:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-            "clock": "",
-            "venue": "BMO Field"
         },
         {
             "match_no": 761715,
@@ -8557,11 +8572,11 @@
             "team": "Belgrano (Córdoba) vs Independiente Rivadavia",
             "date": "2026-08-15",
             "time": "22:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "El Gigante de Alberdi"
         },
         {
@@ -9598,21 +9613,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
             "clock": "",
             "venue": "Monumental de Victoria (José Dellagiovanna)"
-        },
-        {
-            "match_no": 401877018,
-            "league_id": "mex.1",
-            "league_name": "Liga MX",
-            "league_rank": 21,
-            "team": "Atlante vs Toluca",
-            "date": "2026-08-15",
-            "time": "23:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
-            "clock": "",
-            "venue": "Estadio Banorte"
         },
         {
             "match_no": 401877017,
