@@ -375,21 +375,6 @@
     },
     "matches": [
         {
-            "match_no": 401888325,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Kasimpasa vs Trabzonspor",
-            "date": "2026-08-15",
-            "time": "16:00",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-            "clock": "1'",
-            "venue": "Recep Tayyip Erdogan Stadium"
-        },
-        {
             "match_no": 401841504,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -403,6 +388,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
             "clock": "17'",
             "venue": "Presidente Perón (Cilindro de Avellaneda)"
+        },
+        {
+            "match_no": 401880332,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Sheffield United vs Birmingham City",
+            "date": "2026-08-15",
+            "time": "16:30",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
+            "clock": "7'",
+            "venue": "Bramall Lane"
         },
         {
             "match_no": 401879301,
@@ -5767,11 +5767,11 @@
             "team": "Willem II vs NEC Nijmegen",
             "date": "2026-08-15",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Koning Willem II Stadion"
         },
         {
@@ -6427,11 +6427,11 @@
             "team": "Alverca vs Estrela",
             "date": "2026-08-15",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Complexo Desportivo FC Alverca"
         },
         {
@@ -7093,6 +7093,21 @@
             "teamB_logo": "",
             "clock": "FT",
             "venue": "RAMS Park"
+        },
+        {
+            "match_no": 401888325,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Kasimpasa vs Trabzonspor",
+            "date": "2026-08-15",
+            "time": "16:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
+            "clock": "",
+            "venue": "Recep Tayyip Erdogan Stadium"
         },
         {
             "match_no": 401888322,
@@ -10387,27 +10402,12 @@
             "team": "Portsmouth vs Queens Park Rangers",
             "date": "2026-08-15",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/385.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Fratton Park"
-        },
-        {
-            "match_no": 401880332,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Sheffield United vs Birmingham City",
-            "date": "2026-08-15",
-            "time": "16:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
-            "clock": "",
-            "venue": "Bramall Lane"
         },
         {
             "match_no": 401880331,
