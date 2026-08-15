@@ -375,21 +375,6 @@
     },
     "matches": [
         {
-            "match_no": 401882918,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Sevilla vs Rayo Vallecano",
-            "date": "2026-08-15",
-            "time": "19:30",
-            "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-            "clock": "HT",
-            "venue": "Ramón Sánchez Pizjuán Stadium"
-        },
-        {
             "match_no": 401841504,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -1003,6 +988,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
             "clock": "FT",
             "venue": "Mendizorrotza"
+        },
+        {
+            "match_no": 401882918,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Sevilla vs Rayo Vallecano",
+            "date": "2026-08-15",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+            "clock": "",
+            "venue": "Ramón Sánchez Pizjuán Stadium"
         },
         {
             "match_no": 401882920,
@@ -5797,11 +5797,11 @@
             "team": "Fortuna Sittard vs SC Cambuur",
             "date": "2026-08-15",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Fortuna Sittard Stadion"
         },
         {
