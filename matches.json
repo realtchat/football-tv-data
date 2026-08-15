@@ -375,6 +375,21 @@
     },
     "matches": [
         {
+            "match_no": 401888325,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Kasimpasa vs Trabzonspor",
+            "date": "2026-08-15",
+            "time": "16:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
+            "clock": "1'",
+            "venue": "Recep Tayyip Erdogan Stadium"
+        },
+        {
             "match_no": 401841504,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -7080,21 +7095,6 @@
             "venue": "RAMS Park"
         },
         {
-            "match_no": 401888325,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Kasimpasa vs Trabzonspor",
-            "date": "2026-08-15",
-            "time": "16:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-            "clock": "",
-            "venue": "Recep Tayyip Erdogan Stadium"
-        },
-        {
             "match_no": 401888322,
             "league_id": "tur.1",
             "league_name": "Turkish Süper Lig",
@@ -10312,11 +10312,11 @@
             "team": "Bristol City vs Millwall",
             "date": "2026-08-15",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/333.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/391.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Ashton Gate"
         },
         {
@@ -10327,11 +10327,11 @@
             "team": "Charlton Athletic vs Derby County",
             "date": "2026-08-15",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/374.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "The Valley"
         },
         {
@@ -10342,11 +10342,11 @@
             "team": "Middlesbrough vs Lincoln City",
             "date": "2026-08-15",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/314.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Riverside Stadium"
         },
         {
@@ -10357,11 +10357,11 @@
             "team": "Norwich City vs West Bromwich Albion",
             "date": "2026-08-15",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Carrow Road"
         },
         {
@@ -10372,11 +10372,11 @@
             "team": "Stoke City vs Swansea City",
             "date": "2026-08-15",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/336.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/318.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "bet365 Stadium"
         },
         {
