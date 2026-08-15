@@ -375,36 +375,6 @@
     },
     "matches": [
         {
-            "match_no": 401875645,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "Willem II vs NEC Nijmegen",
-            "date": "2026-08-15",
-            "time": "14:30",
-            "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-            "clock": "HT",
-            "venue": "Koning Willem II Stadion"
-        },
-        {
-            "match_no": 401885482,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Alverca vs Estrela",
-            "date": "2026-08-15",
-            "time": "14:30",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
-            "clock": "HT",
-            "venue": "Complexo Desportivo FC Alverca"
-        },
-        {
             "match_no": 401841504,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -5775,6 +5745,21 @@
             "venue": "711 Stadion"
         },
         {
+            "match_no": 401875645,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Willem II vs NEC Nijmegen",
+            "date": "2026-08-15",
+            "time": "14:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
+            "clock": "",
+            "venue": "Koning Willem II Stadion"
+        },
+        {
             "match_no": 401875644,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -6418,6 +6403,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
             "clock": "FT",
             "venue": "Estádio José Alvalade"
+        },
+        {
+            "match_no": 401885482,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Alverca vs Estrela",
+            "date": "2026-08-15",
+            "time": "14:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
+            "clock": "",
+            "venue": "Complexo Desportivo FC Alverca"
         },
         {
             "match_no": 401885483,
