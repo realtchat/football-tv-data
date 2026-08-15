@@ -375,19 +375,19 @@
     },
     "matches": [
         {
-            "match_no": 401888326,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Gaziantep FK vs Alanyaspor",
+            "match_no": 401900403,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Ittihad vs Al Kholood",
             "date": "2026-08-15",
-            "time": "18:30",
+            "time": "18:00",
             "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
-            "clock": "16'",
-            "venue": "Gaziantep Stadium"
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
+            "clock": "50'",
+            "venue": "King Abdullah Sports City"
         },
         {
             "match_no": 401841504,
@@ -3343,21 +3343,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
             "clock": "FT",
             "venue": "Al Taawon Club Stadium"
-        },
-        {
-            "match_no": 401900403,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Ittihad vs Al Kholood",
-            "date": "2026-08-15",
-            "time": "18:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
-            "clock": "",
-            "venue": "King Abdullah Sports City"
         },
         {
             "match_no": 401900402,
@@ -6442,11 +6427,11 @@
             "team": "Académico de Viseu vs Santa Clara",
             "date": "2026-08-15",
             "time": "17:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio do Fontelo"
         },
         {
@@ -7123,6 +7108,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
             "clock": "FT",
             "venue": "Medas Konya Büyüksehir Stadyumu"
+        },
+        {
+            "match_no": 401888326,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Gaziantep FK vs Alanyaspor",
+            "date": "2026-08-15",
+            "time": "18:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
+            "clock": "",
+            "venue": "Gaziantep Stadium"
         },
         {
             "match_no": 401888323,
