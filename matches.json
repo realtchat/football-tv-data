@@ -10297,11 +10297,11 @@
             "team": "Bolton Wanderers vs Preston North End",
             "date": "2026-08-15",
             "time": "11:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/394.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Toughsheet Community Stadium"
         },
         {
