@@ -375,34 +375,19 @@
     },
     "matches": [
         {
-            "match_no": 401882926,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Alavés vs Getafe",
+            "match_no": 401885483,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Académico de Viseu vs Santa Clara",
             "date": "2026-08-15",
-            "time": "17:30",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-            "clock": "17'",
-            "venue": "Mendizorrotza"
-        },
-        {
-            "match_no": 401875644,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "FC Utrecht vs AZ Alkmaar",
-            "date": "2026-08-15",
-            "time": "16:45",
+            "time": "17:00",
             "status": "in",
             "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
             "clock": "HT",
-            "venue": "Stadion Galgenwaard"
+            "venue": "Estádio do Fontelo"
         },
         {
             "match_no": 401841504,
@@ -1003,6 +988,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
             "clock": "",
             "venue": "Old Trafford"
+        },
+        {
+            "match_no": 401882926,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Alavés vs Getafe",
+            "date": "2026-08-15",
+            "time": "17:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+            "clock": "",
+            "venue": "Mendizorrotza"
         },
         {
             "match_no": 401882918,
@@ -5775,6 +5775,21 @@
             "venue": "Koning Willem II Stadion"
         },
         {
+            "match_no": 401875644,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "FC Utrecht vs AZ Alkmaar",
+            "date": "2026-08-15",
+            "time": "16:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+            "clock": "",
+            "venue": "Stadion Galgenwaard"
+        },
+        {
             "match_no": 401875643,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -6418,21 +6433,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
             "clock": "FT",
             "venue": "Complexo Desportivo FC Alverca"
-        },
-        {
-            "match_no": 401885483,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Académico de Viseu vs Santa Clara",
-            "date": "2026-08-15",
-            "time": "17:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-            "clock": "",
-            "venue": "Estádio do Fontelo"
         },
         {
             "match_no": 401885476,
@@ -7087,11 +7087,11 @@
             "team": "Kasimpasa vs Trabzonspor",
             "date": "2026-08-15",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Recep Tayyip Erdogan Stadium"
         },
         {
@@ -7102,11 +7102,11 @@
             "team": "Konyaspor vs Caykur Rizespor",
             "date": "2026-08-15",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Medas Konya Büyüksehir Stadyumu"
         },
         {
