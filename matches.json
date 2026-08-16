@@ -405,6 +405,21 @@
             "venue": "BMO Field"
         },
         {
+            "match_no": 401841190,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Mirassol vs Flamengo",
+            "date": "2026-08-16",
+            "time": "21:30",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+            "clock": "14'",
+            "venue": "Estadio Municipal José Maria de Campos Maia"
+        },
+        {
             "match_no": 401877018,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -6442,11 +6457,11 @@
             "team": "FC Famalicao vs Maritimo",
             "date": "2026-08-16",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Municipal 22 de Junho"
         },
         {
@@ -7768,21 +7783,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
             "clock": "FT",
             "venue": "Estádio São Januário"
-        },
-        {
-            "match_no": 401841190,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Mirassol vs Flamengo",
-            "date": "2026-08-16",
-            "time": "21:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-            "clock": "",
-            "venue": "Estadio Municipal José Maria de Campos Maia"
         },
         {
             "match_no": 401841197,
