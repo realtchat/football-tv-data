@@ -405,21 +405,6 @@
             "venue": "BMO Field"
         },
         {
-            "match_no": 401885477,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "C.D. Nacional vs Estoril",
-            "date": "2026-08-16",
-            "time": "14:30",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
-            "clock": "HT",
-            "venue": "Estádio da Madeira"
-        },
-        {
             "match_no": 401877018,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -433,6 +418,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
             "clock": "HT",
             "venue": "Estadio Banorte"
+        },
+        {
+            "match_no": 401880330,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Burnley vs West Ham United",
+            "date": "2026-08-16",
+            "time": "15:00",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+            "clock": "HT",
+            "venue": "Turf Moor"
         },
         {
             "match_no": 401879301,
@@ -6420,6 +6420,21 @@
             "venue": "Estádio do Rio Ave"
         },
         {
+            "match_no": 401885477,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "C.D. Nacional vs Estoril",
+            "date": "2026-08-16",
+            "time": "14:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
+            "clock": "",
+            "venue": "Estádio da Madeira"
+        },
+        {
             "match_no": 401885481,
             "league_id": "por.1",
             "league_name": "Liga Portugal",
@@ -10333,21 +10348,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
             "clock": "FT",
             "venue": "Vicarage Road"
-        },
-        {
-            "match_no": 401880330,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Burnley vs West Ham United",
-            "date": "2026-08-16",
-            "time": "15:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-            "clock": "",
-            "venue": "Turf Moor"
         },
         {
             "match_no": 401880329,
