@@ -1005,6 +1005,21 @@
             "venue": "Old Trafford"
         },
         {
+            "match_no": 401879280,
+            "league_id": "eng.1",
+            "league_name": "Premier League",
+            "league_rank": 1,
+            "team": "Leeds United vs Newcastle United",
+            "date": "2026-09-14",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+            "clock": "",
+            "venue": "Elland Road"
+        },
+        {
             "match_no": 401882926,
             "league_id": "esp.1",
             "league_name": "La Liga",
@@ -2758,6 +2773,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
             "clock": "",
             "venue": "Olimpico"
+        },
+        {
+            "match_no": 401874966,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Internazionale vs Udinese",
+            "date": "2026-09-14",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+            "clock": "",
+            "venue": "San Siro"
         },
         {
             "match_no": 401876489,
