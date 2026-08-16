@@ -413,10 +413,10 @@
             "date": "2026-08-16",
             "time": "19:30",
             "status": "in",
-            "score": "1 - 0",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
-            "clock": "17'",
+            "clock": "31'",
             "venue": "Estádio Municipal 22 de Junho"
         },
         {
@@ -431,8 +431,23 @@
             "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-            "clock": "45'+2'",
+            "clock": "HT",
             "venue": "Arena MRV"
+        },
+        {
+            "match_no": 401841188,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Vasco da Gama vs Santos",
+            "date": "2026-08-16",
+            "time": "19:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+            "clock": "HT",
+            "venue": "Estádio São Januário"
         },
         {
             "match_no": 401877018,
@@ -7755,21 +7770,6 @@
             "venue": "Arena Condá"
         },
         {
-            "match_no": 401841188,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Vasco da Gama vs Santos",
-            "date": "2026-08-16",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-            "clock": "",
-            "venue": "Estádio São Januário"
-        },
-        {
             "match_no": 401841190,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -8527,11 +8527,11 @@
             "team": "Sarmiento (Junín) vs Huracán",
             "date": "2026-08-16",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10158.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Eva Perón"
         },
         {
@@ -9577,11 +9577,11 @@
             "team": "Pumas UNAM vs Querétaro",
             "date": "2026-08-16",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio Olímpico Universitario"
         },
         {
