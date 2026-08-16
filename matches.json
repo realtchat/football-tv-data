@@ -405,6 +405,36 @@
             "venue": "BMO Field"
         },
         {
+            "match_no": 761722,
+            "league_id": "usa.1",
+            "league_name": "MLS",
+            "league_rank": 10,
+            "team": "New York City FC vs Philadelphia Union",
+            "date": "2026-08-16",
+            "time": "22:00",
+            "status": "in",
+            "score": "2 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
+            "clock": "HT",
+            "venue": "Yankee Stadium"
+        },
+        {
+            "match_no": 401841193,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Corinthians vs Cruzeiro",
+            "date": "2026-08-16",
+            "time": "22:30",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+            "clock": "HT",
+            "venue": "Neo Química Arena"
+        },
+        {
             "match_no": 401877018,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -4320,21 +4350,6 @@
             "venue": "PayPal Park"
         },
         {
-            "match_no": 761722,
-            "league_id": "usa.1",
-            "league_name": "MLS",
-            "league_rank": 10,
-            "team": "New York City FC vs Philadelphia Union",
-            "date": "2026-08-16",
-            "time": "22:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-            "clock": "",
-            "venue": "Yankee Stadium"
-        },
-        {
             "match_no": 761723,
             "league_id": "usa.1",
             "league_name": "MLS",
@@ -7800,21 +7815,6 @@
             "venue": "Estadio Manoel Barradas"
         },
         {
-            "match_no": 401841193,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Corinthians vs Cruzeiro",
-            "date": "2026-08-16",
-            "time": "22:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-            "clock": "",
-            "venue": "Neo Química Arena"
-        },
-        {
             "match_no": 401841191,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -8542,11 +8542,11 @@
             "team": "River Plate vs Argentinos Juniors",
             "date": "2026-08-16",
             "time": "21:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio Más Monumental"
         },
         {
