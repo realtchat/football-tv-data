@@ -8460,21 +8460,6 @@
             "venue": "Mario Alberto Kempes"
         },
         {
-            "match_no": 401841531,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Huracán vs Estudiantes de Río Cuarto",
-            "date": "2026-08-28",
-            "time": "22:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19685.png",
-            "clock": "",
-            "venue": "Estadio Tomás Adolfo Ducó"
-        },
-        {
             "match_no": 401841525,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -8518,6 +8503,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
             "clock": "",
             "venue": "Gigante de Arroyito"
+        },
+        {
+            "match_no": 401841531,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Huracán vs Estudiantes de Río Cuarto",
+            "date": "2026-08-29",
+            "time": "22:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19685.png",
+            "clock": "",
+            "venue": "Estadio Tomás Adolfo Ducó"
         },
         {
             "match_no": 401841527,
