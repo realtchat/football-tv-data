@@ -9255,6 +9255,21 @@
             "venue": "Estadio Universitario"
         },
         {
+            "match_no": 401877005,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "León vs Monterrey",
+            "date": "2026-08-22",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
+            "clock": "",
+            "venue": "Estadio León"
+        },
+        {
             "match_no": 401877008,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -9298,21 +9313,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
             "clock": "",
             "venue": "Estadio Akron"
-        },
-        {
-            "match_no": 401877005,
-            "league_id": "mex.1",
-            "league_name": "Liga MX",
-            "league_rank": 21,
-            "team": "León vs Monterrey",
-            "date": "2026-08-23",
-            "time": "01:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
-            "clock": "",
-            "venue": "Estadio León"
         },
         {
             "match_no": 401877009,
