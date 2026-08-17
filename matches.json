@@ -375,19 +375,19 @@
     },
     "matches": [
         {
-            "match_no": 401882923,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Deportivo vs Elche",
+            "match_no": 401888320,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Samsunspor vs Goztepe",
             "date": "2026-08-17",
-            "time": "19:00",
+            "time": "18:30",
             "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-            "clock": "2'",
-            "venue": "Riazor"
+            "score": "2 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
+            "clock": "HT",
+            "venue": "Samsun 19 Mayis Stadium"
         },
         {
             "match_no": 401841497,
@@ -403,6 +403,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
             "clock": "44'",
             "venue": "Alfredo Terrera"
+        },
+        {
+            "match_no": 401841498,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Estudiantes de Río Cuarto vs Atlético Tucumán",
+            "date": "2026-08-17",
+            "time": "17:45",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19685.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
+            "clock": "90'+6'",
+            "venue": "Ciudad de Río Cuarto Antonio Candini"
         },
         {
             "match_no": 401877014,
@@ -1048,6 +1063,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
             "clock": "FT",
             "venue": "RCDE Stadium"
+        },
+        {
+            "match_no": 401882923,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Deportivo vs Elche",
+            "date": "2026-08-17",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+            "clock": "",
+            "venue": "Riazor"
         },
         {
             "match_no": 401882925,
@@ -6840,21 +6870,6 @@
             "venue": "Vodafone Park"
         },
         {
-            "match_no": 401888320,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Samsunspor vs Goztepe",
-            "date": "2026-08-17",
-            "time": "18:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
-            "clock": "",
-            "venue": "Samsun 19 Mayis Stadium"
-        },
-        {
             "match_no": 401888313,
             "league_id": "tur.1",
             "league_name": "Turkish Süper Lig",
@@ -8173,21 +8188,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
             "clock": "",
             "venue": "Estadio Claudio Chiqui Tapia"
-        },
-        {
-            "match_no": 401841498,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Estudiantes de Río Cuarto vs Atlético Tucumán",
-            "date": "2026-08-17",
-            "time": "17:45",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19685.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
-            "clock": "",
-            "venue": "Ciudad de Río Cuarto Antonio Candini"
         },
         {
             "match_no": 401841507,
