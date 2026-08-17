@@ -375,21 +375,6 @@
     },
     "matches": [
         {
-            "match_no": 401882923,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Deportivo vs Elche",
-            "date": "2026-08-17",
-            "time": "19:00",
-            "status": "in",
-            "score": "1 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-            "clock": "HT",
-            "venue": "Riazor"
-        },
-        {
             "match_no": 401841497,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -418,21 +403,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
             "clock": "HT",
             "venue": "Estadio Banorte"
-        },
-        {
-            "match_no": 401880329,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Cardiff City vs Wrexham",
-            "date": "2026-08-17",
-            "time": "19:00",
-            "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/347.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
-            "clock": "HT",
-            "venue": "Cardiff City Stadium"
         },
         {
             "match_no": 401879301,
@@ -1063,6 +1033,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
             "clock": "FT",
             "venue": "RCDE Stadium"
+        },
+        {
+            "match_no": 401882923,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Deportivo vs Elche",
+            "date": "2026-08-17",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+            "clock": "",
+            "venue": "Riazor"
         },
         {
             "match_no": 401882925,
@@ -6862,11 +6847,11 @@
             "team": "Samsunspor vs Goztepe",
             "date": "2026-08-17",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Samsun 19 Mayis Stadium"
         },
         {
@@ -9823,6 +9808,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
             "clock": "FT",
             "venue": "Turf Moor"
+        },
+        {
+            "match_no": 401880329,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Cardiff City vs Wrexham",
+            "date": "2026-08-17",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/347.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
+            "clock": "",
+            "venue": "Cardiff City Stadium"
         },
         {
             "match_no": 401880328,
