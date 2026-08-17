@@ -375,6 +375,21 @@
     },
     "matches": [
         {
+            "match_no": 401882923,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Deportivo vs Elche",
+            "date": "2026-08-17",
+            "time": "19:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+            "clock": "2'",
+            "venue": "Riazor"
+        },
+        {
             "match_no": 401841497,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -1033,21 +1048,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
             "clock": "FT",
             "venue": "RCDE Stadium"
-        },
-        {
-            "match_no": 401882923,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Deportivo vs Elche",
-            "date": "2026-08-17",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-            "clock": "",
-            "venue": "Riazor"
         },
         {
             "match_no": 401882925,
