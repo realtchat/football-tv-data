@@ -390,6 +390,21 @@
             "venue": "Alfredo Terrera"
         },
         {
+            "match_no": 401841507,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Lanús vs Independiente",
+            "date": "2026-08-17",
+            "time": "20:00",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
+            "clock": "HT",
+            "venue": "Ciudad de Lanús"
+        },
+        {
             "match_no": 401877014,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -1042,11 +1057,11 @@
             "team": "Deportivo vs Elche",
             "date": "2026-08-17",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Riazor"
         },
         {
@@ -8190,21 +8205,6 @@
             "venue": "Ciudad de Río Cuarto Antonio Candini"
         },
         {
-            "match_no": 401841507,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Lanús vs Independiente",
-            "date": "2026-08-17",
-            "time": "20:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
-            "clock": "",
-            "venue": "Ciudad de Lanús"
-        },
-        {
             "match_no": 401841495,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -9817,11 +9817,11 @@
             "team": "Cardiff City vs Wrexham",
             "date": "2026-08-17",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/347.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Cardiff City Stadium"
         },
         {
