@@ -375,6 +375,21 @@
     },
     "matches": [
         {
+            "match_no": 401841191,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Internacional vs Remo",
+            "date": "2026-08-17",
+            "time": "23:00",
+            "status": "in",
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+            "clock": "45'+3'",
+            "venue": "Estadio Beira-Rio"
+        },
+        {
             "match_no": 401841497,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -7498,21 +7513,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
             "clock": "",
             "venue": "Neo Química Arena"
-        },
-        {
-            "match_no": 401841191,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Internacional vs Remo",
-            "date": "2026-08-17",
-            "time": "23:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-            "clock": "",
-            "venue": "Estadio Beira-Rio"
         },
         {
             "match_no": 401841205,
