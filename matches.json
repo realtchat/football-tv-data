@@ -7500,6 +7500,21 @@
             "venue": "Arena do Grêmio"
         },
         {
+            "match_no": 401841211,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Mirassol vs Palmeiras",
+            "date": "2026-08-30",
+            "time": "21:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+            "clock": "",
+            "venue": "Estadio Municipal José Maria de Campos Maia"
+        },
+        {
             "match_no": 401841215,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -7513,21 +7528,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
             "clock": "",
             "venue": "Arena Fonte Nova"
-        },
-        {
-            "match_no": 401841211,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Mirassol vs Palmeiras",
-            "date": "2026-08-30",
-            "time": "22:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-            "clock": "",
-            "venue": "Estadio Municipal José Maria de Campos Maia"
         },
         {
             "match_no": 401841210,
