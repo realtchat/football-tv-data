@@ -371,6 +371,27 @@
                     "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
                 }
             ]
+        },
+        "afc.champions": {
+            "name": "AFC Champions League",
+            "servers": [
+                {
+                    "name": "Server 1",
+                    "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                },
+                {
+                    "name": "Server 2",
+                    "url": "https://live05.miekgo.app/live/14830711.m3u8"
+                },
+                {
+                    "name": "Server 3",
+                    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+                },
+                {
+                    "name": "Server 4",
+                    "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"
+                }
+            ]
         }
     },
     "matches": [
@@ -973,6 +994,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
             "clock": "",
             "venue": "Elland Road"
+        },
+        {
+            "match_no": 401879275,
+            "league_id": "eng.1",
+            "league_name": "Premier League",
+            "league_rank": 1,
+            "team": "Brentford vs Chelsea",
+            "date": "2026-09-18",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+            "clock": "",
+            "venue": "Gtech Community Stadium"
         },
         {
             "match_no": 401882925,
@@ -2205,6 +2241,21 @@
             "venue": "URSAPHARM-Arena an der Kaiserlinde"
         },
         {
+            "match_no": 401884790,
+            "league_id": "ger.1",
+            "league_name": "Bundesliga",
+            "league_rank": 3,
+            "team": "Bayern Munich vs 1. FC Union Berlin",
+            "date": "2026-09-18",
+            "time": "18:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+            "clock": "",
+            "venue": "Allianz Arena"
+        },
+        {
             "match_no": 401874931,
             "league_id": "ita.1",
             "league_name": "Serie A",
@@ -2803,6 +2854,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
             "clock": "",
             "venue": "San Siro"
+        },
+        {
+            "match_no": 401874756,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Monza vs Sassuolo",
+            "date": "2026-09-18",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+            "clock": "",
+            "venue": "U-Power Stadium"
         },
         {
             "match_no": 401876489,
@@ -5625,6 +5691,21 @@
             "venue": "Snapdragon Stadium"
         },
         {
+            "match_no": 761815,
+            "league_id": "usa.1",
+            "league_name": "MLS",
+            "league_rank": 10,
+            "team": "New York City FC vs Red Bull New York",
+            "date": "2026-09-18",
+            "time": "23:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
+            "clock": "",
+            "venue": "Yankee Stadium"
+        },
+        {
             "match_no": 401875637,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -6163,6 +6244,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
             "clock": "",
             "venue": "Johan Cruijff Arena"
+        },
+        {
+            "match_no": 401875599,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "FC Groningen vs PEC Zwolle",
+            "date": "2026-09-18",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+            "clock": "",
+            "venue": "Euroborg"
         },
         {
             "match_no": 401885471,
@@ -8745,6 +8841,246 @@
             "venue": "Monumental de Victoria (José Dellagiovanna)"
         },
         {
+            "match_no": 401912664,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Neftchi Fergana vs Air Force Club",
+            "date": "2026-09-14",
+            "time": "13:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "",
+            "clock": "",
+            "venue": "Istiqlol Stadium"
+        },
+        {
+            "match_no": 401912663,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Al Shamal vs Al Ittihad",
+            "date": "2026-09-14",
+            "time": "16:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
+            "clock": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 401912673,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Shabab Al-Ahli vs Traktor Sazi FC",
+            "date": "2026-09-14",
+            "time": "16:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "",
+            "clock": "",
+            "venue": "Rashid Stadium"
+        },
+        {
+            "match_no": 401912674,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Esteghlal vs Al Sadd",
+            "date": "2026-09-14",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7135.png",
+            "clock": "",
+            "venue": "TBD"
+        },
+        {
+            "match_no": 401912662,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Al Ahli vs Pakhtakor Tashkent",
+            "date": "2026-09-14",
+            "time": "18:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
+            "teamB_logo": "",
+            "clock": "",
+            "venue": "King Abdullah Sports City"
+        },
+        {
+            "match_no": 401912661,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Al Qadsiah vs Al Wasl",
+            "date": "2026-09-14",
+            "time": "18:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8365.png",
+            "clock": "",
+            "venue": "Prince Mohammed Bin Fahd Stadium"
+        },
+        {
+            "match_no": 401912672,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Daejeon Hana Citizen vs Kyoto Sanga",
+            "date": "2026-09-15",
+            "time": "10:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21361.png",
+            "clock": "",
+            "venue": "Daejeon World Cup Stadium"
+        },
+        {
+            "match_no": 401912671,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Gamba Osaka vs Cong An Hanoi",
+            "date": "2026-09-15",
+            "time": "10:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7102.png",
+            "teamB_logo": "",
+            "clock": "",
+            "venue": "Suita City Football Stadium"
+        },
+        {
+            "match_no": 401912660,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Kashima Antlers vs Newcastle Jets",
+            "date": "2026-09-15",
+            "time": "10:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7115.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5323.png",
+            "clock": "",
+            "venue": "Kashima Soccer Stadium"
+        },
+        {
+            "match_no": 401912659,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Ratchaburi FC vs Shanghai Port",
+            "date": "2026-09-15",
+            "time": "10:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17760.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15515.png",
+            "clock": "",
+            "venue": "Dragon Solar Park"
+        },
+        {
+            "match_no": 401912657,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Beijing Guoan vs Pohang Steelers",
+            "date": "2026-09-15",
+            "time": "12:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2052.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9693.png",
+            "clock": "",
+            "venue": "Workers' Stadium"
+        },
+        {
+            "match_no": 401912658,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Johor Darul Ta'zim vs Buriram United",
+            "date": "2026-09-15",
+            "time": "12:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17689.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7138.png",
+            "clock": "",
+            "venue": "Sultan Ibrahim Stadium"
+        },
+        {
+            "match_no": 401912656,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Al Ain vs Al Nassr",
+            "date": "2026-09-15",
+            "time": "16:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7128.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
+            "clock": "",
+            "venue": "Hazza Bin Zayed Stadium"
+        },
+        {
+            "match_no": 401912655,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Al Hilal vs Al Gharafa",
+            "date": "2026-09-15",
+            "time": "18:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
+            "teamB_logo": "https://a.espncdn.com/guid/a0ee48aa-0d67-c802-ac49-7492db10d894/logos/default.png",
+            "clock": "",
+            "venue": "Kingdom Arena"
+        },
+        {
+            "match_no": 401912670,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Jeonbuk Motors vs Kashiwa Reysol",
+            "date": "2026-09-16",
+            "time": "10:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7476.png",
+            "clock": "",
+            "venue": "Jeonju World Cup Stadium"
+        },
+        {
+            "match_no": 401912654,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Port FC vs Vissel Kobe",
+            "date": "2026-09-16",
+            "time": "12:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17757.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7477.png",
+            "clock": "",
+            "venue": "Thammasat Stadium"
+        },
+        {
             "match_no": 401877004,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -9283,6 +9619,36 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
             "clock": "",
             "venue": "Estadio BBVA"
+        },
+        {
+            "match_no": 401876973,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Puebla vs Atlante",
+            "date": "2026-09-19",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+            "clock": "",
+            "venue": "Estadio Cuauhtémoc"
+        },
+        {
+            "match_no": 401876972,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "FC Juarez vs Tigres UANL",
+            "date": "2026-09-19",
+            "time": "03:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
+            "clock": "",
+            "venue": "Estadio Olímpico Benito Juárez"
         },
         {
             "match_no": 401880328,
@@ -10363,6 +10729,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
             "clock": "",
             "venue": "Bramall Lane"
+        },
+        {
+            "match_no": 401880255,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Bristol City vs Watford",
+            "date": "2026-09-18",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/333.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/395.png",
+            "clock": "",
+            "venue": "Ashton Gate"
         }
     ]
 }
