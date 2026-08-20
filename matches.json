@@ -7845,21 +7845,6 @@
             "venue": "Estádio Vila Belmiro (Urbano Caldeira)"
         },
         {
-            "match_no": 401841500,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Gimnasia (Mendoza) vs Talleres (Córdoba)",
-            "date": "2026-08-18",
-            "time": "00:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19.png",
-            "clock": "",
-            "venue": "Estadio Víctor Antonio Legrotaglie"
-        },
-        {
             "match_no": 401841522,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -8758,36 +8743,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
             "clock": "",
             "venue": "Monumental de Victoria (José Dellagiovanna)"
-        },
-        {
-            "match_no": 401877011,
-            "league_id": "mex.1",
-            "league_name": "Liga MX",
-            "league_rank": 21,
-            "team": "Necaxa vs León",
-            "date": "2026-08-18",
-            "time": "01:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
-            "clock": "",
-            "venue": "Estadio Victoria"
-        },
-        {
-            "match_no": 401877010,
-            "league_id": "mex.1",
-            "league_name": "Liga MX",
-            "league_rank": 21,
-            "team": "Pachuca vs Puebla",
-            "date": "2026-08-18",
-            "time": "03:06",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
-            "clock": "",
-            "venue": "Estadio Hidalgo"
         },
         {
             "match_no": 401877004,
