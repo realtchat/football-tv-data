@@ -403,11 +403,11 @@
             "team": "Arsenal vs Coventry City",
             "date": "2026-08-21",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Emirates Stadium"
         },
         {
@@ -1138,11 +1138,11 @@
             "team": "Real Betis vs Real Sociedad",
             "date": "2026-08-21",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio La Cartuja"
         },
         {
@@ -3103,11 +3103,11 @@
             "team": "Marseille vs Strasbourg",
             "date": "2026-08-21",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Vélodrome"
         },
         {
