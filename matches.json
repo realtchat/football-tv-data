@@ -8661,6 +8661,21 @@
             "venue": "Mangueirão"
         },
         {
+            "match_no": 401913077,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Flamengo vs Mirassol",
+            "date": "2026-09-02",
+            "time": "22:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+            "clock": "",
+            "venue": "Estadio do Maracana"
+        },
+        {
             "match_no": 401841224,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
