@@ -396,19 +396,19 @@
     },
     "matches": [
         {
-            "match_no": 401885473,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Estoril vs Rio Ave",
+            "match_no": 401876488,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Nice vs Lorient",
             "date": "2026-08-22",
-            "time": "17:00",
+            "time": "18:45",
             "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
-            "clock": "HT",
-            "venue": "Estádio António Coimbra da Mota"
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+            "clock": "1'",
+            "venue": "Allianz Riviera"
         },
         {
             "match_no": 401841511,
@@ -508,11 +508,11 @@
             "team": "Brentford vs Tottenham Hotspur",
             "date": "2026-08-22",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Gtech Community Stadium"
         },
         {
@@ -2668,11 +2668,11 @@
             "team": "Internazionale vs Monza",
             "date": "2026-08-22",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "San Siro"
         },
         {
@@ -2683,11 +2683,11 @@
             "team": "Udinese vs Como",
             "date": "2026-08-22",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Friuli"
         },
         {
@@ -3456,21 +3456,6 @@
             "venue": "Stade Marie-Marvingt"
         },
         {
-            "match_no": 401876488,
-            "league_id": "fra.1",
-            "league_name": "Ligue 1",
-            "league_rank": 5,
-            "team": "Nice vs Lorient",
-            "date": "2026-08-22",
-            "time": "18:45",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-            "clock": "",
-            "venue": "Allianz Riviera"
-        },
-        {
             "match_no": 401876486,
             "league_id": "fra.1",
             "league_name": "Ligue 1",
@@ -4168,11 +4153,11 @@
             "team": "Al Kholood vs Al Taawoun",
             "date": "2026-08-22",
             "time": "16:10",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18459.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Hazm Club Stadium"
         },
         {
@@ -6373,11 +6358,11 @@
             "team": "Sparta Rotterdam vs FC Utrecht",
             "date": "2026-08-22",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Sparta-Stadion Het Kasteel"
         },
         {
@@ -7039,6 +7024,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
             "clock": "FT",
             "venue": "Estádio do Marítimo"
+        },
+        {
+            "match_no": 401885473,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Estoril vs Rio Ave",
+            "date": "2026-08-22",
+            "time": "17:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
+            "clock": "",
+            "venue": "Estádio António Coimbra da Mota"
         },
         {
             "match_no": 401885467,
