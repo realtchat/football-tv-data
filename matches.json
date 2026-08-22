@@ -396,21 +396,6 @@
     },
     "matches": [
         {
-            "match_no": 401841204,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Internacional vs Atlético-MG",
-            "date": "2026-08-22",
-            "time": "21:30",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-            "clock": "20'",
-            "venue": "Estadio Beira-Rio"
-        },
-        {
             "match_no": 401841511,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -8389,6 +8374,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
             "clock": "FT",
             "venue": "Estadio do Maracana"
+        },
+        {
+            "match_no": 401841204,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Internacional vs Atlético-MG",
+            "date": "2026-08-22",
+            "time": "21:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+            "clock": "",
+            "venue": "Estadio Beira-Rio"
         },
         {
             "match_no": 401841206,
