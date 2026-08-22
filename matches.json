@@ -396,36 +396,6 @@
     },
     "matches": [
         {
-            "match_no": 401882912,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Espanyol vs Real Madrid",
-            "date": "2026-08-22",
-            "time": "19:30",
-            "status": "in",
-            "score": "1 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-            "clock": "HT",
-            "venue": "RCDE Stadium"
-        },
-        {
-            "match_no": 401885467,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Sporting CP vs Alverca",
-            "date": "2026-08-22",
-            "time": "19:30",
-            "status": "in",
-            "score": "1 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
-            "clock": "HT",
-            "venue": "Estádio José Alvalade"
-        },
-        {
             "match_no": 401841511,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -439,21 +409,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
             "clock": "HT",
             "venue": "Ciudad de Río Cuarto Antonio Candini"
-        },
-        {
-            "match_no": 401841512,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Gimnasia La Plata vs Gimnasia (Mendoza)",
-            "date": "2026-08-22",
-            "time": "19:00",
-            "status": "in",
-            "score": "2 - 3",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
-            "clock": "77'",
-            "venue": "Juan Carmelo Zerillo (El Bosque)"
         },
         {
             "match_no": 401879301,
@@ -1249,6 +1204,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
             "clock": "FT",
             "venue": "Mestalla Stadium"
+        },
+        {
+            "match_no": 401882912,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Espanyol vs Real Madrid",
+            "date": "2026-08-22",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+            "clock": "",
+            "venue": "RCDE Stadium"
         },
         {
             "match_no": 401882915,
@@ -2713,11 +2683,11 @@
             "team": "Parma vs Cagliari",
             "date": "2026-08-22",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Ennio Tardini"
         },
         {
@@ -2728,11 +2698,11 @@
             "team": "Genoa vs Napoli",
             "date": "2026-08-22",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Luigi Ferraris"
         },
         {
@@ -3463,11 +3433,11 @@
             "team": "Nice vs Lorient",
             "date": "2026-08-22",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Allianz Riviera"
         },
         {
@@ -3478,11 +3448,11 @@
             "team": "Le Mans vs Brest",
             "date": "2026-08-22",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Marie-Marvingt"
         },
         {
@@ -3493,11 +3463,11 @@
             "team": "Toulouse vs Lyon",
             "date": "2026-08-22",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadium Municipal de Toulouse"
         },
         {
@@ -3508,11 +3478,11 @@
             "team": "Troyes vs Paris FC",
             "date": "2026-08-22",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade de l'Aube"
         },
         {
@@ -6418,11 +6388,11 @@
             "team": "Heerenveen vs PEC Zwolle",
             "date": "2026-08-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Abe Lenstra Stadion"
         },
         {
@@ -7069,6 +7039,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
             "clock": "FT",
             "venue": "Estádio António Coimbra da Mota"
+        },
+        {
+            "match_no": 401885467,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Sporting CP vs Alverca",
+            "date": "2026-08-22",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
+            "clock": "",
+            "venue": "Estádio José Alvalade"
         },
         {
             "match_no": 401885466,
@@ -8383,11 +8368,11 @@
             "team": "Fluminense vs Remo",
             "date": "2026-08-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio do Maracana"
         },
         {
@@ -9156,6 +9141,21 @@
             "venue": "José María Minella"
         },
         {
+            "match_no": 401841512,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Gimnasia La Plata vs Gimnasia (Mendoza)",
+            "date": "2026-08-22",
+            "time": "19:00",
+            "status": "ft",
+            "score": "2 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
+            "clock": "FT",
+            "venue": "Juan Carmelo Zerillo (El Bosque)"
+        },
+        {
             "match_no": 401841523,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -9163,11 +9163,11 @@
             "team": "Atlético Tucumán vs Instituto (Córdoba)",
             "date": "2026-08-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Monumental Presidente José Fierro"
         },
         {
