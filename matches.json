@@ -8383,11 +8383,11 @@
             "team": "Internacional vs Atlético-MG",
             "date": "2026-08-22",
             "time": "21:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio Beira-Rio"
         },
         {
