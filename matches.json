@@ -1213,11 +1213,11 @@
             "team": "Espanyol vs Real Madrid",
             "date": "2026-08-22",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "RCDE Stadium"
         },
         {
