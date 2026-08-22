@@ -396,34 +396,19 @@
     },
     "matches": [
         {
-            "match_no": 401875637,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "Fortuna Sittard vs AZ Alkmaar",
+            "match_no": 401882916,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Athletic Club vs Sevilla",
             "date": "2026-08-22",
-            "time": "14:30",
+            "time": "15:00",
             "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
             "clock": "HT",
-            "venue": "Fortuna Sittard Stadion"
-        },
-        {
-            "match_no": 401885471,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Maritimo vs Académico de Viseu",
-            "date": "2026-08-22",
-            "time": "14:30",
-            "status": "in",
-            "score": "0 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
-            "clock": "HT",
-            "venue": "Estádio do Marítimo"
+            "venue": "San Mamés"
         },
         {
             "match_no": 401841511,
@@ -493,11 +478,11 @@
             "team": "Ipswich Town vs Sunderland",
             "date": "2026-08-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Portman Road"
         },
         {
@@ -508,11 +493,11 @@
             "team": "Nottingham Forest vs Leeds United",
             "date": "2026-08-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "The City Ground"
         },
         {
@@ -1204,21 +1189,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
             "clock": "FT",
             "venue": "Estadio La Cartuja"
-        },
-        {
-            "match_no": 401882916,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Athletic Club vs Sevilla",
-            "date": "2026-08-22",
-            "time": "15:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-            "clock": "",
-            "venue": "San Mamés"
         },
         {
             "match_no": 401882907,
@@ -6366,6 +6336,21 @@
             "venue": "Nu Stadium"
         },
         {
+            "match_no": 401875637,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Fortuna Sittard vs AZ Alkmaar",
+            "date": "2026-08-22",
+            "time": "14:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+            "clock": "",
+            "venue": "Fortuna Sittard Stadion"
+        },
+        {
             "match_no": 401875635,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -7024,6 +7009,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
             "clock": "",
             "venue": "De Grolsch Veste"
+        },
+        {
+            "match_no": 401885471,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Maritimo vs Académico de Viseu",
+            "date": "2026-08-22",
+            "time": "14:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
+            "clock": "",
+            "venue": "Estádio do Marítimo"
         },
         {
             "match_no": 401885473,
@@ -11218,11 +11218,11 @@
             "team": "Blackburn Rovers vs Middlesbrough",
             "date": "2026-08-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/365.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Ewood Park"
         },
         {
@@ -11233,11 +11233,11 @@
             "team": "Queens Park Rangers vs Bolton Wanderers",
             "date": "2026-08-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "MATRADE Loftus Road"
         },
         {
@@ -11248,11 +11248,11 @@
             "team": "West Ham United vs Charlton Athletic",
             "date": "2026-08-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "London Stadium"
         },
         {
