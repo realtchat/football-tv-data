@@ -396,34 +396,19 @@
     },
     "matches": [
         {
-            "match_no": 401841199,
+            "match_no": 401841207,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
             "league_rank": 14,
-            "team": "Chapecoense vs São Paulo",
+            "team": "Coritiba vs Corinthians",
             "date": "2026-08-23",
-            "time": "21:30",
+            "time": "22:30",
             "status": "in",
             "score": "1 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-            "clock": "75'",
-            "venue": "Arena Condá"
-        },
-        {
-            "match_no": 401841518,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "River Plate vs Vélez Sarsfield",
-            "date": "2026-08-23",
-            "time": "22:15",
-            "status": "in",
-            "score": "2 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
             "clock": "HT",
-            "venue": "Estadio Más Monumental"
+            "venue": "Couto Pereira"
         },
         {
             "match_no": 401879322,
@@ -8346,6 +8331,21 @@
             "venue": "Allianz Parque"
         },
         {
+            "match_no": 401841199,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Chapecoense vs São Paulo",
+            "date": "2026-08-23",
+            "time": "21:30",
+            "status": "ft",
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+            "clock": "FT",
+            "venue": "Arena Condá"
+        },
+        {
             "match_no": 401841201,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -8353,27 +8353,12 @@
             "team": "Santos vs Mirassol",
             "date": "2026-08-23",
             "time": "21:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Vila Belmiro (Urbano Caldeira)"
-        },
-        {
-            "match_no": 401841207,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Coritiba vs Corinthians",
-            "date": "2026-08-23",
-            "time": "22:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-            "clock": "",
-            "venue": "Couto Pereira"
         },
         {
             "match_no": 401841198,
@@ -9124,6 +9109,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
             "clock": "FT",
             "venue": "El Gigante de Alberdi"
+        },
+        {
+            "match_no": 401841518,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "River Plate vs Vélez Sarsfield",
+            "date": "2026-08-23",
+            "time": "22:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
+            "clock": "",
+            "venue": "Estadio Más Monumental"
         },
         {
             "match_no": 401841517,
