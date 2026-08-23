@@ -478,11 +478,11 @@
             "team": "Brighton & Hove Albion vs Aston Villa",
             "date": "2026-08-23",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "American Express Stadium"
         },
         {
@@ -493,11 +493,11 @@
             "team": "Manchester City vs AFC Bournemouth",
             "date": "2026-08-23",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Etihad Stadium"
         },
         {
@@ -3433,11 +3433,11 @@
             "team": "Angers vs Lille",
             "date": "2026-08-23",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Raymond Kopa"
         },
         {
