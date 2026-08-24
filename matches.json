@@ -396,51 +396,6 @@
     },
     "matches": [
         {
-            "match_no": 401882910,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Málaga vs Deportivo",
-            "date": "2026-08-24",
-            "time": "19:30",
-            "status": "in",
-            "score": "1 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-            "clock": "43'",
-            "venue": "La Rosaleda"
-        },
-        {
-            "match_no": 401874928,
-            "league_id": "ita.1",
-            "league_name": "Serie A",
-            "league_rank": 4,
-            "team": "AS Roma vs Fiorentina",
-            "date": "2026-08-24",
-            "time": "18:45",
-            "status": "in",
-            "score": "3 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-            "clock": "69'",
-            "venue": "Olimpico"
-        },
-        {
-            "match_no": 401885472,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Gil Vicente vs Casa Pia",
-            "date": "2026-08-24",
-            "time": "19:15",
-            "status": "in",
-            "score": "2 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
-            "clock": "HT",
-            "venue": "Estádio Cidade de Barcelos"
-        },
-        {
             "match_no": 401879297,
             "league_id": "eng.1",
             "league_name": "Premier League",
@@ -1159,6 +1114,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
             "clock": "FT",
             "venue": "El Sadar"
+        },
+        {
+            "match_no": 401882910,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Málaga vs Deportivo",
+            "date": "2026-08-24",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+            "clock": "",
+            "venue": "La Rosaleda"
         },
         {
             "match_no": 401882917,
@@ -2584,6 +2554,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
             "clock": "FT",
             "venue": "Renato Dall'Ara"
+        },
+        {
+            "match_no": 401874928,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "AS Roma vs Fiorentina",
+            "date": "2026-08-24",
+            "time": "18:45",
+            "status": "ft",
+            "score": "4 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+            "clock": "FT",
+            "venue": "Olimpico"
         },
         {
             "match_no": 401874758,
@@ -6486,6 +6471,21 @@
             "venue": "Estádio do Dragão"
         },
         {
+            "match_no": 401885472,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Gil Vicente vs Casa Pia",
+            "date": "2026-08-24",
+            "time": "19:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
+            "clock": "",
+            "venue": "Estádio Cidade de Barcelos"
+        },
+        {
             "match_no": 401885458,
             "league_id": "por.1",
             "league_name": "Liga Portugal",
@@ -7123,11 +7123,11 @@
             "team": "Kocaelispor vs Amed SFK",
             "date": "2026-08-24",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Yildiz Entegre Kocaeli Stadyumu"
         },
         {
