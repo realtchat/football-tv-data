@@ -417,21 +417,6 @@
     },
     "matches": [
         {
-            "match_no": 401900388,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Ettifaq vs Al Nassr",
-            "date": "2026-08-25",
-            "time": "18:00",
-            "status": "in",
-            "score": "2 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
-            "clock": "HT",
-            "venue": "Al Ettifaq Club Stadium"
-        },
-        {
             "match_no": 401841198,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -3670,6 +3655,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
             "clock": "FT",
             "venue": "Al Taawon Club Stadium"
+        },
+        {
+            "match_no": 401900388,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Ettifaq vs Al Nassr",
+            "date": "2026-08-25",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
+            "clock": "",
+            "venue": "Al Ettifaq Club Stadium"
         },
         {
             "match_no": 401900387,
