@@ -1084,11 +1084,11 @@
             "team": "Valencia vs Real Betis",
             "date": "2026-08-25",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Mestalla Stadium"
         },
         {
