@@ -5688,7 +5688,7 @@
             "league_rank": 11,
             "team": "NEC Nijmegen vs Excelsior",
             "date": "2026-09-08",
-            "time": "18:00",
+            "time": "16:45",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
@@ -5772,19 +5772,19 @@
             "venue": "Fortuna Sittard Stadion"
         },
         {
-            "match_no": 401875607,
+            "match_no": 401875604,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
             "league_rank": 11,
-            "team": "Heerenveen vs Telstar",
+            "team": "SC Cambuur vs NEC Nijmegen",
             "date": "2026-09-12",
             "time": "19:00",
             "status": "pre",
             "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
             "clock": "",
-            "venue": "Abe Lenstra Stadion"
+            "venue": "Kooi Stadium"
         },
         {
             "match_no": 401875606,
@@ -5802,6 +5802,21 @@
             "venue": "Stadion Woudestein"
         },
         {
+            "match_no": 401875607,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Heerenveen vs Telstar",
+            "date": "2026-09-13",
+            "time": "12:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
+            "clock": "",
+            "venue": "Abe Lenstra Stadion"
+        },
+        {
             "match_no": 401875605,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -5815,21 +5830,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
             "clock": "",
             "venue": "Philips Stadion"
-        },
-        {
-            "match_no": 401875604,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "SC Cambuur vs NEC Nijmegen",
-            "date": "2026-09-13",
-            "time": "12:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-            "clock": "",
-            "venue": "Kooi Stadium"
         },
         {
             "match_no": 401875603,
@@ -8892,6 +8892,21 @@
             "venue": "Thammasat Stadium"
         },
         {
+            "match_no": 401914222,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "China vs Palestine",
+            "date": "2026-09-23",
+            "time": "11:35",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/pal.png",
+            "clock": "",
+            "venue": "Chongqing Longxing Football Stadium"
+        },
+        {
             "match_no": 401898013,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -9297,6 +9312,21 @@
             "venue": "Estadio León"
         },
         {
+            "match_no": 401876974,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Monterrey vs Tigres UANL",
+            "date": "2026-09-13",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
+            "clock": "",
+            "venue": "Estadio BBVA"
+        },
+        {
             "match_no": 401876976,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -9325,21 +9355,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
             "clock": "",
             "venue": "Estadio Akron"
-        },
-        {
-            "match_no": 401876974,
-            "league_id": "mex.1",
-            "league_name": "Liga MX",
-            "league_rank": 21,
-            "team": "Monterrey vs Tigres UANL",
-            "date": "2026-09-14",
-            "time": "02:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
-            "clock": "",
-            "venue": "Estadio BBVA"
         },
         {
             "match_no": 401876973,
