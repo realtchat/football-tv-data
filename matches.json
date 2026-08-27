@@ -1039,11 +1039,11 @@
             "team": "Celta Vigo vs Osasuna",
             "date": "2026-08-27",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Balaidos"
         },
         {
@@ -1054,11 +1054,11 @@
             "team": "Barcelona vs Athletic Club",
             "date": "2026-08-27",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Spotify Camp Nou"
         },
         {
