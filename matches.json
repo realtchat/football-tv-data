@@ -417,19 +417,19 @@
     },
     "matches": [
         {
-            "match_no": 401882898,
+            "match_no": 401882897,
             "league_id": "esp.1",
             "league_name": "La Liga",
             "league_rank": 2,
-            "team": "Real Sociedad vs Espanyol",
+            "team": "Sevilla vs Atlético Madrid",
             "date": "2026-08-29",
-            "time": "17:00",
+            "time": "19:30",
             "status": "in",
-            "score": "1 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+            "score": "0 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
             "clock": "HT",
-            "venue": "Reale Arena"
+            "venue": "Ramón Sánchez Pizjuán Stadium"
         },
         {
             "match_no": 401884817,
@@ -447,21 +447,6 @@
             "venue": "Allianz Arena"
         },
         {
-            "match_no": 401885465,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Académico de Viseu vs FC Porto",
-            "date": "2026-08-29",
-            "time": "17:00",
-            "status": "in",
-            "score": "0 - 3",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-            "clock": "45'+5'",
-            "venue": "Estádio do Fontelo"
-        },
-        {
             "match_no": 401888309,
             "league_id": "tur.1",
             "league_name": "Turkish Süper Lig",
@@ -475,6 +460,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
             "clock": "HT",
             "venue": "Eryaman Stadium"
+        },
+        {
+            "match_no": 401841535,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Rosario Central vs Gimnasia La Plata",
+            "date": "2026-08-29",
+            "time": "20:00",
+            "status": "in",
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
+            "clock": "33'",
+            "venue": "Gigante de Arroyito"
         },
         {
             "match_no": 401879294,
@@ -544,11 +544,11 @@
             "team": "Tottenham Hotspur vs Newcastle United",
             "date": "2026-08-29",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Tottenham Hotspur Stadium"
         },
         {
@@ -1122,19 +1122,19 @@
             "venue": "Estadi Ciutat de València"
         },
         {
-            "match_no": 401882897,
+            "match_no": 401882898,
             "league_id": "esp.1",
             "league_name": "La Liga",
             "league_rank": 2,
-            "team": "Sevilla vs Atlético Madrid",
+            "team": "Real Sociedad vs Espanyol",
             "date": "2026-08-29",
-            "time": "19:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-            "clock": "",
-            "venue": "Ramón Sánchez Pizjuán Stadium"
+            "time": "17:00",
+            "status": "ft",
+            "score": "2 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+            "clock": "FT",
+            "venue": "Reale Arena"
         },
         {
             "match_no": 401882899,
@@ -1894,11 +1894,11 @@
             "team": "Borussia Dortmund vs Hamburg SV",
             "date": "2026-08-29",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Signal Iduna Park"
         },
         {
@@ -2359,11 +2359,11 @@
             "team": "Fiorentina vs Frosinone",
             "date": "2026-08-29",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Artemio Franchi"
         },
         {
@@ -2374,11 +2374,11 @@
             "team": "Monza vs Udinese",
             "date": "2026-08-29",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "U-Power Stadium"
         },
         {
@@ -2389,11 +2389,11 @@
             "team": "Sassuolo vs Torino",
             "date": "2026-08-29",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Mapei Stadium"
         },
         {
@@ -3544,11 +3544,11 @@
             "team": "Al Kholood vs Al Ahli",
             "date": "2026-08-29",
             "time": "16:05",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Hazm Club Stadium"
         },
         {
@@ -3559,11 +3559,11 @@
             "team": "Al Ettifaq vs Al Diriyah",
             "date": "2026-08-29",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Ettifaq Club Stadium"
         },
         {
@@ -3574,11 +3574,11 @@
             "team": "Al Fateh vs Al Ittihad",
             "date": "2026-08-29",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13033.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Fateh Club Stadium"
         },
         {
@@ -5539,11 +5539,11 @@
             "team": "AZ Alkmaar vs Go Ahead Eagles",
             "date": "2026-08-29",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "AFAS Stadion"
         },
         {
@@ -6132,6 +6132,21 @@
             "venue": "Estádio Municipal de Arouca"
         },
         {
+            "match_no": 401885465,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Académico de Viseu vs FC Porto",
+            "date": "2026-08-29",
+            "time": "17:00",
+            "status": "ft",
+            "score": "0 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+            "clock": "FT",
+            "venue": "Estádio do Fontelo"
+        },
+        {
             "match_no": 401885459,
             "league_id": "por.1",
             "league_name": "Liga Portugal",
@@ -6649,11 +6664,11 @@
             "team": "Konyaspor vs Kocaelispor",
             "date": "2026-08-29",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Medas Konya Büyüksehir Stadyumu"
         },
         {
@@ -6664,11 +6679,11 @@
             "team": "Galatasaray vs Goztepe",
             "date": "2026-08-29",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "RAMS Park"
         },
         {
@@ -6679,11 +6694,11 @@
             "team": "Gaziantep FK vs Caykur Rizespor",
             "date": "2026-08-29",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Gaziantep Stadium"
         },
         {
@@ -7819,27 +7834,12 @@
             "team": "Deportivo Riestra vs Vélez Sarsfield",
             "date": "2026-08-29",
             "time": "17:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17702.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Guillermo Laza"
-        },
-        {
-            "match_no": 401841535,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Rosario Central vs Gimnasia La Plata",
-            "date": "2026-08-29",
-            "time": "20:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
-            "clock": "",
-            "venue": "Gigante de Arroyito"
         },
         {
             "match_no": 401841531,
