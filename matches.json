@@ -417,19 +417,19 @@
     },
     "matches": [
         {
-            "match_no": 401841526,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Banfield vs River Plate",
+            "match_no": 761758,
+            "league_id": "usa.1",
+            "league_name": "MLS",
+            "league_rank": 10,
+            "team": "Columbus Crew vs New England Revolution",
             "date": "2026-08-30",
-            "time": "18:00",
+            "time": "20:30",
             "status": "in",
-            "score": "0 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-            "clock": "45'+1'",
-            "venue": "Florencio Solá"
+            "score": "1 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
+            "clock": "HT",
+            "venue": "ScottsMiracle-Gro Field"
         },
         {
             "match_no": 401879314,
@@ -1084,11 +1084,11 @@
             "team": "Deportivo vs Valencia",
             "date": "2026-08-30",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Riazor"
         },
         {
@@ -1099,11 +1099,11 @@
             "team": "Celta Vigo vs Athletic Club",
             "date": "2026-08-30",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Balaidos"
         },
         {
@@ -2344,11 +2344,11 @@
             "team": "Cagliari vs Internazionale",
             "date": "2026-08-30",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Unipol Domus"
         },
         {
@@ -2359,11 +2359,11 @@
             "team": "Lazio vs Genoa",
             "date": "2026-08-30",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Olimpico"
         },
         {
@@ -2959,11 +2959,11 @@
             "team": "AS Monaco vs Marseille",
             "date": "2026-08-30",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Louis II"
         },
         {
@@ -3439,11 +3439,11 @@
             "team": "Al Qadsiah vs Al-Faisaly",
             "date": "2026-08-30",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Prince Mohammed Bin Fahd Stadium"
         },
         {
@@ -4195,21 +4195,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
             "clock": "",
             "venue": "Snapdragon Stadium"
-        },
-        {
-            "match_no": 761758,
-            "league_id": "usa.1",
-            "league_name": "MLS",
-            "league_rank": 10,
-            "team": "Columbus Crew vs New England Revolution",
-            "date": "2026-08-30",
-            "time": "20:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-            "clock": "",
-            "venue": "ScottsMiracle-Gro Field"
         },
         {
             "match_no": 761769,
@@ -5449,11 +5434,11 @@
             "team": "SC Cambuur vs FC Twente",
             "date": "2026-08-30",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Kooi Stadium"
         },
         {
@@ -5974,11 +5959,11 @@
             "team": "Casa Pia vs Moreirense",
             "date": "2026-08-30",
             "time": "17:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3696.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Municipal de Rio Maior"
         },
         {
@@ -5989,11 +5974,11 @@
             "team": "FC Famalicao vs Gil Vicente",
             "date": "2026-08-30",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Municipal 22 de Junho"
         },
         {
@@ -6529,11 +6514,11 @@
             "team": "Istanbul Basaksehir vs Kasimpasa",
             "date": "2026-08-30",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7914.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Basaksehir Fatih Terim Stadium"
         },
         {
@@ -6544,11 +6529,11 @@
             "team": "Samsunspor vs Fenerbahce",
             "date": "2026-08-30",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Samsun 19 Mayis Stadium"
         },
         {
@@ -7054,11 +7039,11 @@
             "team": "Corinthians vs Santos",
             "date": "2026-08-30",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Neo Química Arena"
         },
         {
@@ -7069,11 +7054,11 @@
             "team": "Flamengo vs Botafogo",
             "date": "2026-08-30",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio do Maracana"
         },
         {
@@ -7690,6 +7675,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
             "clock": "",
             "venue": "Mario Alberto Kempes"
+        },
+        {
+            "match_no": 401841526,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Banfield vs River Plate",
+            "date": "2026-08-30",
+            "time": "18:00",
+            "status": "ft",
+            "score": "2 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+            "clock": "FT",
+            "venue": "Florencio Solá"
         },
         {
             "match_no": 401841524,
