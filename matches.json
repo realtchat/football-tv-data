@@ -417,49 +417,19 @@
     },
     "matches": [
         {
-            "match_no": 401875623,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "Telstar vs Ajax Amsterdam",
+            "match_no": 401841526,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Banfield vs River Plate",
             "date": "2026-08-30",
-            "time": "14:45",
+            "time": "18:00",
             "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-            "clock": "42'",
-            "venue": "711 Stadion"
-        },
-        {
-            "match_no": 401885459,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "C.D. Nacional vs Estrela",
-            "date": "2026-08-30",
-            "time": "14:30",
-            "status": "in",
-            "score": "1 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
-            "clock": "HT",
-            "venue": "Estádio da Madeira"
-        },
-        {
-            "match_no": 401841208,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Athletico-PR vs Fluminense",
-            "date": "2026-08-30",
-            "time": "14:00",
-            "status": "in",
-            "score": "2 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-            "clock": "63'",
-            "venue": "Arena da Baixada"
+            "score": "0 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+            "clock": "45'+1'",
+            "venue": "Florencio Solá"
         },
         {
             "match_no": 401879314,
@@ -574,11 +544,11 @@
             "team": "Manchester United vs Ipswich Town",
             "date": "2026-08-30",
             "time": "15:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Old Trafford"
         },
         {
@@ -1099,11 +1069,11 @@
             "team": "Real Madrid vs Málaga",
             "date": "2026-08-30",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Santiago Bernabéu"
         },
         {
@@ -1879,11 +1849,11 @@
             "team": "FC Augsburg vs Schalke 04",
             "date": "2026-08-30",
             "time": "15:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "WWK Arena"
         },
         {
@@ -2359,11 +2329,11 @@
             "team": "Napoli vs Como",
             "date": "2026-08-30",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Diego Armando Maradona"
         },
         {
@@ -2974,11 +2944,11 @@
             "team": "Stade Rennais vs Le Mans",
             "date": "2026-08-30",
             "time": "15:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Roazhon Park"
         },
         {
@@ -3454,11 +3424,11 @@
             "team": "Al Hazem vs Al Shabab",
             "date": "2026-08-30",
             "time": "16:05",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Hazm Club Stadium"
         },
         {
@@ -5457,6 +5427,21 @@
             "venue": "Koning Willem II Stadion"
         },
         {
+            "match_no": 401875623,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Telstar vs Ajax Amsterdam",
+            "date": "2026-08-30",
+            "time": "14:45",
+            "status": "ft",
+            "score": "0 - 4",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+            "clock": "FT",
+            "venue": "711 Stadion"
+        },
+        {
             "match_no": 401875622,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -5965,6 +5950,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
             "clock": "FT",
             "venue": "Estádio do Fontelo"
+        },
+        {
+            "match_no": 401885459,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "C.D. Nacional vs Estrela",
+            "date": "2026-08-30",
+            "time": "14:30",
+            "status": "ft",
+            "score": "2 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
+            "clock": "FT",
+            "venue": "Estádio da Madeira"
         },
         {
             "match_no": 401885461,
@@ -6514,11 +6514,11 @@
             "team": "Eyupspor vs Alanyaspor",
             "date": "2026-08-30",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Esenyurt Necmi Kadioglu Stadi"
         },
         {
@@ -7030,6 +7030,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
             "clock": "",
             "venue": "Estádio São Januário"
+        },
+        {
+            "match_no": 401841208,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Athletico-PR vs Fluminense",
+            "date": "2026-08-30",
+            "time": "14:00",
+            "status": "ft",
+            "score": "3 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+            "clock": "FT",
+            "venue": "Arena da Baixada"
         },
         {
             "match_no": 401841214,
@@ -7675,21 +7690,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
             "clock": "",
             "venue": "Mario Alberto Kempes"
-        },
-        {
-            "match_no": 401841526,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Banfield vs River Plate",
-            "date": "2026-08-30",
-            "time": "18:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-            "clock": "",
-            "venue": "Florencio Solá"
         },
         {
             "match_no": 401841524,
