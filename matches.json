@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401880296,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Burnley vs Middlesbrough",
+            "date": "2026-09-02",
+            "time": "19:00",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
+            "clock": "45'+3'",
+            "venue": "Turf Moor"
+        },
+        {
             "match_no": 401915452,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -8701,21 +8716,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
             "clock": "",
             "venue": "The Hawthorns"
-        },
-        {
-            "match_no": 401880296,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Burnley vs Middlesbrough",
-            "date": "2026-09-02",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
-            "clock": "",
-            "venue": "Turf Moor"
         },
         {
             "match_no": 401880290,
