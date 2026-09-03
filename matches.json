@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401882867,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Real Sociedad vs Celta Vigo",
+            "date": "2026-09-03",
+            "time": "19:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+            "clock": "HT",
+            "venue": "Reale Arena"
+        },
+        {
             "match_no": 401915452,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -1156,21 +1171,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "clock": "",
             "venue": "Craven Cottage"
-        },
-        {
-            "match_no": 401882867,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Real Sociedad vs Celta Vigo",
-            "date": "2026-09-03",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-            "clock": "",
-            "venue": "Reale Arena"
         },
         {
             "match_no": 401882894,
@@ -3295,11 +3295,11 @@
             "team": "Al Fayha vs Al Kholood",
             "date": "2026-09-03",
             "time": "15:55",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Majma'a Sport City Stadium"
         },
         {
@@ -3310,11 +3310,11 @@
             "team": "Neom SC vs Al Khaleej",
             "date": "2026-09-03",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130899.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "King Khalid Sport City Stadium"
         },
         {
@@ -3325,11 +3325,11 @@
             "team": "Al Diriyah vs Al Qadsiah",
             "date": "2026-09-03",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Awwal Park"
         },
         {
@@ -3538,7 +3538,7 @@
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13033.png",
-            "teamB_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
             "clock": "",
             "venue": "Al Fateh Club Stadium"
         },
@@ -3672,7 +3672,7 @@
             "time": "18:00",
             "status": "pre",
             "score": "VS",
-            "teamA_logo": "",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
             "clock": "",
             "venue": "Al-Awwal Park"
@@ -7803,21 +7803,6 @@
             "venue": "M&T Bank Stadium"
         },
         {
-            "match_no": 401913269,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Bolivia vs Paraguay",
-            "date": "2026-09-26",
-            "time": "20:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
-            "clock": "",
-            "venue": "Audi Field"
-        },
-        {
             "match_no": 401905203,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -7876,6 +7861,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
             "clock": "",
             "venue": "Ta' Qali National Stadium"
+        },
+        {
+            "match_no": 401913269,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "Bolivia vs Paraguay",
+            "date": "2026-09-27",
+            "time": "20:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+            "clock": "",
+            "venue": "Audi Field"
         },
         {
             "match_no": 401916227,
@@ -8259,7 +8259,7 @@
             "league_rank": 21,
             "team": "Toluca vs Atlas",
             "date": "2026-09-12",
-            "time": "18:00",
+            "time": "23:00",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
