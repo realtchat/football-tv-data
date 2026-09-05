@@ -438,19 +438,19 @@
     },
     "matches": [
         {
-            "match_no": 401841551,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "San Lorenzo vs Talleres (Córdoba)",
+            "match_no": 401876989,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Atlético de San Luis vs Guadalajara",
             "date": "2026-09-05",
-            "time": "22:00",
+            "time": "23:00",
             "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19.png",
-            "clock": "15'",
-            "venue": "Estadio Pedro Bidegain"
+            "score": "0 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
+            "clock": "HT",
+            "venue": "Estadio Libertad Financiera"
         },
         {
             "match_no": 401915452,
@@ -6220,11 +6220,11 @@
             "team": "São Paulo vs Atlético-MG",
             "date": "2026-09-05",
             "time": "21:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Cícero Pompeu de Toledo"
         },
         {
@@ -6751,6 +6751,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
             "clock": "FT",
             "venue": "Estadio Víctor Antonio Legrotaglie"
+        },
+        {
+            "match_no": 401841551,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "San Lorenzo vs Talleres (Córdoba)",
+            "date": "2026-09-05",
+            "time": "22:00",
+            "status": "ft",
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19.png",
+            "clock": "FT",
+            "venue": "Estadio Pedro Bidegain"
         },
         {
             "match_no": 401841540,
@@ -8236,21 +8251,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
             "clock": "",
             "venue": "Estadio Olímpico Benito Juárez"
-        },
-        {
-            "match_no": 401876989,
-            "league_id": "mex.1",
-            "league_name": "Liga MX",
-            "league_rank": 21,
-            "team": "Atlético de San Luis vs Guadalajara",
-            "date": "2026-09-05",
-            "time": "23:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
-            "clock": "",
-            "venue": "Estadio Libertad Financiera"
         },
         {
             "match_no": 401876988,
