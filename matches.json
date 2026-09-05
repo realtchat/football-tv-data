@@ -1158,21 +1158,6 @@
             "venue": "Craven Cottage"
         },
         {
-            "match_no": 401882867,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Real Sociedad vs Celta Vigo",
-            "date": "2026-09-03",
-            "time": "19:00",
-            "status": "ft",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-            "clock": "FT",
-            "venue": "Reale Arena"
-        },
-        {
             "match_no": 401882894,
             "league_id": "esp.1",
             "league_name": "La Liga",
@@ -2613,21 +2598,6 @@
             "venue": "San Siro"
         },
         {
-            "match_no": 401876468,
-            "league_id": "fra.1",
-            "league_name": "Ligue 1",
-            "league_rank": 5,
-            "team": "Toulouse vs Lille",
-            "date": "2026-09-03",
-            "time": "18:45",
-            "status": "ft",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-            "clock": "FT",
-            "venue": "Stadium Municipal de Toulouse"
-        },
-        {
             "match_no": 401876472,
             "league_id": "fra.1",
             "league_name": "Ligue 1",
@@ -3286,51 +3256,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png",
             "clock": "",
             "venue": "Doosan Arena"
-        },
-        {
-            "match_no": 401900374,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Fayha vs Al Kholood",
-            "date": "2026-09-03",
-            "time": "15:55",
-            "status": "ft",
-            "score": "2 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
-            "clock": "FT",
-            "venue": "Al Majma'a Sport City Stadium"
-        },
-        {
-            "match_no": 401900373,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Neom SC vs Al Khaleej",
-            "date": "2026-09-03",
-            "time": "16:30",
-            "status": "ft",
-            "score": "3 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130899.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-            "clock": "FT",
-            "venue": "King Khalid Sport City Stadium"
-        },
-        {
-            "match_no": 401900372,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Diriyah vs Al Qadsiah",
-            "date": "2026-09-03",
-            "time": "18:00",
-            "status": "ft",
-            "score": "0 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-            "clock": "FT",
-            "venue": "Al-Awwal Park"
         },
         {
             "match_no": 401900371,
