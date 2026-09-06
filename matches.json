@@ -453,6 +453,21 @@
             "venue": "Estadio Libertad Financiera"
         },
         {
+            "match_no": 401880292,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Birmingham City vs Wolverhampton Wanderers",
+            "date": "2026-09-06",
+            "time": "11:00",
+            "status": "in",
+            "score": "2 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+            "clock": "59'",
+            "venue": "St. Andrew's Stadium"
+        },
+        {
             "match_no": 401915452,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -4825,11 +4840,11 @@
             "team": "FC Groningen vs FC Twente",
             "date": "2026-09-06",
             "time": "10:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Euroborg"
         },
         {
@@ -8686,21 +8701,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
             "clock": "FT",
             "venue": "Swansea.com Stadium"
-        },
-        {
-            "match_no": 401880292,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Birmingham City vs Wolverhampton Wanderers",
-            "date": "2026-09-06",
-            "time": "11:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-            "clock": "",
-            "venue": "St. Andrew's Stadium"
         },
         {
             "match_no": 401880276,
