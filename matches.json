@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401875613,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "ADO Den Haag vs Fortuna Sittard",
+            "date": "2026-09-06",
+            "time": "14:45",
+            "status": "in",
+            "score": "0 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
+            "clock": "HT",
+            "venue": "ADO Den Haag Stadium"
+        },
+        {
             "match_no": 401876989,
             "league_id": "mex.1",
             "league_name": "Liga MX",
@@ -451,21 +466,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
             "clock": "HT",
             "venue": "Estadio Libertad Financiera"
-        },
-        {
-            "match_no": 401880292,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Birmingham City vs Wolverhampton Wanderers",
-            "date": "2026-09-06",
-            "time": "11:00",
-            "status": "in",
-            "score": "2 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-            "clock": "59'",
-            "venue": "St. Andrew's Stadium"
         },
         {
             "match_no": 401915452,
@@ -850,11 +850,11 @@
             "team": "Everton vs Manchester United",
             "date": "2026-09-06",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Hill Dickinson Stadium"
         },
         {
@@ -1840,11 +1840,11 @@
             "team": "Hamburg SV vs Mainz",
             "date": "2026-09-06",
             "time": "13:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 5",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Volksparkstadion"
         },
         {
@@ -2185,11 +2185,11 @@
             "team": "Frosinone vs Venezia",
             "date": "2026-09-06",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Benito Stirpe"
         },
         {
@@ -2200,11 +2200,11 @@
             "team": "Parma vs Monza",
             "date": "2026-09-06",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Ennio Tardini"
         },
         {
@@ -2620,11 +2620,11 @@
             "team": "Troyes vs Strasbourg",
             "date": "2026-09-06",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 6",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade de l'Aube"
         },
         {
@@ -4855,11 +4855,11 @@
             "team": "Heerenveen vs AZ Alkmaar",
             "date": "2026-09-06",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Abe Lenstra Stadion"
         },
         {
@@ -4870,27 +4870,12 @@
             "team": "Telstar vs SC Cambuur",
             "date": "2026-09-06",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "711 Stadion"
-        },
-        {
-            "match_no": 401875613,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "ADO Den Haag vs Fortuna Sittard",
-            "date": "2026-09-06",
-            "time": "14:45",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-            "clock": "",
-            "venue": "ADO Den Haag Stadium"
         },
         {
             "match_no": 401875636,
@@ -8701,6 +8686,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
             "clock": "FT",
             "venue": "Swansea.com Stadium"
+        },
+        {
+            "match_no": 401880292,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Birmingham City vs Wolverhampton Wanderers",
+            "date": "2026-09-06",
+            "time": "11:00",
+            "status": "ft",
+            "score": "2 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+            "clock": "FT",
+            "venue": "St. Andrew's Stadium"
         },
         {
             "match_no": 401880276,
