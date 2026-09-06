@@ -438,19 +438,19 @@
     },
     "matches": [
         {
-            "match_no": 401875613,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "ADO Den Haag vs Fortuna Sittard",
+            "match_no": 401888300,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Kocaelispor vs Samsunspor",
             "date": "2026-09-06",
-            "time": "14:45",
+            "time": "17:00",
             "status": "in",
-            "score": "0 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-            "clock": "HT",
-            "venue": "ADO Den Haag Stadium"
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
+            "clock": "42'",
+            "venue": "Yildiz Entegre Kocaeli Stadyumu"
         },
         {
             "match_no": 401876989,
@@ -865,11 +865,11 @@
             "team": "Arsenal vs Chelsea",
             "date": "2026-09-06",
             "time": "15:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Emirates Stadium"
         },
         {
@@ -1225,11 +1225,11 @@
             "team": "Valencia vs Barcelona",
             "date": "2026-09-06",
             "time": "14:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 5",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Mestalla Stadium"
         },
         {
@@ -1855,11 +1855,11 @@
             "team": "Eintracht Frankfurt vs FC Augsburg",
             "date": "2026-09-06",
             "time": "15:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Deutsche Bank Park"
         },
         {
@@ -2635,11 +2635,11 @@
             "team": "Angers vs Stade Rennais",
             "date": "2026-09-06",
             "time": "15:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Raymond Kopa"
         },
         {
@@ -4878,6 +4878,21 @@
             "venue": "711 Stadion"
         },
         {
+            "match_no": 401875613,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "ADO Den Haag vs Fortuna Sittard",
+            "date": "2026-09-06",
+            "time": "14:45",
+            "status": "ft",
+            "score": "2 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
+            "clock": "FT",
+            "venue": "ADO Den Haag Stadium"
+        },
+        {
             "match_no": 401875636,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -5260,11 +5275,11 @@
             "team": "Santa Clara vs Rio Ave",
             "date": "2026-09-06",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio de São Miguel"
         },
         {
@@ -5650,11 +5665,11 @@
             "team": "Çorum FK vs Eyupspor",
             "date": "2026-09-06",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Çorum Sehir Stadyumu"
         },
         {
@@ -5665,27 +5680,12 @@
             "team": "Kasimpasa vs Amed SFK",
             "date": "2026-09-06",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Recep Tayyip Erdogan Stadium"
-        },
-        {
-            "match_no": 401888300,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Kocaelispor vs Samsunspor",
-            "date": "2026-09-06",
-            "time": "17:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
-            "clock": "",
-            "venue": "Yildiz Entegre Kocaeli Stadyumu"
         },
         {
             "match_no": 401888305,
@@ -6055,11 +6055,11 @@
             "team": "Coritiba vs Mirassol",
             "date": "2026-09-06",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Couto Pereira"
         },
         {
