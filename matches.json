@@ -1135,11 +1135,11 @@
             "team": "Elche vs Real Sociedad",
             "date": "2026-09-07",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio Martínez Valero"
         },
         {
