@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401880279,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Southampton vs Swansea City",
+            "date": "2026-09-08",
+            "time": "18:45",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/318.png",
+            "clock": "2'",
+            "venue": "St. Mary's Stadium"
+        },
+        {
             "match_no": 401915452,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -445,11 +460,11 @@
             "team": "AEK Athens vs LASK Linz",
             "date": "2026-09-08",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "OPAP Arena"
         },
         {
@@ -460,11 +475,11 @@
             "team": "Club Brugge vs Aston Villa",
             "date": "2026-09-08",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Jan Breydel Stadium"
         },
         {
@@ -2650,11 +2665,11 @@
             "team": "Al Ettifaq vs Al Faisaly",
             "date": "2026-09-08",
             "time": "15:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Ettifaq Club Stadium"
         },
         {
@@ -2665,11 +2680,11 @@
             "team": "Al Hazem vs Al Taawoun",
             "date": "2026-09-08",
             "time": "15:55",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18459.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Hazm Club Stadium"
         },
         {
@@ -3970,11 +3985,11 @@
             "team": "NEC Nijmegen vs Excelsior",
             "date": "2026-09-08",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Goffertstadion"
         },
         {
@@ -7291,21 +7306,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/336.png",
             "clock": "",
             "venue": "Cardiff City Stadium"
-        },
-        {
-            "match_no": 401880279,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Southampton vs Swansea City",
-            "date": "2026-09-08",
-            "time": "18:45",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/318.png",
-            "clock": "",
-            "venue": "St. Mary's Stadium"
         },
         {
             "match_no": 401880278,
