@@ -438,6 +438,36 @@
     },
     "matches": [
         {
+            "match_no": 401915447,
+            "league_id": "uefa.champions",
+            "league_name": "UEFA Champions League",
+            "league_rank": 0,
+            "team": "Sporting CP vs Galatasaray",
+            "date": "2026-09-09",
+            "time": "19:00",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+            "clock": "13'",
+            "venue": "Estádio José Alvalade"
+        },
+        {
+            "match_no": 401880272,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Charlton Athletic vs Queens Park Rangers",
+            "date": "2026-09-09",
+            "time": "19:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png",
+            "clock": "15'",
+            "venue": "The Valley"
+        },
+        {
             "match_no": 401915452,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -535,11 +565,11 @@
             "team": "Barcelona vs Feyenoord Rotterdam",
             "date": "2026-09-09",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Spotify Camp Nou"
         },
         {
@@ -550,11 +580,11 @@
             "team": "VfB Stuttgart vs Viking FK",
             "date": "2026-09-09",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "MHPArena"
         },
         {
@@ -601,21 +631,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
             "clock": "",
             "venue": "Parc des Princes"
-        },
-        {
-            "match_no": 401915447,
-            "league_id": "uefa.champions",
-            "league_name": "UEFA Champions League",
-            "league_rank": 0,
-            "team": "Sporting CP vs Galatasaray",
-            "date": "2026-09-09",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-            "clock": "",
-            "venue": "Estádio José Alvalade"
         },
         {
             "match_no": 401915444,
@@ -2620,11 +2635,11 @@
             "team": "Al Kholood vs Al Shabab",
             "date": "2026-09-09",
             "time": "15:55",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Hazm Club Stadium"
         },
         {
@@ -3895,11 +3910,11 @@
             "team": "FC Twente vs Telstar",
             "date": "2026-09-09",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "De Grolsch Veste"
         },
         {
@@ -7441,21 +7456,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/385.png",
             "clock": "",
             "venue": "Molineux Stadium"
-        },
-        {
-            "match_no": 401880272,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Charlton Athletic vs Queens Park Rangers",
-            "date": "2026-09-09",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png",
-            "clock": "",
-            "venue": "The Valley"
         },
         {
             "match_no": 401880257,
