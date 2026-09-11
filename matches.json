@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401888292,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Besiktas vs Erzurum BB",
+            "date": "2026-09-11",
+            "time": "17:00",
+            "status": "in",
+            "score": "2 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
+            "clock": "69'",
+            "venue": "Vodafone Park"
+        },
+        {
             "match_no": 401915444,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -2785,11 +2800,11 @@
             "team": "Al Qadsiah vs Al Ettifaq",
             "date": "2026-09-11",
             "time": "15:25",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Prince Mohammed Bin Fahd Stadium"
         },
         {
@@ -2800,11 +2815,11 @@
             "team": "Al Faisaly vs Al Ittihad",
             "date": "2026-09-11",
             "time": "15:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 3",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Majma'a Sport City Stadium"
         },
         {
@@ -4831,21 +4846,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
             "clock": "",
             "venue": "Estádio do Fontelo"
-        },
-        {
-            "match_no": 401888292,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Besiktas vs Erzurum BB",
-            "date": "2026-09-11",
-            "time": "17:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
-            "clock": "",
-            "venue": "Vodafone Park"
         },
         {
             "match_no": 401888297,
