@@ -438,34 +438,19 @@
     },
     "matches": [
         {
-            "match_no": 401875606,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "Excelsior vs FC Utrecht",
+            "match_no": 401888295,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Genclerbirligi vs Kasimpasa",
             "date": "2026-09-13",
-            "time": "10:15",
+            "time": "14:00",
             "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
             "clock": "HT",
-            "venue": "Stadion Woudestein"
-        },
-        {
-            "match_no": 401880262,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Sheffield United vs Wolverhampton Wanderers",
-            "date": "2026-09-13",
-            "time": "11:00",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-            "clock": "15'",
-            "venue": "Bramall Lane"
+            "venue": "Eryaman Stadium"
         },
         {
             "match_no": 401879285,
@@ -580,11 +565,11 @@
             "team": "Coventry City vs Brighton & Hove Albion",
             "date": "2026-09-13",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 5",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Coventry Building Society Arena"
         },
         {
@@ -970,11 +955,11 @@
             "team": "Celta Vigo vs Málaga",
             "date": "2026-09-13",
             "time": "12:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Balaidos"
         },
         {
@@ -2335,11 +2320,11 @@
             "team": "Lille vs Troyes",
             "date": "2026-09-13",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Decathlon Arena - Stade Pierre-Mauroy"
         },
         {
@@ -4143,6 +4128,21 @@
             "venue": "Kooi Stadium"
         },
         {
+            "match_no": 401875606,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Excelsior vs FC Utrecht",
+            "date": "2026-09-13",
+            "time": "10:15",
+            "status": "ft",
+            "score": "1 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
+            "clock": "FT",
+            "venue": "Stadion Woudestein"
+        },
+        {
             "match_no": 401875607,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -4150,11 +4150,11 @@
             "team": "Heerenveen vs Telstar",
             "date": "2026-09-13",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Abe Lenstra Stadion"
         },
         {
@@ -4921,21 +4921,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
             "clock": "FT",
             "venue": "Medas Konya Büyüksehir Stadyumu"
-        },
-        {
-            "match_no": 401888295,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Genclerbirligi vs Kasimpasa",
-            "date": "2026-09-13",
-            "time": "14:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-            "clock": "",
-            "venue": "Eryaman Stadium"
         },
         {
             "match_no": 401888384,
@@ -8461,6 +8446,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/336.png",
             "clock": "FT",
             "venue": "Vicarage Road"
+        },
+        {
+            "match_no": 401880262,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Sheffield United vs Wolverhampton Wanderers",
+            "date": "2026-09-13",
+            "time": "11:00",
+            "status": "ft",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+            "clock": "FT",
+            "venue": "Bramall Lane"
         },
         {
             "match_no": 401880274,
