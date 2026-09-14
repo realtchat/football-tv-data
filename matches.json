@@ -453,19 +453,19 @@
             "venue": "Soldier Field"
         },
         {
-            "match_no": 401912663,
-            "league_id": "afc.champions",
-            "league_name": "AFC Champions League",
-            "league_rank": 16,
-            "team": "Al Shamal vs Al Ittihad",
+            "match_no": 401885445,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Braga vs Estoril",
             "date": "2026-09-14",
-            "time": "16:00",
+            "time": "19:45",
             "status": "in",
             "score": "0 - 0",
-            "teamA_logo": "",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
             "clock": "HT",
-            "venue": "Al Bayt Stadium"
+            "venue": "Estádio Municipal de Braga"
         },
         {
             "match_no": 401879282,
@@ -1675,11 +1675,11 @@
             "team": "Torino vs AS Roma",
             "date": "2026-09-14",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Olimpico Grande Torino"
         },
         {
@@ -1690,11 +1690,11 @@
             "team": "Como vs Parma",
             "date": "2026-09-14",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Giuseppe Sinigaglia"
         },
         {
@@ -4030,11 +4030,11 @@
             "team": "Rio Ave vs Estrela",
             "date": "2026-09-14",
             "time": "17:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio do Rio Ave"
         },
         {
@@ -4051,21 +4051,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
             "clock": "",
             "venue": "Estádio Comendador Joaquim de Almeida Freitas"
-        },
-        {
-            "match_no": 401885445,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Braga vs Estoril",
-            "date": "2026-09-14",
-            "time": "19:45",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
-            "clock": "",
-            "venue": "Estádio Municipal de Braga"
         },
         {
             "match_no": 401885434,
@@ -4390,11 +4375,11 @@
             "team": "Gaziantep FK vs Fenerbahce",
             "date": "2026-09-14",
             "time": "17:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Gaziantep Stadium"
         },
         {
@@ -6003,6 +5988,21 @@
             "venue": "Istiqlol Stadium"
         },
         {
+            "match_no": 401912663,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Al Shamal vs Al Ittihad",
+            "date": "2026-09-14",
+            "time": "16:00",
+            "status": "ft",
+            "score": "1 - 1",
+            "teamA_logo": "",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
+            "clock": "FT",
+            "venue": "Al Bayt Stadium"
+        },
+        {
             "match_no": 401912673,
             "league_id": "afc.champions",
             "league_name": "AFC Champions League",
@@ -6010,11 +6010,11 @@
             "team": "Shabab Al-Ahli vs Traktor Sazi FC",
             "date": "2026-09-14",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Rashid Stadium"
         },
         {
@@ -6025,11 +6025,11 @@
             "team": "Esteghlal vs Al Sadd",
             "date": "2026-09-14",
             "time": "18:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7135.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Basra International Stadium"
         },
         {
@@ -6040,11 +6040,11 @@
             "team": "Al Ahli vs Pakhtakor Tashkent",
             "date": "2026-09-14",
             "time": "18:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "King Abdullah Sports City"
         },
         {
@@ -6055,11 +6055,11 @@
             "team": "Al Qadsiah vs Al Wasl",
             "date": "2026-09-14",
             "time": "18:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8365.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Prince Mohammed Bin Fahd Stadium"
         },
         {
