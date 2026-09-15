@@ -5425,11 +5425,11 @@
             "team": "Daejeon Hana Citizen vs Kyoto Sanga",
             "date": "2026-09-15",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21361.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Daejeon World Cup Stadium"
         },
         {
@@ -5440,11 +5440,11 @@
             "team": "Gamba Osaka vs Cong An Hanoi",
             "date": "2026-09-15",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7102.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Suita City Football Stadium"
         },
         {
@@ -5455,11 +5455,11 @@
             "team": "Kashima Antlers vs Newcastle Jets",
             "date": "2026-09-15",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "7 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7115.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5323.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Kashima Soccer Stadium"
         },
         {
@@ -5470,11 +5470,11 @@
             "team": "Ratchaburi FC vs Shanghai Port",
             "date": "2026-09-15",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 6",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17760.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15515.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Dragon Solar Park"
         },
         {
