@@ -438,21 +438,6 @@
     },
     "matches": [
         {
-            "match_no": 401915586,
-            "league_id": "uefa.europa",
-            "league_name": "UEFA Europa League",
-            "league_rank": 6,
-            "team": "AC Milan vs Benfica",
-            "date": "2026-09-16",
-            "time": "19:00",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-            "clock": "3'",
-            "venue": "San Siro"
-        },
-        {
             "match_no": 401915418,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -1105,11 +1090,11 @@
             "team": "Barcelona vs Racing Santander",
             "date": "2026-09-16",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "7 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Spotify Camp Nou"
         },
         {
@@ -2328,6 +2313,21 @@
             "venue": "GSP Stadium"
         },
         {
+            "match_no": 401915586,
+            "league_id": "uefa.europa",
+            "league_name": "UEFA Europa League",
+            "league_rank": 6,
+            "team": "AC Milan vs Benfica",
+            "date": "2026-09-16",
+            "time": "19:00",
+            "status": "ft",
+            "score": "0 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+            "clock": "FT",
+            "venue": "San Siro"
+        },
+        {
             "match_no": 401915590,
             "league_id": "uefa.europa",
             "league_name": "UEFA Europa League",
@@ -2335,11 +2335,11 @@
             "team": "Anderlecht vs Lyon",
             "date": "2026-09-16",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Lotto Park"
         },
         {
@@ -2350,11 +2350,11 @@
             "team": "Bayer Leverkusen vs NK Celje",
             "date": "2026-09-16",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "BayArena"
         },
         {
@@ -2365,11 +2365,11 @@
             "team": "Hapoel Be'er vs Dinamo Zagreb",
             "date": "2026-09-16",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Giulesti Stadium"
         },
         {
@@ -2380,11 +2380,11 @@
             "team": "Olympiacos vs Jagiellonia Bialystok",
             "date": "2026-09-16",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Georgios Karaiskakis Stadium"
         },
         {
@@ -2395,11 +2395,11 @@
             "team": "SK Sturm Graz vs Stade Rennais",
             "date": "2026-09-16",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Merkur Arena"
         },
         {
@@ -2410,11 +2410,11 @@
             "team": "Sunderland vs AZ Alkmaar",
             "date": "2026-09-16",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadium of Light"
         },
         {
