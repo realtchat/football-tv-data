@@ -6070,11 +6070,11 @@
             "team": "Jeonbuk Motors vs Kashiwa Reysol",
             "date": "2026-09-16",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7476.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Jeonju World Cup Stadium"
         },
         {
@@ -6085,11 +6085,11 @@
             "team": "Port FC vs Vissel Kobe",
             "date": "2026-09-16",
             "time": "12:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17757.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7477.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Thammasat Stadium"
         },
         {
