@@ -1398,6 +1398,21 @@
             "venue": "Estadi Ciutat de València"
         },
         {
+            "match_no": 401882844,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Deportivo vs Levante",
+            "date": "2026-10-16",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+            "clock": "",
+            "venue": "Riazor"
+        },
+        {
             "match_no": 401884790,
             "league_id": "ger.1",
             "league_name": "Bundesliga",
@@ -1666,6 +1681,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
             "clock": "",
             "venue": "Europa-Park Stadion"
+        },
+        {
+            "match_no": 401884770,
+            "league_id": "ger.1",
+            "league_name": "Bundesliga",
+            "league_rank": 3,
+            "team": "Eintracht Frankfurt vs FC Cologne",
+            "date": "2026-10-16",
+            "time": "18:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+            "clock": "",
+            "venue": "Deutsche Bank Park"
         },
         {
             "match_no": 401874756,
@@ -1968,6 +1998,21 @@
             "venue": "Stadio Olimpico Grande Torino"
         },
         {
+            "match_no": 401874959,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Frosinone vs Sassuolo",
+            "date": "2026-10-16",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+            "clock": "",
+            "venue": "Stadio Benito Stirpe"
+        },
+        {
             "match_no": 401876453,
             "league_id": "fra.1",
             "league_name": "Ligue 1",
@@ -2236,6 +2281,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
             "clock": "",
             "venue": "Stade de l'Aube"
+        },
+        {
+            "match_no": 401876437,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Le Mans vs Toulouse",
+            "date": "2026-10-16",
+            "time": "18:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+            "clock": "",
+            "venue": "Stade Marie-Marvingt"
         },
         {
             "match_no": 401915594,
@@ -2971,6 +3031,51 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
             "clock": "",
             "venue": "King Abdullah Sports City"
+        },
+        {
+            "match_no": 401900901,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Qadsiah vs Abha",
+            "date": "2026-10-16",
+            "time": "13:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
+            "clock": "",
+            "venue": "Prince Mohammed Bin Fahd Stadium"
+        },
+        {
+            "match_no": 401900900,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Riyadh vs Al Hilal",
+            "date": "2026-10-16",
+            "time": "15:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
+            "clock": "",
+            "venue": "Al-Shabab Club Stadium"
+        },
+        {
+            "match_no": 401900903,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Ittihad vs Al Shabab",
+            "date": "2026-10-16",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
+            "clock": "",
+            "venue": "Prince Abdullah Al-Faisal Stadium"
         },
         {
             "match_no": 761815,
@@ -4188,6 +4293,21 @@
             "venue": "Stadion Woudestein"
         },
         {
+            "match_no": 401875583,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Heerenveen vs Excelsior",
+            "date": "2026-10-16",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
+            "clock": "",
+            "venue": "Abe Lenstra Stadion"
+        },
+        {
             "match_no": 401885434,
             "league_id": "por.1",
             "league_name": "Liga Portugal",
@@ -4726,6 +4846,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
             "clock": "",
             "venue": "Esenyurt Necmi Kadioglu Stadi"
+        },
+        {
+            "match_no": 401888377,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Çorum FK vs Caykur Rizespor",
+            "date": "2026-10-16",
+            "time": "17:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
+            "clock": "",
+            "venue": "Çorum Sehir Stadyumu"
         },
         {
             "match_no": 401841176,
@@ -6453,6 +6588,21 @@
             "venue": "Seoul World Cup Stadium"
         },
         {
+            "match_no": 401915925,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "Tajikistan vs Palestine",
+            "date": "2026-09-28",
+            "time": "12:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/tjk.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/pal.png",
+            "clock": "",
+            "venue": "Tongliang Long Stadium"
+        },
+        {
             "match_no": 401921339,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -6466,21 +6616,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/lib.png",
             "clock": "",
             "venue": "Dolen Omurzakov Stadium"
-        },
-        {
-            "match_no": 401915925,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Tajikistan vs Palestine",
-            "date": "2026-09-29",
-            "time": "09:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/tjk.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/pal.png",
-            "clock": "",
-            "venue": "Tongliang Long Stadium"
         },
         {
             "match_no": 401881965,
@@ -6939,7 +7074,7 @@
             "league_rank": 20,
             "team": "India vs Uruguay",
             "date": "2026-10-06",
-            "time": "14:00",
+            "time": "13:30",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ind.png",
@@ -7471,6 +7606,51 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
             "clock": "",
             "venue": "Estadio Olímpico Universitario"
+        },
+        {
+            "match_no": 401876946,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Necaxa vs Atlas",
+            "date": "2026-10-17",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
+            "clock": "",
+            "venue": "Estadio Victoria"
+        },
+        {
+            "match_no": 401876945,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Atlante vs Pumas UNAM",
+            "date": "2026-10-17",
+            "time": "03:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
+            "clock": "",
+            "venue": "Estadio Banorte"
+        },
+        {
+            "match_no": 401876944,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Tijuana vs Puebla",
+            "date": "2026-10-17",
+            "time": "03:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
+            "clock": "",
+            "venue": "Estadio Caliente"
         },
         {
             "match_no": 401880255,
@@ -8011,6 +8191,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
             "clock": "",
             "venue": "LNER Stadium"
+        },
+        {
+            "match_no": 401880218,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Burnley vs Wolverhampton Wanderers",
+            "date": "2026-10-16",
+            "time": "19:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+            "clock": "",
+            "venue": "Turf Moor"
         }
     ]
 }
