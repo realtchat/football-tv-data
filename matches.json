@@ -438,21 +438,6 @@
     },
     "matches": [
         {
-            "match_no": 401841572,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Central Córdoba (Santiago del Estero) vs Defensa y Justicia",
-            "date": "2026-09-18",
-            "time": "21:00",
-            "status": "in",
-            "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
-            "clock": "HT",
-            "venue": "Alfredo Terrera"
-        },
-        {
             "match_no": 401915418,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -5941,6 +5926,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
             "clock": "",
             "venue": "Estádio Cícero Pompeu de Toledo"
+        },
+        {
+            "match_no": 401841572,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Central Córdoba (Santiago del Estero) vs Defensa y Justicia",
+            "date": "2026-09-18",
+            "time": "21:00",
+            "status": "ft",
+            "score": "2 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
+            "clock": "FT",
+            "venue": "Alfredo Terrera"
         },
         {
             "match_no": 401841580,
