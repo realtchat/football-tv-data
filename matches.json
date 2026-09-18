@@ -6850,11 +6850,11 @@
             "team": "Fiji vs Solomon Islands",
             "date": "2026-09-18",
             "time": "07:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fij.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sol.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "TBD"
         },
         {
