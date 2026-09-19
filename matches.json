@@ -438,19 +438,19 @@
     },
     "matches": [
         {
-            "match_no": 401876451,
-            "league_id": "fra.1",
-            "league_name": "Ligue 1",
-            "league_rank": 5,
-            "team": "Paris FC vs Strasbourg",
+            "match_no": 401841573,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Gimnasia La Plata vs Banfield",
             "date": "2026-09-19",
-            "time": "15:15",
+            "time": "17:30",
             "status": "in",
-            "score": "1 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-            "clock": "HT",
-            "venue": "Stade Jean Bouin"
+            "score": "1 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
+            "clock": "48'",
+            "venue": "Juan Carmelo Zerillo (El Bosque)"
         },
         {
             "match_no": 401915418,
@@ -805,11 +805,11 @@
             "team": "Nottingham Forest vs Coventry City",
             "date": "2026-09-19",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "The City Ground"
         },
         {
@@ -1150,11 +1150,11 @@
             "team": "Celta Vigo vs Racing Santander",
             "date": "2026-09-19",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Balaidos"
         },
         {
@@ -1555,11 +1555,11 @@
             "team": "VfB Stuttgart vs Borussia Dortmund",
             "date": "2026-09-19",
             "time": "16:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "MHPArena"
         },
         {
@@ -1900,11 +1900,11 @@
             "team": "AS Roma vs Internazionale",
             "date": "2026-09-19",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Olimpico"
         },
         {
@@ -2221,6 +2221,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
             "clock": "FT",
             "venue": "Stade Louis II"
+        },
+        {
+            "match_no": 401876451,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Paris FC vs Strasbourg",
+            "date": "2026-09-19",
+            "time": "15:15",
+            "status": "ft",
+            "score": "2 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+            "clock": "FT",
+            "venue": "Stade Jean Bouin"
         },
         {
             "match_no": 401876457,
@@ -4225,11 +4240,11 @@
             "team": "ADO Den Haag vs SC Cambuur",
             "date": "2026-09-19",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "ADO Den Haag Stadium"
         },
         {
@@ -4240,11 +4255,11 @@
             "team": "Sparta Rotterdam vs Heerenveen",
             "date": "2026-09-19",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Sparta-Stadion Het Kasteel"
         },
         {
@@ -4540,11 +4555,11 @@
             "team": "C.D. Nacional vs FC Famalicao",
             "date": "2026-09-19",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio da Madeira"
         },
         {
@@ -4555,11 +4570,11 @@
             "team": "Gil Vicente vs Maritimo",
             "date": "2026-09-19",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Cidade de Barcelos"
         },
         {
@@ -5806,21 +5821,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17702.png",
             "clock": "",
             "venue": "Estadio Víctor Antonio Legrotaglie"
-        },
-        {
-            "match_no": 401841573,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Gimnasia La Plata vs Banfield",
-            "date": "2026-09-19",
-            "time": "17:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
-            "clock": "",
-            "venue": "Juan Carmelo Zerillo (El Bosque)"
         },
         {
             "match_no": 401841576,
