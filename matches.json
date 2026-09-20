@@ -438,34 +438,19 @@
     },
     "matches": [
         {
-            "match_no": 401874934,
-            "league_id": "ita.1",
-            "league_name": "Serie A",
-            "league_rank": 4,
-            "team": "Fiorentina vs Napoli",
+            "match_no": 401885437,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Estrela vs Académico de Viseu",
             "date": "2026-09-20",
-            "time": "10:30",
+            "time": "14:30",
             "status": "in",
             "score": "0 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-            "clock": "39'",
-            "venue": "Stadio Artemio Franchi"
-        },
-        {
-            "match_no": 401875596,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "Feyenoord Rotterdam vs FC Utrecht",
-            "date": "2026-09-20",
-            "time": "10:15",
-            "status": "in",
-            "score": "3 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
-            "clock": "HT",
-            "venue": "De Kuip"
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
+            "clock": "14'",
+            "venue": "Estádio Municipal de Rio Maior"
         },
         {
             "match_no": 401841579,
@@ -1240,11 +1225,11 @@
             "team": "Getafe vs Málaga",
             "date": "2026-09-20",
             "time": "12:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio Coliseum"
         },
         {
@@ -2041,6 +2026,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
             "clock": "FT",
             "venue": "Stadio Pier Luigi Penzo"
+        },
+        {
+            "match_no": 401874934,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Fiorentina vs Napoli",
+            "date": "2026-09-20",
+            "time": "10:30",
+            "status": "ft",
+            "score": "1 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+            "clock": "FT",
+            "venue": "Stadio Artemio Franchi"
         },
         {
             "match_no": 401874752,
@@ -4518,6 +4518,21 @@
             "venue": "Koning Willem II Stadion"
         },
         {
+            "match_no": 401875596,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "Feyenoord Rotterdam vs FC Utrecht",
+            "date": "2026-09-20",
+            "time": "10:15",
+            "status": "ft",
+            "score": "5 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
+            "clock": "FT",
+            "venue": "De Kuip"
+        },
+        {
             "match_no": 401875595,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -4525,11 +4540,11 @@
             "team": "AZ Alkmaar vs Telstar",
             "date": "2026-09-20",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "AFAS Stadion"
         },
         {
@@ -4540,11 +4555,11 @@
             "team": "FC Twente vs PSV Eindhoven",
             "date": "2026-09-20",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "De Grolsch Veste"
         },
         {
@@ -4891,21 +4906,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
             "clock": "FT",
             "venue": "Estádio José Alvalade"
-        },
-        {
-            "match_no": 401885437,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Estrela vs Académico de Viseu",
-            "date": "2026-09-20",
-            "time": "14:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
-            "clock": "",
-            "venue": "Estádio Municipal de Rio Maior"
         },
         {
             "match_no": 401885430,
@@ -8980,11 +8980,11 @@
             "team": "Wolverhampton Wanderers vs West Bromwich Albion",
             "date": "2026-09-20",
             "time": "11:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Molineux Stadium"
         },
         {
@@ -8995,11 +8995,11 @@
             "team": "Norwich City vs Bolton Wanderers",
             "date": "2026-09-20",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Carrow Road"
         },
         {
