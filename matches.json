@@ -5545,11 +5545,11 @@
             "team": "Aldosivi vs Atlético Tucumán",
             "date": "2026-09-21",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9739.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "José María Minella"
         },
         {
@@ -6535,11 +6535,11 @@
             "team": "Dominica vs Anguilla",
             "date": "2026-09-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/dma.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/aia.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Windsor Park, Roseau"
         },
         {
