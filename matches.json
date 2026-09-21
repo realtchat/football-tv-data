@@ -6505,11 +6505,11 @@
             "team": "New Caledonia vs Solomon Islands",
             "date": "2026-09-21",
             "time": "04:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ncd.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sol.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "HFC Bank Stadium"
         },
         {
