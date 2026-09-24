@@ -438,21 +438,6 @@
     },
     "matches": [
         {
-            "match_no": 401905196,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "South Korea vs Ecuador",
-            "date": "2026-09-24",
-            "time": "11:00",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
-            "clock": "46'",
-            "venue": "Suwon World Cup Stadium"
-        },
-        {
             "match_no": 401915418,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -6558,6 +6543,21 @@
             "venue": "Miyagi Stadium"
         },
         {
+            "match_no": 401905196,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "South Korea vs Ecuador",
+            "date": "2026-09-24",
+            "time": "11:00",
+            "status": "ft",
+            "score": "3 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+            "clock": "FT",
+            "venue": "Suwon World Cup Stadium"
+        },
+        {
             "match_no": 401914222,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -6565,11 +6565,11 @@
             "team": "China vs Maldives",
             "date": "2026-09-24",
             "time": "11:35",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/mdv.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Chongqing Longxing Football Stadium"
         },
         {
@@ -6580,11 +6580,11 @@
             "team": "Uzbekistan vs Iran",
             "date": "2026-09-24",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Istiqlol Stadium"
         },
         {
