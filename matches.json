@@ -5538,21 +5538,6 @@
             "venue": "Estádio Cícero Pompeu de Toledo"
         },
         {
-            "match_no": 401841582,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Lanús vs Estudiantes de La Plata",
-            "date": "2026-09-22",
-            "time": "00:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
-            "clock": "",
-            "venue": "Ciudad de Lanús"
-        },
-        {
             "match_no": 401841588,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
