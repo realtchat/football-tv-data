@@ -6490,11 +6490,11 @@
             "team": "Solomon Islands vs Vanuatu",
             "date": "2026-09-24",
             "time": "04:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sol.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/van.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "HFC Bank Stadium"
         },
         {
