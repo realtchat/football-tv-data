@@ -8523,6 +8523,21 @@
             "venue": "Kazan Arena"
         },
         {
+            "match_no": 401921545,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "Argentina vs Bolivia",
+            "date": "2026-09-29",
+            "time": "23:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png",
+            "clock": "",
+            "venue": "Mario Alberto Kempes"
+        },
+        {
             "match_no": 401905189,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -8641,21 +8656,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/dji.png",
             "clock": "",
             "venue": "TBD"
-        },
-        {
-            "match_no": 401921545,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Argentina vs Bolivia",
-            "date": "2026-09-30",
-            "time": "18:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png",
-            "clock": "",
-            "venue": "Mario Alberto Kempes"
         },
         {
             "match_no": 401924629,
