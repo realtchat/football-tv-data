@@ -8440,11 +8440,11 @@
             "team": "Japan vs Venezuela",
             "date": "2026-09-28",
             "time": "10:25",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ven.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Edion Peace Wing Hiroshima"
         },
         {
@@ -8455,11 +8455,11 @@
             "team": "South Korea vs Uruguay",
             "date": "2026-09-28",
             "time": "11:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Seoul World Cup Stadium"
         },
         {
@@ -8470,11 +8470,11 @@
             "team": "Tajikistan vs Palestine",
             "date": "2026-09-28",
             "time": "12:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/tjk.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/pal.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Tongliang Long Stadium"
         },
         {
