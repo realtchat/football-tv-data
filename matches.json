@@ -8785,11 +8785,11 @@
             "team": "Russia vs Iran",
             "date": "2026-09-29",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Kazan Arena"
         },
         {
