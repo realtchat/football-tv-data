@@ -8755,11 +8755,11 @@
             "team": "Papua New Guinea vs Solomon Islands",
             "date": "2026-09-30",
             "time": "04:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/png.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sol.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "HFC Bank Stadium"
         },
         {
@@ -8784,7 +8784,7 @@
             "league_rank": 20,
             "team": "Seychelles vs Sri Lanka",
             "date": "2026-09-30",
-            "time": "13:00",
+            "time": "12:00",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sey.png",
