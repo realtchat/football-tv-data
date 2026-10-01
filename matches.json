@@ -2298,6 +2298,21 @@
             "venue": "Europa-Park Stadion"
         },
         {
+            "match_no": 401884746,
+            "league_id": "ger.1",
+            "league_name": "Bundesliga",
+            "league_rank": 3,
+            "team": "SV Elversberg vs Mainz",
+            "date": "2026-10-30",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+            "clock": "",
+            "venue": "URSAPHARM-Arena an der Kaiserlinde"
+        },
+        {
             "match_no": 401874947,
             "league_id": "ita.1",
             "league_name": "Serie A",
@@ -3301,6 +3316,36 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
             "clock": "",
             "venue": "Parc des Princes"
+        },
+        {
+            "match_no": 401876421,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Le Havre AC vs Paris Saint-Germain",
+            "date": "2026-10-30",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+            "clock": "",
+            "venue": "Stade Océane"
+        },
+        {
+            "match_no": 401876420,
+            "league_id": "fra.1",
+            "league_name": "Ligue 1",
+            "league_rank": 5,
+            "team": "Lille vs Lens",
+            "date": "2026-10-30",
+            "time": "20:05",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+            "clock": "",
+            "venue": "Decathlon Arena - Stade Pierre-Mauroy"
         },
         {
             "match_no": 401915573,
@@ -4424,6 +4469,51 @@
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
+            "clock": "",
+            "venue": "Al-Shabab Club Stadium"
+        },
+        {
+            "match_no": 401900885,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Abha vs Al Ittihad",
+            "date": "2026-10-30",
+            "time": "13:45",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
+            "clock": "",
+            "venue": "Prince Sultan bin Abdulaziz Sports City Stadium"
+        },
+        {
+            "match_no": 401900877,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Diriyah vs Neom SC",
+            "date": "2026-10-30",
+            "time": "14:50",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130899.png",
+            "clock": "",
+            "venue": "Al-Awwal Park"
+        },
+        {
+            "match_no": 401900879,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Al Shabab vs Al Ahli",
+            "date": "2026-10-30",
+            "time": "18:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
             "clock": "",
             "venue": "Al-Shabab Club Stadium"
         },
@@ -6273,6 +6363,21 @@
             "venue": "Estádio de São Miguel"
         },
         {
+            "match_no": 401885408,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Casa Pia vs Sporting CP",
+            "date": "2026-10-30",
+            "time": "20:15",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+            "clock": "",
+            "venue": "Estádio Municipal de Rio Maior"
+        },
+        {
             "match_no": 401888280,
             "league_id": "tur.1",
             "league_name": "Turkish Süper Lig",
@@ -6676,6 +6781,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
             "clock": "",
             "venue": "RAMS Park"
+        },
+        {
+            "match_no": 401888259,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Konyaspor vs Galatasaray",
+            "date": "2026-10-30",
+            "time": "17:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+            "clock": "",
+            "venue": "Medas Konya Büyüksehir Stadyumu"
         },
         {
             "match_no": 401841169,
@@ -7441,6 +7561,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
             "clock": "",
             "venue": "Arena do Grêmio"
+        },
+        {
+            "match_no": 401841295,
+            "league_id": "bra.1",
+            "league_name": "Serie A Brazil",
+            "league_rank": 14,
+            "team": "Corinthians vs Mirassol",
+            "date": "2026-10-30",
+            "time": "23:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+            "clock": "",
+            "venue": "Neo Química Arena"
         },
         {
             "match_no": 401841588,
@@ -8823,36 +8958,6 @@
             "venue": "Kashima Soccer Stadium"
         },
         {
-            "match_no": 401881965,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Australia vs Brazil",
-            "date": "2026-09-29",
-            "time": "10:00",
-            "status": "ft",
-            "score": "2 - 4",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-            "clock": "FT",
-            "venue": "Suncorp Stadium"
-        },
-        {
-            "match_no": 401911182,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Russia vs Iran",
-            "date": "2026-09-29",
-            "time": "16:00",
-            "status": "ft",
-            "score": "2 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
-            "clock": "FT",
-            "venue": "Kazan Arena"
-        },
-        {
             "match_no": 401905189,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -10083,6 +10188,51 @@
             "venue": "Estadio Banorte"
         },
         {
+            "match_no": 401876919,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Atlético de San Luis vs Atlas",
+            "date": "2026-10-31",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
+            "clock": "",
+            "venue": "Estadio Libertad Financiera"
+        },
+        {
+            "match_no": 401876918,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "FC Juárez vs Querétaro",
+            "date": "2026-10-31",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
+            "clock": "",
+            "venue": "Estadio Olímpico Benito Juárez"
+        },
+        {
+            "match_no": 401876917,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Puebla vs Pumas UNAM",
+            "date": "2026-10-31",
+            "time": "03:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
+            "clock": "",
+            "venue": "Estadio Cuauhtémoc"
+        },
+        {
             "match_no": 401880233,
             "league_id": "eng.2",
             "league_name": "Championship",
@@ -10816,6 +10966,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/395.png",
             "clock": "",
             "venue": "Molineux Stadium"
+        },
+        {
+            "match_no": 401880190,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Sheffield United vs Wrexham",
+            "date": "2026-10-30",
+            "time": "20:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
+            "clock": "",
+            "venue": "Bramall Lane"
         }
     ]
 }
