@@ -9730,11 +9730,11 @@
             "team": "Mauritius vs Sri Lanka",
             "date": "2026-10-02",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/mri.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Cote d'Or National Sports Complex"
         },
         {
