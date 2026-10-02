@@ -438,21 +438,6 @@
     },
     "matches": [
         {
-            "match_no": 401902634,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "South Korea vs Venezuela",
-            "date": "2026-10-02",
-            "time": "11:00",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ven.png",
-            "clock": "HT",
-            "venue": "Ulsan Munsu Football Stadium"
-        },
-        {
             "match_no": 401915418,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -9693,6 +9678,21 @@
             "venue": "Dolen Omurzakov Stadium"
         },
         {
+            "match_no": 401902634,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "South Korea vs Venezuela",
+            "date": "2026-10-02",
+            "time": "11:00",
+            "status": "ft",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ven.png",
+            "clock": "FT",
+            "venue": "Ulsan Munsu Football Stadium"
+        },
+        {
             "match_no": 401914141,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -9700,11 +9700,11 @@
             "team": "China vs Palestine",
             "date": "2026-10-02",
             "time": "11:35",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 5",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/pal.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Chongqing Longxing Football Stadium"
         },
         {
@@ -9715,11 +9715,11 @@
             "team": "Congo DR vs Uganda",
             "date": "2026-10-02",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/uga.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "TBD"
         },
         {
