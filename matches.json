@@ -9685,12 +9685,27 @@
             "team": "Fiji vs Vanuatu",
             "date": "2026-10-03",
             "time": "04:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fij.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/van.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "HFC Bank Stadium"
+        },
+        {
+            "match_no": 401912238,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "Sri Lanka vs Djibouti",
+            "date": "2026-10-03",
+            "time": "04:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/dji.png",
+            "clock": "",
+            "venue": "TBD"
         },
         {
             "match_no": 401903233,
@@ -9736,21 +9751,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/per.png",
             "clock": "",
             "venue": "Stade Saputo"
-        },
-        {
-            "match_no": 401912238,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Sri Lanka vs Djibouti",
-            "date": "2026-10-03",
-            "time": "18:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/dji.png",
-            "clock": "",
-            "venue": "TBD"
         },
         {
             "match_no": 401916228,
