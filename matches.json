@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401841597,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Argentinos Juniors vs Tigre",
+            "date": "2026-10-04",
+            "time": "22:15",
+            "status": "in",
+            "score": "2 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
+            "clock": "HT",
+            "venue": "Diego Armando Maradona"
+        },
+        {
             "match_no": 401915418,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -8980,27 +8995,12 @@
             "team": "Talleres (Córdoba) vs Belgrano (Córdoba)",
             "date": "2026-10-04",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Mario Alberto Kempes"
-        },
-        {
-            "match_no": 401841597,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Argentinos Juniors vs Tigre",
-            "date": "2026-10-04",
-            "time": "22:15",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
-            "clock": "",
-            "venue": "Diego Armando Maradona"
         },
         {
             "match_no": 401841591,
@@ -10800,7 +10800,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/uga.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "FNB Training Pitch"
         },
         {
             "match_no": 401912454,
