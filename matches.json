@@ -8403,21 +8403,6 @@
             "venue": "Estádio Municipal de Braga"
         },
         {
-            "match_no": 401885426,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Casa Pia vs Santa Clara",
-            "date": "2026-10-10",
-            "time": "14:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-            "clock": "",
-            "venue": "Estádio Municipal de Rio Maior"
-        },
-        {
             "match_no": 401885424,
             "league_id": "por.1",
             "league_name": "Liga Portugal",
@@ -8431,6 +8416,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
             "clock": "",
             "venue": "Estádio do Marítimo"
+        },
+        {
+            "match_no": 401885426,
+            "league_id": "por.1",
+            "league_name": "Liga Portugal",
+            "league_rank": 12,
+            "team": "Casa Pia vs Santa Clara",
+            "date": "2026-10-10",
+            "time": "19:30",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
+            "clock": "",
+            "venue": "Estádio Municipal de Rio Maior"
         },
         {
             "match_no": 401885429,
