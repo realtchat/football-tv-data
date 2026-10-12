@@ -5433,21 +5433,6 @@
             "venue": "Al Majma'a Sport City Stadium"
         },
         {
-            "match_no": 401900914,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Abha vs Al Faisaly",
-            "date": "2026-10-11",
-            "time": "15:25",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
-            "clock": "",
-            "venue": "Damac Club Stadium"
-        },
-        {
             "match_no": 401900906,
             "league_id": "ksa.1",
             "league_name": "Saudi Pro League",
@@ -5866,6 +5851,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18459.png",
             "clock": "",
             "venue": "Al-Shabab Club Stadium"
+        },
+        {
+            "match_no": 401900914,
+            "league_id": "ksa.1",
+            "league_name": "Saudi Pro League",
+            "league_rank": 7,
+            "team": "Abha vs Al Faisaly",
+            "date": "2026-10-27",
+            "time": "12:40",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
+            "clock": "",
+            "venue": "Prince Sultan bin Abdulaziz Sports City Stadium"
         },
         {
             "match_no": 401900882,
