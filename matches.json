@@ -10300,11 +10300,11 @@
             "team": "Kashiwa Reysol vs Port FC",
             "date": "2026-10-14",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7476.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17757.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Sankyo Frontier Kashiwa Stadium"
         },
         {
@@ -10315,11 +10315,11 @@
             "team": "Vissel Kobe vs Jeonbuk Motors",
             "date": "2026-10-14",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7477.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Kobe Wing Stadium"
         },
         {
