@@ -580,11 +580,11 @@
             "team": "Feyenoord Rotterdam vs Como",
             "date": "2026-10-14",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "De Kuip"
         },
         {
@@ -595,11 +595,11 @@
             "team": "LASK Linz vs Liverpool",
             "date": "2026-10-14",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 6",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Raiffeisen Arena (Linz)"
         },
         {
