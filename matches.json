@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401841622,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Huracán vs Gimnasia La Plata",
+            "date": "2026-10-15",
+            "time": "23:00",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
+            "clock": "HT",
+            "venue": "Estadio Tomás Adolfo Ducó"
+        },
+        {
             "match_no": 401915416,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -9121,21 +9136,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
             "clock": "",
             "venue": "Eva Perón"
-        },
-        {
-            "match_no": 401841622,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Huracán vs Gimnasia La Plata",
-            "date": "2026-10-15",
-            "time": "23:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
-            "clock": "",
-            "venue": "Estadio Tomás Adolfo Ducó"
         },
         {
             "match_no": 401841626,
