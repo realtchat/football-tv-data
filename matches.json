@@ -4975,11 +4975,11 @@
             "team": "Al Faisaly vs Al Kholood",
             "date": "2026-10-15",
             "time": "13:40",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Majma'a Sport City Stadium"
         },
         {
@@ -4990,11 +4990,11 @@
             "team": "Al Khaleej vs Al Fayha",
             "date": "2026-10-15",
             "time": "14:50",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Prince Mohammed Bin Fahd Stadium"
         },
         {
@@ -5005,11 +5005,11 @@
             "team": "Al Hazem vs Al Fateh",
             "date": "2026-10-15",
             "time": "15:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13033.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Hazm Club Stadium"
         },
         {
