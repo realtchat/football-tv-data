@@ -438,21 +438,6 @@
     },
     "matches": [
         {
-            "match_no": 401882844,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Deportivo vs Levante",
-            "date": "2026-10-16",
-            "time": "19:00",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-            "clock": "HT",
-            "venue": "Riazor"
-        },
-        {
             "match_no": 401841622,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -468,19 +453,19 @@
             "venue": "Estadio Tomás Adolfo Ducó"
         },
         {
-            "match_no": 401880218,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Burnley vs Wolverhampton Wanderers",
+            "match_no": 401841626,
+            "league_id": "arg.1",
+            "league_name": "Argentine Primera",
+            "league_rank": 15,
+            "team": "Defensa y Justicia vs Instituto (Córdoba)",
             "date": "2026-10-16",
-            "time": "19:00",
+            "time": "22:00",
             "status": "in",
-            "score": "1 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
             "clock": "HT",
-            "venue": "Turf Moor"
+            "venue": "Norberto Tomaghello"
         },
         {
             "match_no": 401915403,
@@ -1623,6 +1608,21 @@
             "venue": "Old Trafford"
         },
         {
+            "match_no": 401882844,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Deportivo vs Levante",
+            "date": "2026-10-16",
+            "time": "19:00",
+            "status": "ft",
+            "score": "1 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+            "clock": "FT",
+            "venue": "Riazor"
+        },
+        {
             "match_no": 401882843,
             "league_id": "esp.1",
             "league_name": "La Liga",
@@ -2230,11 +2230,11 @@
             "team": "Eintracht Frankfurt vs FC Cologne",
             "date": "2026-10-16",
             "time": "18:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Deutsche Bank Park"
         },
         {
@@ -2770,11 +2770,11 @@
             "team": "Frosinone vs Sassuolo",
             "date": "2026-10-16",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Benito Stirpe"
         },
         {
@@ -3520,11 +3520,11 @@
             "team": "Le Mans vs Toulouse",
             "date": "2026-10-16",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Marie-Marvingt"
         },
         {
@@ -8913,21 +8913,6 @@
             "venue": "Estadio Manoel Barradas"
         },
         {
-            "match_no": 401841626,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Defensa y Justicia vs Instituto (Córdoba)",
-            "date": "2026-10-16",
-            "time": "22:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
-            "clock": "",
-            "venue": "Norberto Tomaghello"
-        },
-        {
             "match_no": 401841627,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -11131,6 +11116,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
             "clock": "",
             "venue": "Estadio Corregidora"
+        },
+        {
+            "match_no": 401880218,
+            "league_id": "eng.2",
+            "league_name": "Championship",
+            "league_rank": 22,
+            "team": "Burnley vs Wolverhampton Wanderers",
+            "date": "2026-10-16",
+            "time": "19:00",
+            "status": "ft",
+            "score": "1 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+            "clock": "FT",
+            "venue": "Turf Moor"
         },
         {
             "match_no": 401880216,
