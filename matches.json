@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401882843,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Espanyol vs Atlético Madrid",
+            "date": "2026-10-17",
+            "time": "12:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+            "clock": "HT",
+            "venue": "RCDE Stadium"
+        },
+        {
             "match_no": 401841626,
             "league_id": "arg.1",
             "league_name": "Argentine Primera",
@@ -1606,21 +1621,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
             "clock": "FT",
             "venue": "Riazor"
-        },
-        {
-            "match_no": 401882843,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Espanyol vs Atlético Madrid",
-            "date": "2026-10-17",
-            "time": "12:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-            "clock": "",
-            "venue": "RCDE Stadium"
         },
         {
             "match_no": 401882837,
@@ -7315,11 +7315,11 @@
             "team": "Erzurum BB vs Eyupspor",
             "date": "2026-10-17",
             "time": "10:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Erzurum Kazim Karabekir"
         },
         {
