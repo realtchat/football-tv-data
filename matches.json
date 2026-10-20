@@ -460,11 +460,11 @@
             "team": "Fenerbahce vs Slavia Prague",
             "date": "2026-10-20",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Şükrü Saracoğlu Stadium"
         },
         {
@@ -490,11 +490,11 @@
             "team": "AS Roma vs Slovan Bratislava",
             "date": "2026-10-20",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Olimpico"
         },
         {
@@ -505,11 +505,11 @@
             "team": "FC Porto vs PSV Eindhoven",
             "date": "2026-10-20",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio do Dragão"
         },
         {
@@ -520,11 +520,11 @@
             "team": "Liverpool vs Villarreal",
             "date": "2026-10-20",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Anfield"
         },
         {
@@ -535,11 +535,11 @@
             "team": "Manchester City vs AEK Athens",
             "date": "2026-10-20",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Etihad Stadium"
         },
         {
@@ -550,11 +550,11 @@
             "team": "Napoli vs Bodo/Glimt",
             "date": "2026-10-20",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Diego Armando Maradona"
         },
         {
@@ -565,11 +565,11 @@
             "team": "Paris Saint-Germain vs Barcelona",
             "date": "2026-10-20",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Parc des Princes"
         },
         {
@@ -580,11 +580,11 @@
             "team": "VfB Stuttgart vs Atlético Madrid",
             "date": "2026-10-20",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "MHPArena"
         },
         {
@@ -4015,11 +4015,11 @@
             "team": "Al Ettifaq vs Al Ittihad",
             "date": "2026-10-20",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al Ettifaq Club Stadium"
         },
         {
@@ -4030,11 +4030,11 @@
             "team": "Al Nassr vs Neom SC",
             "date": "2026-10-20",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130899.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Awwal Park"
         },
         {
@@ -9025,11 +9025,11 @@
             "team": "Wolverhampton Wanderers vs Portsmouth",
             "date": "2026-10-20",
             "time": "18:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/385.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Molineux Stadium"
         },
         {
