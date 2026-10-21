@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401882870,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Levante vs Athletic Club",
+            "date": "2026-10-21",
+            "time": "18:00",
+            "status": "in",
+            "score": "2 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+            "clock": "59'",
+            "venue": "Estadi Ciutat de València"
+        },
+        {
             "match_no": 401915403,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -580,11 +595,11 @@
             "team": "Como vs Manchester United",
             "date": "2026-10-21",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Giuseppe Sinigaglia"
         },
         {
@@ -595,11 +610,11 @@
             "team": "Lille vs Galatasaray",
             "date": "2026-10-21",
             "time": "16:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Decathlon Arena - Stade Pierre-Mauroy"
         },
         {
@@ -1426,21 +1441,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
             "clock": "",
             "venue": "Old Trafford"
-        },
-        {
-            "match_no": 401882870,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Levante vs Athletic Club",
-            "date": "2026-10-21",
-            "time": "18:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-            "clock": "",
-            "venue": "Estadi Ciutat de València"
         },
         {
             "match_no": 401882836,
