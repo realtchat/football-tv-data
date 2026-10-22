@@ -3295,11 +3295,11 @@
             "team": "AFC Bournemouth vs AC Milan",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Vitality Stadium"
         },
         {
@@ -3310,11 +3310,11 @@
             "team": "Besiktas vs Crystal Palace",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Vodafone Park"
         },
         {
@@ -3325,11 +3325,11 @@
             "team": "Celtic vs Celta Vigo",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Celtic Park"
         },
         {
@@ -3340,11 +3340,11 @@
             "team": "Jagiellonia Bialystok vs Anderlecht",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadion Miejski Bialystok"
         },
         {
@@ -3355,11 +3355,11 @@
             "team": "Lillestrom vs Real Sociedad",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 6",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Arasen Stadion"
         },
         {
@@ -3370,11 +3370,11 @@
             "team": "NK Celje vs RB Salzburg",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadion Z'dezele"
         },
         {
@@ -3385,11 +3385,11 @@
             "team": "Olympiacos vs Sparta Prague",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Georgios Karaiskakis Stadium"
         },
         {
@@ -3400,11 +3400,11 @@
             "team": "Omonia Nicosia vs Benfica",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "GSP Stadium"
         },
         {
@@ -3415,11 +3415,11 @@
             "team": "TSG Hoffenheim vs Lyon",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "PreZero Arena"
         },
         {
@@ -3430,11 +3430,11 @@
             "team": "Viktoria Plzen vs Levski Sofia",
             "date": "2026-10-22",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Doosan Arena"
         },
         {
