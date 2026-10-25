@@ -438,34 +438,19 @@
     },
     "matches": [
         {
-            "match_no": 401878764,
-            "league_id": "eng.1",
-            "league_name": "Premier League",
-            "league_rank": 1,
-            "team": "Sunderland vs Leeds United",
+            "match_no": 401875566,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "AZ Alkmaar vs FC Twente",
             "date": "2026-10-25",
-            "time": "16:30",
+            "time": "19:00",
             "status": "in",
             "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
             "clock": "HT",
-            "venue": "Stadium of Light"
-        },
-        {
-            "match_no": 401884759,
-            "league_id": "ger.1",
-            "league_name": "Bundesliga",
-            "league_rank": 3,
-            "team": "SC Freiburg vs Bayern Munich",
-            "date": "2026-10-25",
-            "time": "16:30",
-            "status": "in",
-            "score": "0 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-            "clock": "HT",
-            "venue": "Europa-Park Stadion"
+            "venue": "AFAS Stadion"
         },
         {
             "match_no": 401841283,
@@ -871,6 +856,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
             "clock": "FT",
             "venue": "Old Trafford"
+        },
+        {
+            "match_no": 401878764,
+            "league_id": "eng.1",
+            "league_name": "Premier League",
+            "league_rank": 1,
+            "team": "Sunderland vs Leeds United",
+            "date": "2026-10-25",
+            "time": "16:30",
+            "status": "ft",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+            "clock": "FT",
+            "venue": "Stadium of Light"
         },
         {
             "match_no": 401879248,
@@ -1405,11 +1405,11 @@
             "team": "Real Sociedad vs Levante",
             "date": "2026-10-25",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Reale Arena"
         },
         {
@@ -1983,6 +1983,21 @@
             "venue": "PreZero Arena"
         },
         {
+            "match_no": 401884759,
+            "league_id": "ger.1",
+            "league_name": "Bundesliga",
+            "league_rank": 3,
+            "team": "SC Freiburg vs Bayern Munich",
+            "date": "2026-10-25",
+            "time": "16:30",
+            "status": "ft",
+            "score": "1 - 3",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+            "clock": "FT",
+            "venue": "Europa-Park Stadion"
+        },
+        {
             "match_no": 401884746,
             "league_id": "ger.1",
             "league_name": "Bundesliga",
@@ -2500,11 +2515,11 @@
             "team": "Lecce vs Juventus",
             "date": "2026-10-25",
             "time": "17:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Via Del Mare"
         },
         {
@@ -3145,11 +3160,11 @@
             "team": "Toulouse vs Troyes",
             "date": "2026-10-25",
             "time": "16:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadium Municipal de Toulouse"
         },
         {
@@ -3160,11 +3175,11 @@
             "team": "AJ Auxerre vs Le Mans",
             "date": "2026-10-25",
             "time": "16:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade de l'Abbé-Deschamps"
         },
         {
@@ -3175,11 +3190,11 @@
             "team": "Angers vs Lorient",
             "date": "2026-10-25",
             "time": "16:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Raymond Kopa"
         },
         {
@@ -3190,11 +3205,11 @@
             "team": "Marseille vs Le Havre AC",
             "date": "2026-10-25",
             "time": "16:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Vélodrome"
         },
         {
@@ -3205,11 +3220,11 @@
             "team": "Stade Rennais vs Strasbourg",
             "date": "2026-10-25",
             "time": "16:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Roazhon Park"
         },
         {
@@ -5350,27 +5365,12 @@
             "team": "Sparta Rotterdam vs Ajax Amsterdam",
             "date": "2026-10-25",
             "time": "15:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Sparta-Stadion Het Kasteel"
-        },
-        {
-            "match_no": 401875566,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "AZ Alkmaar vs FC Twente",
-            "date": "2026-10-25",
-            "time": "19:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-            "clock": "",
-            "venue": "AFAS Stadion"
         },
         {
             "match_no": 401875565,
@@ -6235,11 +6235,11 @@
             "team": "Goztepe vs Çorum FK",
             "date": "2026-10-25",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Göztepe Gürsel Aksel Stadi"
         },
         {
@@ -7480,11 +7480,11 @@
             "team": "Aldosivi vs Belgrano (Córdoba)",
             "date": "2026-10-25",
             "time": "17:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9739.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "José María Minella"
         },
         {
