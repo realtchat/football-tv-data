@@ -438,6 +438,36 @@
     },
     "matches": [
         {
+            "match_no": 401882835,
+            "league_id": "esp.1",
+            "league_name": "La Liga",
+            "league_rank": 2,
+            "team": "Athletic Club vs Getafe",
+            "date": "2026-10-25",
+            "time": "13:00",
+            "status": "in",
+            "score": "2 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+            "clock": "HT",
+            "venue": "San Mamés"
+        },
+        {
+            "match_no": 401888266,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Konyaspor vs Genclerbirligi",
+            "date": "2026-10-25",
+            "time": "13:00",
+            "status": "in",
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png",
+            "clock": "HT",
+            "venue": "Medas Konya Büyüksehir Stadyumu"
+        },
+        {
             "match_no": 401841283,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -1351,21 +1381,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
             "clock": "FT",
             "venue": "Riyadh Air Metropolitano"
-        },
-        {
-            "match_no": 401882835,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Athletic Club vs Getafe",
-            "date": "2026-10-25",
-            "time": "13:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-            "clock": "",
-            "venue": "San Mamés"
         },
         {
             "match_no": 401882833,
@@ -2455,11 +2470,11 @@
             "team": "Internazionale vs Fiorentina",
             "date": "2026-10-25",
             "time": "11:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "San Siro"
         },
         {
@@ -5305,11 +5320,11 @@
             "team": "Fortuna Sittard vs Excelsior",
             "date": "2026-10-25",
             "time": "11:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Fortuna Sittard Stadion"
         },
         {
@@ -6211,21 +6226,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png",
             "clock": "FT",
             "venue": "Samsun 19 Mayis Stadium"
-        },
-        {
-            "match_no": 401888266,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Konyaspor vs Genclerbirligi",
-            "date": "2026-10-25",
-            "time": "13:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png",
-            "clock": "",
-            "venue": "Medas Konya Büyüksehir Stadyumu"
         },
         {
             "match_no": 401888376,
