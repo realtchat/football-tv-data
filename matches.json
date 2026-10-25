@@ -723,21 +723,6 @@
             "venue": "Viking Stadion"
         },
         {
-            "match_no": 401879253,
-            "league_id": "eng.1",
-            "league_name": "Premier League",
-            "league_rank": 1,
-            "team": "Ipswich Town vs Nottingham Forest",
-            "date": "2026-10-23",
-            "time": "19:00",
-            "status": "ft",
-            "score": "1 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-            "clock": "FT",
-            "venue": "Portman Road"
-        },
-        {
             "match_no": 401879256,
             "league_id": "eng.1",
             "league_name": "Premier League",
@@ -1306,21 +1291,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "clock": "",
             "venue": "Anfield"
-        },
-        {
-            "match_no": 401882836,
-            "league_id": "esp.1",
-            "league_name": "La Liga",
-            "league_rank": 2,
-            "team": "Alavés vs Málaga",
-            "date": "2026-10-23",
-            "time": "19:00",
-            "status": "ft",
-            "score": "1 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-            "clock": "FT",
-            "venue": "Mendizorrotza"
         },
         {
             "match_no": 401882830,
@@ -1893,21 +1863,6 @@
             "venue": "Estadio Coliseum"
         },
         {
-            "match_no": 401884761,
-            "league_id": "ger.1",
-            "league_name": "Bundesliga",
-            "league_rank": 3,
-            "team": "VfB Stuttgart vs Borussia Mönchengladbach",
-            "date": "2026-10-23",
-            "time": "18:30",
-            "status": "ft",
-            "score": "2 - 3",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-            "clock": "FT",
-            "venue": "MHPArena"
-        },
-        {
             "match_no": 401884756,
             "league_id": "ger.1",
             "league_name": "Bundesliga",
@@ -2431,21 +2386,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
             "clock": "",
             "venue": "Weserstadion"
-        },
-        {
-            "match_no": 401874957,
-            "league_id": "ita.1",
-            "league_name": "Serie A",
-            "league_rank": 4,
-            "team": "Torino vs Monza",
-            "date": "2026-10-23",
-            "time": "18:45",
-            "status": "ft",
-            "score": "3 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-            "clock": "FT",
-            "venue": "Stadio Olimpico Grande Torino"
         },
         {
             "match_no": 401874958,
@@ -3166,21 +3106,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
             "clock": "",
             "venue": "New Balance Arena"
-        },
-        {
-            "match_no": 401876428,
-            "league_id": "fra.1",
-            "league_name": "Ligue 1",
-            "league_rank": 5,
-            "team": "Brest vs Nice",
-            "date": "2026-10-23",
-            "time": "18:45",
-            "status": "ft",
-            "score": "1 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-            "clock": "FT",
-            "venue": "Stade Francis-Le Blé"
         },
         {
             "match_no": 401876427,
@@ -3976,66 +3901,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png",
             "clock": "",
             "venue": "Estádio Dr. Magalhaes Pessoa"
-        },
-        {
-            "match_no": 401900444,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Faisaly vs Al Nassr",
-            "date": "2026-10-23",
-            "time": "13:30",
-            "status": "ft",
-            "score": "1 - 3",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
-            "clock": "FT",
-            "venue": "Al Majma'a Sport City Stadium"
-        },
-        {
-            "match_no": 401900890,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Ittihad vs Al Diriyah",
-            "date": "2026-10-23",
-            "time": "15:30",
-            "status": "ft",
-            "score": "2 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
-            "clock": "FT",
-            "venue": "King Abdullah Sports City"
-        },
-        {
-            "match_no": 401900892,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Ahli vs Al Khaleej",
-            "date": "2026-10-23",
-            "time": "18:00",
-            "status": "ft",
-            "score": "4 - 1",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-            "clock": "FT",
-            "venue": "Prince Abdullah Al-Faisal Stadium"
-        },
-        {
-            "match_no": 401900888,
-            "league_id": "ksa.1",
-            "league_name": "Saudi Pro League",
-            "league_rank": 7,
-            "team": "Al Qadsiah vs Al Hilal",
-            "date": "2026-10-23",
-            "time": "18:00",
-            "status": "ft",
-            "score": "2 - 3",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
-            "clock": "FT",
-            "venue": "Prince Mohammed Bin Fahd Stadium"
         },
         {
             "match_no": 401900886,
@@ -5388,21 +5253,6 @@
             "venue": "Lumen Field"
         },
         {
-            "match_no": 401875574,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "Go Ahead Eagles vs Telstar",
-            "date": "2026-10-23",
-            "time": "18:00",
-            "status": "ft",
-            "score": "3 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
-            "clock": "FT",
-            "venue": "De Adelaarshorst"
-        },
-        {
             "match_no": 401875573,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -5928,21 +5778,6 @@
             "venue": "De Adelaarshorst"
         },
         {
-            "match_no": 401885412,
-            "league_id": "por.1",
-            "league_name": "Liga Portugal",
-            "league_rank": 12,
-            "team": "Vitória de Guimaraes vs Maritimo",
-            "date": "2026-10-23",
-            "time": "19:45",
-            "status": "ft",
-            "score": "5 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
-            "clock": "FT",
-            "venue": "Estádio D. Afonso Henriques"
-        },
-        {
             "match_no": 401885419,
             "league_id": "por.1",
             "league_name": "Liga Portugal",
@@ -6331,21 +6166,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
             "clock": "",
             "venue": "Estádio do Rio Ave"
-        },
-        {
-            "match_no": 401888268,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Alanyaspor vs Kocaelispor",
-            "date": "2026-10-23",
-            "time": "17:00",
-            "status": "ft",
-            "score": "1 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
-            "clock": "FT",
-            "venue": "Kirbiyik Holding Stadyumu"
         },
         {
             "match_no": 401888269,
@@ -6856,21 +6676,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png",
             "clock": "",
             "venue": "Papara Park"
-        },
-        {
-            "match_no": 401841287,
-            "league_id": "bra.1",
-            "league_name": "Serie A Brazil",
-            "league_rank": 14,
-            "team": "Cruzeiro vs Remo",
-            "date": "2026-10-23",
-            "time": "23:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-            "clock": "",
-            "venue": "Estadio Mineirão"
         },
         {
             "match_no": 401841285,
@@ -7591,36 +7396,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
             "clock": "",
             "venue": "Estádio Vila Belmiro (Urbano Caldeira)"
-        },
-        {
-            "match_no": 401841638,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Gimnasia La Plata vs Sarmiento (Junín)",
-            "date": "2026-10-23",
-            "time": "21:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10158.png",
-            "clock": "",
-            "venue": "Juan Carmelo Zerillo (El Bosque)"
-        },
-        {
-            "match_no": 401841637,
-            "league_id": "arg.1",
-            "league_name": "Argentine Primera",
-            "league_rank": 15,
-            "team": "Gimnasia (Mendoza) vs Platense",
-            "date": "2026-10-23",
-            "time": "21:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
-            "clock": "",
-            "venue": "Estadio Víctor Antonio Legrotaglie"
         },
         {
             "match_no": 401841643,
@@ -9766,21 +9541,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
             "clock": "",
             "venue": "Estadio Corregidora"
-        },
-        {
-            "match_no": 401880207,
-            "league_id": "eng.2",
-            "league_name": "Championship",
-            "league_rank": 22,
-            "team": "Bolton Wanderers vs Middlesbrough",
-            "date": "2026-10-23",
-            "time": "19:00",
-            "status": "ft",
-            "score": "1 - 5",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
-            "clock": "FT",
-            "venue": "Toughsheet Community Stadium"
         },
         {
             "match_no": 401880205,
