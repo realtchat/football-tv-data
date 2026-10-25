@@ -438,21 +438,6 @@
     },
     "matches": [
         {
-            "match_no": 401875566,
-            "league_id": "ned.1",
-            "league_name": "Eredivisie",
-            "league_rank": 11,
-            "team": "AZ Alkmaar vs FC Twente",
-            "date": "2026-10-25",
-            "time": "19:00",
-            "status": "in",
-            "score": "0 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-            "clock": "HT",
-            "venue": "AFAS Stadion"
-        },
-        {
             "match_no": 401841283,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -1420,11 +1405,11 @@
             "team": "Barcelona vs Real Madrid",
             "date": "2026-10-25",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Spotify Camp Nou"
         },
         {
@@ -2530,11 +2515,11 @@
             "team": "Udinese vs AC Milan",
             "date": "2026-10-25",
             "time": "19:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Friuli"
         },
         {
@@ -5373,6 +5358,21 @@
             "venue": "Sparta-Stadion Het Kasteel"
         },
         {
+            "match_no": 401875566,
+            "league_id": "ned.1",
+            "league_name": "Eredivisie",
+            "league_rank": 11,
+            "team": "AZ Alkmaar vs FC Twente",
+            "date": "2026-10-25",
+            "time": "19:00",
+            "status": "ft",
+            "score": "0 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
+            "clock": "FT",
+            "venue": "AFAS Stadion"
+        },
+        {
             "match_no": 401875565,
             "league_id": "ned.1",
             "league_name": "Eredivisie",
@@ -5845,11 +5845,11 @@
             "team": "C.D. Nacional vs Braga",
             "date": "2026-10-25",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio da Madeira"
         },
         {
@@ -5860,11 +5860,11 @@
             "team": "Rio Ave vs FC Famalicao",
             "date": "2026-10-25",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio do Rio Ave"
         },
         {
@@ -7495,11 +7495,11 @@
             "team": "Independiente vs Boca Juniors",
             "date": "2026-10-25",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio Libertadores de América"
         },
         {
