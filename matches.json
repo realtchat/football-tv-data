@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401912642,
+            "league_id": "afc.champions",
+            "league_name": "AFC Champions League",
+            "league_rank": 16,
+            "team": "Al Ain vs Tractor",
+            "date": "2026-10-26",
+            "time": "16:00",
+            "status": "in",
+            "score": "1 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7128.png",
+            "teamB_logo": "",
+            "clock": "67'",
+            "venue": "Hazza Bin Zayed Stadium"
+        },
+        {
             "match_no": 401915311,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -7330,11 +7345,11 @@
             "team": "Neftchi Fergana vs Al Ittihad",
             "date": "2026-10-26",
             "time": "13:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Istiqlol Stadium"
         },
         {
@@ -7351,21 +7366,6 @@
             "teamB_logo": "https://a.espncdn.com/guid/a0ee48aa-0d67-c802-ac49-7492db10d894/logos/default.png",
             "clock": "",
             "venue": "King Abdullah Sports City"
-        },
-        {
-            "match_no": 401912642,
-            "league_id": "afc.champions",
-            "league_name": "AFC Champions League",
-            "league_rank": 16,
-            "team": "Al Ain vs Tractor",
-            "date": "2026-10-26",
-            "time": "16:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7128.png",
-            "teamB_logo": "",
-            "clock": "",
-            "venue": "Hazza Bin Zayed Stadium"
         },
         {
             "match_no": 401912641,
