@@ -3595,11 +3595,11 @@
             "team": "Abha vs Al Faisaly",
             "date": "2026-10-27",
             "time": "12:40",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Prince Sultan bin Abdulaziz Sports City Stadium"
         },
         {
@@ -7135,11 +7135,11 @@
             "team": "Beijing Guoan vs Jeonbuk Hyundai Motors",
             "date": "2026-10-27",
             "time": "12:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2052.png",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Workers' Stadium"
         },
         {
@@ -7150,11 +7150,11 @@
             "team": "Ratchaburi FC vs Kashiwa Reysol",
             "date": "2026-10-27",
             "time": "12:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17760.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7476.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Dragon Solar Park"
         },
         {
@@ -7165,11 +7165,11 @@
             "team": "Shabab Al Ahli vs Esteghlal FC",
             "date": "2026-10-27",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "",
             "teamB_logo": "",
-            "clock": "",
+            "clock": "FT",
             "venue": "Rashid Stadium"
         },
         {
