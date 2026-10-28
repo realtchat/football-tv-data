@@ -2350,11 +2350,11 @@
             "team": "Parma vs Udinese",
             "date": "2026-10-28",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Ennio Tardini"
         },
         {
