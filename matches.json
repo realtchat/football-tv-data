@@ -6925,11 +6925,11 @@
             "team": "Gamba Osaka vs Buriram United",
             "date": "2026-10-28",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7102.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7138.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Suita City Football Stadium"
         },
         {
@@ -6940,11 +6940,11 @@
             "team": "Kashima Antlers vs Pohang Steelers",
             "date": "2026-10-28",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7115.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9693.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Kashima Soccer Stadium"
         },
         {
