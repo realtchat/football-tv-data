@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401874969,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Fiorentina vs Atalanta",
+            "date": "2026-10-29",
+            "time": "19:45",
+            "status": "in",
+            "score": "0 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+            "clock": "HT",
+            "venue": "Stadio Artemio Franchi"
+        },
+        {
             "match_no": 401841289,
             "league_id": "bra.1",
             "league_name": "Serie A Brazil",
@@ -2410,27 +2425,12 @@
             "team": "Frosinone vs Lecce",
             "date": "2026-10-29",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Benito Stirpe"
-        },
-        {
-            "match_no": 401874969,
-            "league_id": "ita.1",
-            "league_name": "Serie A",
-            "league_rank": 4,
-            "team": "Fiorentina vs Atalanta",
-            "date": "2026-10-29",
-            "time": "19:45",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-            "clock": "",
-            "venue": "Stadio Artemio Franchi"
         },
         {
             "match_no": 401874798,
@@ -3565,11 +3565,11 @@
             "team": "Al Khaleej vs Al Hazem",
             "date": "2026-10-29",
             "time": "14:35",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Prince Mohammed Bin Fahd Stadium"
         },
         {
@@ -3580,11 +3580,11 @@
             "team": "Al Nassr vs Al Kholood",
             "date": "2026-10-29",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 3",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Awwal Park"
         },
         {
@@ -3595,11 +3595,11 @@
             "team": "Al Riyadh vs Al Qadsiah",
             "date": "2026-10-29",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 6",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Shabab Club Stadium"
         },
         {
