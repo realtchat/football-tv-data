@@ -1450,11 +1450,11 @@
             "team": "Villarreal vs Espanyol",
             "date": "2026-10-30",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio de la Cerámica"
         },
         {
@@ -1900,11 +1900,11 @@
             "team": "SV Elversberg vs Mainz",
             "date": "2026-10-30",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "URSAPHARM-Arena an der Kaiserlinde"
         },
         {
@@ -2770,11 +2770,11 @@
             "team": "Le Havre AC vs Paris Saint-Germain",
             "date": "2026-10-30",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 5",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Océane"
         },
         {
@@ -2785,11 +2785,11 @@
             "team": "Nice vs Stade Rennais",
             "date": "2026-10-30",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "5 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Allianz Riviera"
         },
         {
@@ -2800,11 +2800,11 @@
             "team": "Lille vs Lens",
             "date": "2026-10-30",
             "time": "20:05",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Decathlon Arena - Stade Pierre-Mauroy"
         },
         {
@@ -3520,11 +3520,11 @@
             "team": "Al Shabab vs Al Ahli",
             "date": "2026-10-30",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "6 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Shabab Club Stadium"
         },
         {
@@ -4840,11 +4840,11 @@
             "team": "Casa Pia vs Sporting CP",
             "date": "2026-10-30",
             "time": "20:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Municipal de Rio Maior"
         },
         {
@@ -5110,11 +5110,11 @@
             "team": "Konyaspor vs Galatasaray",
             "date": "2026-10-30",
             "time": "17:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Medas Konya Büyüksehir Stadyumu"
         },
         {
@@ -7930,11 +7930,11 @@
             "team": "Sheffield United vs Wrexham",
             "date": "2026-10-30",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Bramall Lane"
         },
         {
