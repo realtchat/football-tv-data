@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401888256,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Gaziantep FK vs Kasimpasa",
+            "date": "2026-11-06",
+            "time": "17:00",
+            "status": "in",
+            "score": "0 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
+            "clock": "HT",
+            "venue": "Gaziantep Stadium"
+        },
+        {
             "match_no": 401915380,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -5476,21 +5491,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
             "clock": "",
             "venue": "Estádio Municipal de Braga"
-        },
-        {
-            "match_no": 401888256,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Gaziantep FK vs Kasimpasa",
-            "date": "2026-11-06",
-            "time": "17:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-            "clock": "",
-            "venue": "Gaziantep Stadium"
         },
         {
             "match_no": 401888255,
