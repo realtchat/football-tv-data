@@ -438,21 +438,6 @@
     },
     "matches": [
         {
-            "match_no": 401888256,
-            "league_id": "tur.1",
-            "league_name": "Turkish Süper Lig",
-            "league_rank": 13,
-            "team": "Gaziantep FK vs Kasimpasa",
-            "date": "2026-11-06",
-            "time": "17:00",
-            "status": "in",
-            "score": "0 - 2",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-            "clock": "HT",
-            "venue": "Gaziantep Stadium"
-        },
-        {
             "match_no": 401915380,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -730,11 +715,11 @@
             "team": "Everton vs Coventry City",
             "date": "2026-11-06",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Hill Dickinson Stadium"
         },
         {
@@ -1435,11 +1420,11 @@
             "team": "Sevilla vs Alavés",
             "date": "2026-11-06",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Ramón Sánchez Pizjuán Stadium"
         },
         {
@@ -1885,11 +1870,11 @@
             "team": "Hamburg SV vs Borussia Mönchengladbach",
             "date": "2026-11-06",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Volksparkstadion"
         },
         {
@@ -2395,11 +2380,11 @@
             "team": "Venezia vs Udinese",
             "date": "2026-11-06",
             "time": "19:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadio Pier Luigi Penzo"
         },
         {
@@ -2905,11 +2890,11 @@
             "team": "Toulouse vs Strasbourg",
             "date": "2026-11-06",
             "time": "19:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadium Municipal de Toulouse"
         },
         {
@@ -4690,11 +4675,11 @@
             "team": "Willem II vs PEC Zwolle",
             "date": "2026-11-06",
             "time": "19:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Koning Willem II Stadion"
         },
         {
@@ -5170,11 +5155,11 @@
             "team": "FC Famalicao vs Arouca",
             "date": "2026-11-06",
             "time": "20:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estádio Municipal 22 de Junho"
         },
         {
@@ -5491,6 +5476,21 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
             "clock": "",
             "venue": "Estádio Municipal de Braga"
+        },
+        {
+            "match_no": 401888256,
+            "league_id": "tur.1",
+            "league_name": "Turkish Süper Lig",
+            "league_rank": 13,
+            "team": "Gaziantep FK vs Kasimpasa",
+            "date": "2026-11-06",
+            "time": "17:00",
+            "status": "ft",
+            "score": "0 - 2",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
+            "clock": "FT",
+            "venue": "Gaziantep Stadium"
         },
         {
             "match_no": 401888255,
@@ -6670,11 +6670,11 @@
             "team": "Barracas Central vs Racing Club",
             "date": "2026-11-06",
             "time": "18:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio Claudio Chiqui Tapia"
         },
         {
@@ -8095,11 +8095,11 @@
             "team": "Derby County vs Bolton Wanderers",
             "date": "2026-11-06",
             "time": "20:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/374.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Pride Park"
         },
         {
