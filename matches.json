@@ -6690,7 +6690,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Diego Armando Maradona"
         },
         {
             "match_no": 401933757,
@@ -6705,7 +6705,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Alberto José Armando (La Bombonera)"
         },
         {
             "match_no": 401933758,
@@ -6720,7 +6720,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Norberto Tomaghello"
         },
         {
             "match_no": 401933756,
@@ -6735,7 +6735,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Juan Carmelo Zerillo (El Bosque)"
         },
         {
             "match_no": 401933762,
@@ -6750,7 +6750,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Monumental Presidente Perón"
         },
         {
             "match_no": 401933761,
@@ -6765,7 +6765,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Estadio Más Monumental"
         },
         {
             "match_no": 401933759,
@@ -6780,7 +6780,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Gigante de Arroyito"
         },
         {
             "match_no": 401933760,
@@ -6795,7 +6795,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "José Amalfitani"
         },
         {
             "match_no": 401912612,
@@ -8049,7 +8049,7 @@
             "league_rank": 21,
             "team": "Pachuca vs Toluca",
             "date": "2026-11-21",
-            "time": "23:00",
+            "time": "22:50",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
