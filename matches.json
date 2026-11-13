@@ -7128,21 +7128,6 @@
             "venue": "Prince Abdullah Al-Faisal Stadium"
         },
         {
-            "match_no": 401930244,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Vietnam vs Chinese Taipei",
-            "date": "2026-11-11",
-            "time": "12:00",
-            "status": "ft",
-            "score": "2 - 0",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/vie.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/14561.png",
-            "clock": "FT",
-            "venue": "Thien Truong Stadium"
-        },
-        {
             "match_no": 401906458,
             "league_id": "fifa.friendly",
             "league_name": "International Friendlies",
@@ -7380,7 +7365,7 @@
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/tah.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/cok.png",
             "clock": "",
-            "venue": "TBD"
+            "venue": "Stade Louis Ganivet"
         },
         {
             "match_no": 401930879,
@@ -7464,7 +7449,7 @@
             "league_rank": 20,
             "team": "New Zealand vs India",
             "date": "2026-11-15",
-            "time": "03:10",
+            "time": "03:00",
             "status": "pre",
             "score": "VS",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
