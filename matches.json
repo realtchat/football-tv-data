@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401931476,
+            "league_id": "fifa.friendly",
+            "league_name": "International Friendlies",
+            "league_rank": 20,
+            "team": "Saudi Arabia vs South Korea",
+            "date": "2026-11-13",
+            "time": "14:30",
+            "status": "in",
+            "score": "1 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+            "clock": "HT",
+            "venue": "Jassim Bin Hamad Stadium"
+        },
+        {
             "match_no": 401915380,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -7195,11 +7210,11 @@
             "team": "Singapore vs Paraguay",
             "date": "2026-11-13",
             "time": "12:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sin.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Singapore National Stadium"
         },
         {
@@ -7216,21 +7231,6 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/hon.png",
             "clock": "",
             "venue": "Mohammed bin Zayed Stadium"
-        },
-        {
-            "match_no": 401931476,
-            "league_id": "fifa.friendly",
-            "league_name": "International Friendlies",
-            "league_rank": 20,
-            "team": "Saudi Arabia vs South Korea",
-            "date": "2026-11-13",
-            "time": "14:30",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
-            "clock": "",
-            "venue": "Jassim Bin Hamad Stadium"
         },
         {
             "match_no": 401919978,
