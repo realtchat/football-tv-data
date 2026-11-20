@@ -2380,11 +2380,11 @@
             "team": "Bayern Munich vs FC Cologne",
             "date": "2026-11-20",
             "time": "19:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Allianz Arena"
         },
         {
@@ -4600,11 +4600,11 @@
             "team": "Al Ahli vs Al Nassr",
             "date": "2026-11-20",
             "time": "17:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "King Abdullah Sports City"
         },
         {
