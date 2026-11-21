@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401874967,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "Parma vs AS Roma",
+            "date": "2026-11-21",
+            "time": "17:00",
+            "status": "in",
+            "score": "0 - 0",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+            "clock": "39'",
+            "venue": "Ennio Tardini"
+        },
+        {
             "match_no": 401915380,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -985,11 +1000,11 @@
             "team": "Manchester City vs Fulham",
             "date": "2026-11-21",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Etihad Stadium"
         },
         {
@@ -1000,11 +1015,11 @@
             "team": "AFC Bournemouth vs Nottingham Forest",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Vitality Stadium"
         },
         {
@@ -1015,11 +1030,11 @@
             "team": "Aston Villa vs Sunderland",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Villa Park"
         },
         {
@@ -1030,11 +1045,11 @@
             "team": "Chelsea vs Leeds United",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stamford Bridge"
         },
         {
@@ -1045,11 +1060,11 @@
             "team": "Coventry City vs Crystal Palace",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Coventry Building Society Arena"
         },
         {
@@ -1060,11 +1075,11 @@
             "team": "Tottenham Hotspur vs Ipswich Town",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Tottenham Hotspur Stadium"
         },
         {
@@ -1750,11 +1765,11 @@
             "team": "Alavés vs Deportivo",
             "date": "2026-11-21",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Mendizorrotza"
         },
         {
@@ -1765,11 +1780,11 @@
             "team": "Rayo Vallecano vs Valencia",
             "date": "2026-11-21",
             "time": "15:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Estadio de Vallecas"
         },
         {
@@ -2395,11 +2410,11 @@
             "team": "1. FC Union Berlin vs RB Leipzig",
             "date": "2026-11-21",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 5",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stadion An der Alten Försterei"
         },
         {
@@ -2410,11 +2425,11 @@
             "team": "Bayer Leverkusen vs SC Paderborn 07",
             "date": "2026-11-21",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "BayArena"
         },
         {
@@ -2425,11 +2440,11 @@
             "team": "Borussia Mönchengladbach vs Borussia Dortmund",
             "date": "2026-11-21",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "BORUSSIA-PARK"
         },
         {
@@ -2440,11 +2455,11 @@
             "team": "Eintracht Frankfurt vs TSG Hoffenheim",
             "date": "2026-11-21",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Deutsche Bank Park"
         },
         {
@@ -2455,11 +2470,11 @@
             "team": "SV Elversberg vs SC Freiburg",
             "date": "2026-11-21",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "URSAPHARM-Arena an der Kaiserlinde"
         },
         {
@@ -2920,11 +2935,11 @@
             "team": "Como vs Cagliari",
             "date": "2026-11-21",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Giuseppe Sinigaglia"
         },
         {
@@ -2935,27 +2950,12 @@
             "team": "Lazio vs Lecce",
             "date": "2026-11-21",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Olimpico"
-        },
-        {
-            "match_no": 401874967,
-            "league_id": "ita.1",
-            "league_name": "Serie A",
-            "league_rank": 4,
-            "team": "Parma vs AS Roma",
-            "date": "2026-11-21",
-            "time": "17:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-            "clock": "",
-            "venue": "Ennio Tardini"
         },
         {
             "match_no": 401875067,
@@ -5560,11 +5560,11 @@
             "team": "NEC Nijmegen vs PSV Eindhoven",
             "date": "2026-11-21",
             "time": "15:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Goffertstadion"
         },
         {
@@ -6490,11 +6490,11 @@
             "team": "Genclerbirligi vs Gaziantep FK",
             "date": "2026-11-21",
             "time": "10:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Eryaman Stadium"
         },
         {
@@ -6505,11 +6505,11 @@
             "team": "Amed SFK vs Caykur Rizespor",
             "date": "2026-11-21",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Diyarbakir Stadyumu"
         },
         {
@@ -6520,11 +6520,11 @@
             "team": "Galatasaray vs Samsunspor",
             "date": "2026-11-21",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Basaksehir Fatih Terim Stadium"
         },
         {
@@ -8275,11 +8275,11 @@
             "team": "Millwall vs Queens Park Rangers",
             "date": "2026-11-21",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/391.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "The Den"
         },
         {
@@ -8290,11 +8290,11 @@
             "team": "Norwich City vs Cardiff City",
             "date": "2026-11-21",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/347.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Carrow Road"
         },
         {
@@ -8305,11 +8305,11 @@
             "team": "Southampton vs Derby County",
             "date": "2026-11-21",
             "time": "12:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/374.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "St. Mary's Stadium"
         },
         {
@@ -8320,11 +8320,11 @@
             "team": "Bolton Wanderers vs Portsmouth",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/385.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Toughsheet Community Stadium"
         },
         {
@@ -8335,11 +8335,11 @@
             "team": "Lincoln City vs Wrexham",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/314.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "LNER Stadium"
         },
         {
@@ -8350,11 +8350,11 @@
             "team": "Middlesbrough vs Bristol City",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/333.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Riverside Stadium"
         },
         {
@@ -8365,11 +8365,11 @@
             "team": "Sheffield United vs Watford",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/395.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Bramall Lane"
         },
         {
@@ -8380,11 +8380,11 @@
             "team": "Stoke City vs Birmingham City",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/336.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "bet365 Stadium"
         },
         {
@@ -8395,11 +8395,11 @@
             "team": "Swansea City vs West Bromwich Albion",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/318.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Swansea.com Stadium"
         },
         {
@@ -8410,11 +8410,11 @@
             "team": "West Ham United vs Preston North End",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/394.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "London Stadium"
         },
         {
@@ -8425,11 +8425,11 @@
             "team": "Wolverhampton Wanderers vs Charlton Athletic",
             "date": "2026-11-21",
             "time": "15:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Molineux Stadium"
         },
         {
