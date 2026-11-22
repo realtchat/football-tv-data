@@ -438,6 +438,21 @@
     },
     "matches": [
         {
+            "match_no": 401874989,
+            "league_id": "ita.1",
+            "league_name": "Serie A",
+            "league_rank": 4,
+            "team": "AC Milan vs Frosinone",
+            "date": "2026-11-22",
+            "time": "17:00",
+            "status": "in",
+            "score": "2 - 1",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+            "clock": "HT",
+            "venue": "San Siro"
+        },
+        {
             "match_no": 401915380,
             "league_id": "uefa.champions",
             "league_name": "UEFA Champions League",
@@ -1090,11 +1105,11 @@
             "team": "Hull City vs Brighton & Hove Albion",
             "date": "2026-11-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "The MKM Stadium"
         },
         {
@@ -1795,11 +1810,11 @@
             "team": "Barcelona vs Villarreal",
             "date": "2026-11-22",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Spotify Camp Nou"
         },
         {
@@ -1810,11 +1825,11 @@
             "team": "Racing Santander vs Real Sociedad",
             "date": "2026-11-22",
             "time": "15:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "El Sardineros"
         },
         {
@@ -2455,11 +2470,11 @@
             "team": "FC Augsburg vs Mainz",
             "date": "2026-11-22",
             "time": "14:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "WWK Arena"
         },
         {
@@ -2950,11 +2965,11 @@
             "team": "Juventus vs Venezia",
             "date": "2026-11-22",
             "time": "11:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Allianz Stadium"
         },
         {
@@ -2965,11 +2980,11 @@
             "team": "Bologna vs Udinese",
             "date": "2026-11-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Renato Dall'Ara"
         },
         {
@@ -2980,27 +2995,12 @@
             "team": "Sassuolo vs Genoa",
             "date": "2026-11-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Mapei Stadium"
-        },
-        {
-            "match_no": 401874989,
-            "league_id": "ita.1",
-            "league_name": "Serie A",
-            "league_rank": 4,
-            "team": "AC Milan vs Frosinone",
-            "date": "2026-11-22",
-            "time": "17:00",
-            "status": "pre",
-            "score": "VS",
-            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
-            "clock": "",
-            "venue": "San Siro"
         },
         {
             "match_no": 401875001,
@@ -3565,11 +3565,11 @@
             "team": "Paris FC vs Angers",
             "date": "2026-11-22",
             "time": "14:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "4 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Stade Jean Bouin"
         },
         {
@@ -5545,11 +5545,11 @@
             "team": "FC Twente vs Willem II",
             "date": "2026-11-22",
             "time": "11:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "De Grolsch Veste"
         },
         {
@@ -5560,11 +5560,11 @@
             "team": "Ajax Amsterdam vs ADO Den Haag",
             "date": "2026-11-22",
             "time": "13:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Johan Cruijff Arena"
         },
         {
@@ -5575,11 +5575,11 @@
             "team": "Sparta Rotterdam vs AZ Alkmaar",
             "date": "2026-11-22",
             "time": "13:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 5",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Sparta-Stadion Het Kasteel"
         },
         {
@@ -5590,11 +5590,11 @@
             "team": "Go Ahead Eagles vs Fortuna Sittard",
             "date": "2026-11-22",
             "time": "15:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "De Adelaarshorst"
         },
         {
@@ -6460,11 +6460,11 @@
             "team": "Erzurum BB vs Goztepe",
             "date": "2026-11-22",
             "time": "10:30",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "0 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Erzurum Kazim Karabekir"
         },
         {
@@ -6475,11 +6475,11 @@
             "team": "Kasimpasa vs Alanyaspor",
             "date": "2026-11-22",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Recep Tayyip Erdogan Stadium"
         },
         {
@@ -6490,11 +6490,11 @@
             "team": "Konyaspor vs Besiktas",
             "date": "2026-11-22",
             "time": "13:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 4",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Medas Konya Büyüksehir Stadyumu"
         },
         {
@@ -6505,11 +6505,11 @@
             "team": "Trabzonspor vs Eyupspor",
             "date": "2026-11-22",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Papara Park"
         },
         {
@@ -8320,11 +8320,11 @@
             "team": "Burnley vs Blackburn Rovers",
             "date": "2026-11-22",
             "time": "12:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/365.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Turf Moor"
         },
         {
