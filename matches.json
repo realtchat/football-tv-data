@@ -7510,11 +7510,11 @@
             "team": "Newcastle Jets vs Kashiwa Reysol",
             "date": "2026-11-24",
             "time": "07:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 2",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5323.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7476.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Central Coast Stadium"
         },
         {
@@ -7966,6 +7966,36 @@
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
             "clock": "",
             "venue": "Estadio Corregidora"
+        },
+        {
+            "match_no": 401931986,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Toluca vs Atlas",
+            "date": "2026-11-26",
+            "time": "01:00",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
+            "clock": "",
+            "venue": "Estadio Nemesio Díez Riega"
+        },
+        {
+            "match_no": 401931998,
+            "league_id": "mex.1",
+            "league_name": "Liga MX",
+            "league_rank": 21,
+            "team": "Monterrey vs América",
+            "date": "2026-11-26",
+            "time": "03:10",
+            "status": "pre",
+            "score": "VS",
+            "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
+            "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
+            "clock": "",
+            "venue": "Estadio BBVA"
         },
         {
             "match_no": 401880148,
