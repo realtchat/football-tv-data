@@ -445,11 +445,11 @@
             "team": "Bodo/Glimt vs LASK Linz",
             "date": "2026-11-24",
             "time": "17:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Aspmyra Stadion"
         },
         {
@@ -460,11 +460,11 @@
             "team": "Galatasaray vs Aston Villa",
             "date": "2026-11-24",
             "time": "17:45",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "RAMS Park"
         },
         {
@@ -7525,11 +7525,11 @@
             "team": "Daejeon Hana Citizen FC vs Beijing Guoan",
             "date": "2026-11-24",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 2",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2052.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Daejeon World Cup Stadium"
         },
         {
@@ -7540,11 +7540,11 @@
             "team": "Kyoto Sanga vs Pohang Steelers",
             "date": "2026-11-24",
             "time": "10:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 0",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21361.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9693.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Sanga Stadium by Kyocera"
         },
         {
@@ -7555,11 +7555,11 @@
             "team": "Cong An Ha Noi vs Vissel Kobe",
             "date": "2026-11-24",
             "time": "12:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7477.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Háng Day Stadium"
         },
         {
@@ -7570,11 +7570,11 @@
             "team": "Ratchaburi FC vs Johor Darul Ta'zim",
             "date": "2026-11-24",
             "time": "12:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17760.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17689.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Dragon Solar Park"
         },
         {
@@ -7585,11 +7585,11 @@
             "team": "Shanghai Port FC vs Buriram United",
             "date": "2026-11-24",
             "time": "12:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "3 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15515.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7138.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "SAIC Motor Pudong Arena"
         },
         {
@@ -7600,11 +7600,11 @@
             "team": "Shabab Al Ahli vs Al Qadsiah",
             "date": "2026-11-24",
             "time": "16:00",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "1 - 5",
             "teamA_logo": "",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Rashid Stadium"
         },
         {
@@ -7615,11 +7615,11 @@
             "team": "Al Nassr vs Al Sadd",
             "date": "2026-11-24",
             "time": "18:15",
-            "status": "pre",
-            "score": "VS",
+            "status": "ft",
+            "score": "2 - 1",
             "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
             "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7135.png",
-            "clock": "",
+            "clock": "FT",
             "venue": "Al-Awwal Park"
         },
         {
